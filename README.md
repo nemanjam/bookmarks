@@ -157,6 +157,7 @@
 #### Databases
 
 - https://sqlflow.gudusoft.com/#/
+- https://www.garrickadenbuie.com/project/tidyexplain
 
 ---
 
