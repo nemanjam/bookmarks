@@ -145,6 +145,7 @@
 - https://github.com/testjavascript/nodejs-integration-tests-best-practices
 - https://github.com/typicode/lowdb
 - https://www.youtube.com/watch?v=Zgx0o8QjJk4
+- https://pmbanugo.me/
 
 #### Serverless
 
