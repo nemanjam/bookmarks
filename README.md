@@ -59,6 +59,7 @@
 - https://taplink.cc/javascriptmastery/p/7fb4d6/
 - https://learnxinyminutes.com/
 - https://roadmap.sh/pdfs
+- https://cheat.readthedocs.io/en/latest/index.html
 
 #### Utils
 
