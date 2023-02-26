@@ -16,7 +16,7 @@
   - [Website templates](#website-templates)
 - [Backend](#backend)
   - [Node.js](#nodejs)
-  - [Serverless](#react)
+  - [Serverless](#serverless)
   - [Python](#python)
   - [Databases](#databases)
 - [Software engineering](#software-engineering)
@@ -152,6 +152,7 @@
 #### Serverless
 
 - https://github.com/serverless-nextjs/serverless-next.js
+- https://github.com/serverless-stack/sst
 
 #### Python
 
