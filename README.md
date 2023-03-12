@@ -52,6 +52,7 @@
 #### Blogs
 
 - https://indepth.dev/react
+- https://blog.bytebytego.com/
 
 #### Cheatsheets
 
