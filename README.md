@@ -72,6 +72,8 @@
 - https://github.com/sherlock-project/sherlock
 - https://github.com/Z4nzu/hackingtool
 - https://raindrop.io/
+- https://github.com/whoiskatrin/sql-translator
+- https://github.com/cogentapps/chat-with-gpt
 
 #### Links
 
