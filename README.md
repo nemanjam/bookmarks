@@ -74,6 +74,7 @@
 - https://raindrop.io/
 - https://github.com/whoiskatrin/sql-translator
 - https://github.com/cogentapps/chat-with-gpt
+- https://app.wayscript.com
 
 #### Links
 
