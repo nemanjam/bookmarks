@@ -67,6 +67,7 @@
 #### Utils
 
 - https://www.photopea.com/
+- https://veed.io
 - https://www.cellmapper.net/
 - https://texteditor.com/bold-text/
 - https://github.com/sherlock-project/sherlock
