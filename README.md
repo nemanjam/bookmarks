@@ -166,6 +166,7 @@
 
 - https://intellipaat.com/blog/interview-question/python-interview-questions/
 - https://github.com/metafy-social/python-scripts/tree/master/scripts
+- https://realpython.com/learning-paths/perfect-your-python-development-setup/
 
 #### Databases
 
