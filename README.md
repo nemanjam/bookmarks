@@ -200,7 +200,8 @@
 
 #### ML/AI
 
--https://karpathy.ai/zero-to-hero.html
+- https://karpathy.ai/zero-to-hero.html
+- https://www.youtube.com/watch?v=7q_OJvQQ7vY
 
 ---
 
