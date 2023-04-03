@@ -23,6 +23,7 @@
   - [Architecture](#architecture)
   - [Clean code](#clean-code)
   - [Testing](#testing)
+  - [ML/AI](#ml-ai)
 - [DevOps](#devops)
   - [DevOps](#devops)
   - [Linux](#linux)
@@ -196,6 +197,10 @@
 #### Testing
 
 - https://glebbahmutov.com/blog/cypress-skills-ladder/
+
+#### ML/AI
+
+-https://karpathy.ai/zero-to-hero.html
 
 ---
 
