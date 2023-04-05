@@ -99,6 +99,7 @@
 - https://www.patterns.dev/
 - https://learnjavascript.online/?utm_source=jadjoubran.io
 - https://github.com/sadanandpai/javascript-code-challenges
+- https://www.youtube.com/playlist?list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB
 
 #### React
 
