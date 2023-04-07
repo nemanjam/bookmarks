@@ -204,6 +204,7 @@
 - https://karpathy.ai/zero-to-hero.html
 - https://www.youtube.com/watch?v=7q_OJvQQ7vY
 - https://realpython.com/learning-paths/machine-learning-python/
+- https://github.com/SkalskiP/courses
 
 ---
 
