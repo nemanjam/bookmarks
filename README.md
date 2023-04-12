@@ -104,6 +104,7 @@
 #### React
 
 - https://alexsidorenko.com/
+- https://react.gg/ - React visualized
 - https://dev.to/fkkarakurt/planning-a-react-application-3pe4?utm_source=dormosheio&utm_campaign=dormosheio
 - https://alexsidorenko.com/blog/react-performance-slow-renders/
 - https://component-party.dev/
