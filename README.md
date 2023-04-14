@@ -170,6 +170,7 @@
 - https://intellipaat.com/blog/interview-question/python-interview-questions/
 - https://github.com/metafy-social/python-scripts/tree/master/scripts
 - https://realpython.com/learning-paths/perfect-your-python-development-setup/
+- https://github.com/hemansnation/Python-Roadmap
 
 #### Databases
 
@@ -206,6 +207,7 @@
 - https://www.youtube.com/watch?v=7q_OJvQQ7vY
 - https://realpython.com/learning-paths/machine-learning-python/
 - https://github.com/SkalskiP/courses
+- https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
 
 ---
 
