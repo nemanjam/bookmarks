@@ -171,6 +171,7 @@
 - https://github.com/metafy-social/python-scripts/tree/master/scripts
 - https://realpython.com/learning-paths/perfect-your-python-development-setup/
 - https://github.com/hemansnation/Python-Roadmap
+- https://realpython.com/python-mutable-vs-immutable-types/
 
 #### Databases
 
