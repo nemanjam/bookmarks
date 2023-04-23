@@ -172,6 +172,7 @@
 - https://realpython.com/learning-paths/perfect-your-python-development-setup/
 - https://github.com/hemansnation/Python-Roadmap
 - https://realpython.com/python-mutable-vs-immutable-types/
+- https://realpython.com/pointers-in-python/
 
 #### Databases
 
