@@ -121,6 +121,7 @@
 - https://www.developerway.com/posts/react-re-renders-guide
 - https://www.youtube.com/@hamedbahram/videos
 - https://dev.to/hixdev/software-project-checklist-4chb
+- https://www.youtube.com/@DaveGrayTeachesCode/playlists
 
 #### CSS
 
