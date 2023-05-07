@@ -226,6 +226,7 @@
 #### Linux
 
 - https://github.com/trinib/Linux-Bash-Commands
+- Linux file system https://www.youtube.com/watch?v=42iQKuQodW4
 
 #### Homelab
 
