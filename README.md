@@ -122,6 +122,7 @@
 - https://www.youtube.com/@hamedbahram/videos
 - https://dev.to/hixdev/software-project-checklist-4chb
 - https://www.youtube.com/@DaveGrayTeachesCode/playlists
+- https://github.com/gitdagray?tab=repositories&q=&type=&language=&sort=stargazers
 
 #### CSS
 
