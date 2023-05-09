@@ -123,6 +123,7 @@
 - https://dev.to/hixdev/software-project-checklist-4chb
 - https://www.youtube.com/@DaveGrayTeachesCode/playlists
 - https://github.com/gitdagray?tab=repositories&q=&type=&language=&sort=stargazers
+- Performance Fireship https://www.youtube.com/watch?v=0fONene3OIA
 
 #### CSS
 
