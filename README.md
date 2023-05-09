@@ -250,6 +250,7 @@
 
 - https://thehiveindex.com/topics/software-development/
 - https://github.com/AmruthPillai/Reactive-Resume
+- https://www.youtube.com/@alexhyettdev/playlists
 
 #### Business
 
