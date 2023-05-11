@@ -146,6 +146,7 @@
 - https://github.com/napthedev/toptop-clone
 - https://github.com/vietnam-devs/coolstore-microservices
 - https://github.com/misskey-dev/misskey
+- https://github.com/epicweb-dev/epic-stack
 
 #### Website templates
 
