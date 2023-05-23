@@ -148,6 +148,7 @@
 - https://github.com/vietnam-devs/coolstore-microservices
 - https://github.com/misskey-dev/misskey
 - https://github.com/epicweb-dev/epic-stack
+- https://github.com/Blazity/next-enterprise
 
 #### Website templates
 
