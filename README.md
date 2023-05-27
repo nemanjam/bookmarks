@@ -55,6 +55,7 @@
 - https://indepth.dev/react
 - https://blog.bytebytego.com/
 - https://buildui.com/
+- https://www.alexhyett.com/
 
 #### Cheatsheets
 
