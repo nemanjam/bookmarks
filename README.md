@@ -149,6 +149,7 @@
 - https://github.com/misskey-dev/misskey
 - https://github.com/epicweb-dev/epic-stack
 - https://github.com/Blazity/next-enterprise
+- https://github.com/strapi/nextjs-corporate-starter
 
 #### Website templates
 
