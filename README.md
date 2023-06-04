@@ -56,6 +56,7 @@
 - https://blog.bytebytego.com/
 - https://buildui.com/
 - https://www.alexhyett.com/
+- https://blog.pragmaticengineer.com/
 
 #### Cheatsheets
 
