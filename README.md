@@ -155,6 +155,7 @@
 - https://github.com/strapi/nextjs-corporate-startery
 - https://github.com/braydenwerner/t3-turbo-next-app-router
 - Project ideas https://github.com/practical-tutorials/project-based-learning
+- Next.js starter https://github.com/BearStudio/start-ui-web
 
 #### Website templates
 
