@@ -272,6 +272,7 @@
 
 - https://github.com/mtdvio/every-programmer-should-know
 - 5 technical interview types https://www.youtube.com/watch?v=BPYK4jD7koQ
+- playlist https://www.youtube.com/playlist?list=PLD7ZaVjV4w05WHTDooFprJzUJ8BBvoRaZ
 
 #### Algorithms and Data structures
 
