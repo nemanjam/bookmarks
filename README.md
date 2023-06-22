@@ -129,6 +129,7 @@
 - https://github.com/gitdagray?tab=repositories&q=&type=&language=&sort=stargazers
 - Performance Fireship https://www.youtube.com/watch?v=0fONene3OIA
 - acemarke blog https://blog.isquaredsoftware.com/
+- odlicno https://www.builder.io/blog
 
 #### CSS
 
@@ -174,6 +175,7 @@
 - https://www.youtube.com/watch?v=Zgx0o8QjJk4
 - https://pmbanugo.me/
 - https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86
+- https://www.builder.io/blog/visual-guide-to-nodejs-event-loop
 
 #### Serverless
 
