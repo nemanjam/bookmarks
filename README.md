@@ -173,6 +173,7 @@
 - https://github.com/typicode/lowdb
 - https://www.youtube.com/watch?v=Zgx0o8QjJk4
 - https://pmbanugo.me/
+- https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86
 
 #### Serverless
 
