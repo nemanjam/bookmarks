@@ -238,6 +238,7 @@
 - https://github.com/localstack/localstack
 - https://github.com/wsargent/docker-cheat-sheet
 - Go https://gobyexample.com/
+- https://dev.to/rimelek/docker-network-and-network-namespaces-in-practice-5h9
 
 #### Linux
 
