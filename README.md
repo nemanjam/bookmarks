@@ -130,6 +130,7 @@
 - Performance Fireship https://www.youtube.com/watch?v=0fONene3OIA
 - acemarke blog https://blog.isquaredsoftware.com/
 - odlicno https://www.builder.io/blog
+- Next.js projects https://www.youtube.com/@joshtriedcoding/videos
 
 #### CSS
 
