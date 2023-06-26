@@ -88,6 +88,7 @@
 - https://andreasbm.github.io/web-skills/?compact
 - https://www.reddit.com/r/reactjs/comments/vrhss4/what_are_some_midseniorlevel_blogs_subs_forums/
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+- excellent https://github.com/alan2207/awesome-codebases
 
 ---
 
@@ -177,6 +178,7 @@
 - https://pmbanugo.me/
 - https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86
 - https://www.builder.io/blog/visual-guide-to-nodejs-event-loop
+- https://github.com/santiq/bulletproof-nodejs
 
 #### Serverless
 
