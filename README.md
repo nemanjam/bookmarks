@@ -89,6 +89,7 @@
 - https://www.reddit.com/r/reactjs/comments/vrhss4/what_are_some_midseniorlevel_blogs_subs_forums/
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - excellent https://github.com/alan2207/awesome-codebases
+- React libraries https://www.reddit.com/r/reactjs/comments/1447vs4/what_are_some_of_the_best_libraries_you_cannot/?sort=new
 
 ---
 
@@ -132,6 +133,7 @@
 - acemarke blog https://blog.isquaredsoftware.com/
 - odlicno https://www.builder.io/blog
 - Next.js projects https://www.youtube.com/@joshtriedcoding/videos
+- render debugging, profiling https://github.com/welldone-software/why-did-you-render
 
 #### CSS
 
