@@ -159,6 +159,7 @@
 - https://github.com/braydenwerner/t3-turbo-next-app-router
 - Project ideas https://github.com/practical-tutorials/project-based-learning
 - Next.js starter https://github.com/BearStudio/start-ui-web
+- Shadcn, TailwindCSS https://github.com/ozgurrgul/linkedin-clone
 
 #### Website templates
 
