@@ -134,6 +134,7 @@
 - odlicno https://www.builder.io/blog
 - Next.js projects https://www.youtube.com/@joshtriedcoding/videos
 - render debugging, profiling https://github.com/welldone-software/why-did-you-render
+- stacking context, portals https://www.developerway.com/posts/positioning-and-portals-in-react
 
 #### CSS
 
