@@ -57,6 +57,7 @@
 - https://buildui.com/
 - https://www.alexhyett.com/
 - https://blog.pragmaticengineer.com/
+- https://www.propelauth.com/blog
 
 #### Cheatsheets
 
