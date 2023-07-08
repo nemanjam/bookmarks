@@ -136,6 +136,7 @@
 - Next.js projects https://www.youtube.com/@joshtriedcoding/videos
 - render debugging, profiling https://github.com/welldone-software/why-did-you-render
 - stacking context, portals https://www.developerway.com/posts/positioning-and-portals-in-react
+- dobar https://www.propelauth.com/post/5-common-pitfalls-with-server-components-in-next13-with-examples
 
 #### CSS
 
