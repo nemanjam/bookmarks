@@ -165,6 +165,7 @@
 - Shadcn, TailwindCSS https://github.com/ozgurrgul/linkedin-clone
 - nice demo, bare tailwind https://github.com/EphremDemlew/EChatter
 - nx, config, storybook, vitest, playwright, trpc https://github.com/ixahmedxi/noodle
+- trpc, drizzle, next.js 13 https://github.com/sadmann7/skateshop
 
 #### Website templates
 
