@@ -63,7 +63,7 @@
 
 - https://hackingcpp.com/cpp/cheat_sheets.html
 - https://taplink.cc/javascriptmastery/p/7fb4d6/
-- https://learnxinyminutes.com/
+- https://learnxinyminutes.com/ , https://github.com/adambard/learnxinyminutes-docs
 - https://roadmap.sh/pdfs
 - https://cheat.readthedocs.io/en/latest/index.html
 - https://oscarchou.com/posts/handbook/dokku-command-cheatsheet/
