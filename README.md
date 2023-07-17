@@ -283,6 +283,7 @@
 - https://github.com/AmruthPillai/Reactive-Resume
 - https://www.youtube.com/@alexhyettdev/playlists
 - https://www.youtube.com/@digitalgarage7542/playlists
+- https://realpython.com/how-to-make-programming-videos/
 
 #### Business
 
