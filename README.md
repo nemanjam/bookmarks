@@ -49,6 +49,7 @@
 - https://evanli.github.io/Github-Ranking/
 - https://javascript.plainenglish.io/
 - https://hashnode.com/n/reactjs
+- Github trendovi, odlican https://star-history.com
 
 #### Blogs
 
