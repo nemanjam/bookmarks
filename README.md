@@ -278,6 +278,7 @@
 - merge https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/
 - rebase, merge https://www.youtube.com/watch?v=eG9oAroMcPk&list=PL9lx0DXCC4BNashNittu7oU8n1CDtvDnu
 - undo https://www.youtube.com/watch?v=fWMKue-WBok&list=PL9lx0DXCC4BNUby5H58y6s2TQVLadV8v7
+- https://www.freecodecamp.org/news/how-to-fix-merge-conflicts-in-git/
 
 ---
 
