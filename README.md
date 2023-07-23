@@ -143,6 +143,7 @@
 - dobar React Server Components https://demystifying-rsc.vercel.app/
 - profiling docs https://legacy.reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html
 - profiling docs video https://www.youtube.com/watch?v=nySib7ipZdk
+- docs videos https://react.dev/community/videos
 
 #### CSS
 
