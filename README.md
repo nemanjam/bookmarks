@@ -173,6 +173,8 @@
 - nx, config, storybook, vitest, playwright, trpc https://github.com/ixahmedxi/noodle
 - trpc, drizzle, next.js 13 https://github.com/sadmann7/skateshop
 - twitter, firebase https://github.com/ccrsxx/twitter-clone
+- cron, shadcn, trpc, turborepo https://github.com/openstatusHQ/openstatus
+- video conferencing, nije nesto, 100ms, shadcn, prisma https://github.com/JaleelB/callsquare
 
 #### Website templates
 
