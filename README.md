@@ -207,6 +207,7 @@
 - https://github.com/hemansnation/Python-Roadmap
 - https://realpython.com/python-mutable-vs-immutable-types/
 - https://realpython.com/pointers-in-python/
+- https://realpython.com/python-profiling/
 
 #### Databases
 
@@ -290,6 +291,7 @@
 - https://www.youtube.com/@digitalgarage7542/playlists
 - https://realpython.com/how-to-make-programming-videos/
 - https://www.trueup.io/job-trend
+- From mid to senior articles https://dev.to/inovak/series/23737
 
 #### Business
 
