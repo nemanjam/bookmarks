@@ -141,6 +141,8 @@
 - dobar https://www.propelauth.com/post/5-common-pitfalls-with-server-components-in-next13-with-examples
 - dobar https://vercel.com/blog/how-react-18-improves-application-performance
 - dobar React Server Components https://demystifying-rsc.vercel.app/
+- profiling docs https://legacy.reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html
+- profiling docs video https://www.youtube.com/watch?v=nySib7ipZdk
 
 #### CSS
 
