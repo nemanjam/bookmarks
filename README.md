@@ -250,6 +250,7 @@
 - https://realpython.com/learning-paths/machine-learning-python/
 - https://github.com/SkalskiP/courses
 - https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
+- https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 ---
 
