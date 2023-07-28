@@ -213,6 +213,7 @@
 - https://realpython.com/python-mutable-vs-immutable-types/
 - https://realpython.com/pointers-in-python/
 - https://realpython.com/python-profiling/
+- vs code containers https://dev.to/tobias-piotr/debugging-python-apps-in-vscode-1anf
 
 #### Databases
 
