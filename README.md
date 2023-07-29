@@ -214,6 +214,7 @@
 - https://realpython.com/pointers-in-python/
 - https://realpython.com/python-profiling/
 - vs code containers https://dev.to/tobias-piotr/debugging-python-apps-in-vscode-1anf
+- https://dev.to/tobias-piotr/patterns-and-practices-for-using-sqlalchemy-20-with-fastapi-49n8
 
 #### Databases
 
