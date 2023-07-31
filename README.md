@@ -245,7 +245,6 @@
 #### Testing
 
 - https://glebbahmutov.com/blog/cypress-skills-ladder/
-- https://dev.to/antoinecoulon/test-driven-development-and-dependency-injection-are-the-way-cib
 
 #### ML/AI
 
