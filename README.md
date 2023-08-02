@@ -289,6 +289,7 @@
 - undo https://www.youtube.com/watch?v=fWMKue-WBok&list=PL9lx0DXCC4BNUby5H58y6s2TQVLadV8v7
 - https://www.freecodecamp.org/news/how-to-fix-merge-conflicts-in-git/
 - https://dev.to/jodaut/beyond-the-basics-guide-to-deeply-understand-merge-rebase-squash-and-cherry-pick-when-to-use-them-with-real-world-examples-3f2m
+- https://dev.to/opensauced/keeping-your-branch-up-to-date-and-handling-merge-conflicts-while-waiting-for-pr-reviews-3b3h
 
 ---
 
