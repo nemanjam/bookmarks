@@ -179,6 +179,7 @@
 - twitter, firebase https://github.com/ccrsxx/twitter-clone
 - cron, shadcn, trpc, turborepo https://github.com/openstatusHQ/openstatus
 - video conferencing, nije nesto, 100ms, shadcn, prisma https://github.com/JaleelB/callsquare
+- realworld stacks https://codebase.show/projects/realworld
 
 #### Website templates
 
