@@ -200,6 +200,7 @@
 - https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86
 - https://www.builder.io/blog/visual-guide-to-nodejs-event-loop
 - https://github.com/santiq/bulletproof-nodejs
+- https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m
 
 #### Serverless
 
