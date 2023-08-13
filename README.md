@@ -59,6 +59,8 @@
 - https://www.alexhyett.com/
 - https://blog.pragmaticengineer.com/
 - https://www.propelauth.com/blog
+- Lydia Hallie https://www.instagram.com/theavocoder/
+- Lydia Hallie https://www.lydiahallie.io/
 
 #### Cheatsheets
 
@@ -201,7 +203,6 @@
 - https://www.builder.io/blog/visual-guide-to-nodejs-event-loop
 - https://github.com/santiq/bulletproof-nodejs
 - https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m
-- https://dev.to/amplication/nodejs-asynchronous-flow-control-and-event-loop-4aa5
 
 #### Serverless
 
