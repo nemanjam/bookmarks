@@ -59,8 +59,10 @@
 - https://www.alexhyett.com/
 - https://blog.pragmaticengineer.com/
 - https://www.propelauth.com/blog
+- https://www.builder.io/blog
 - Lydia Hallie https://www.instagram.com/theavocoder/
 - Lydia Hallie https://www.lydiahallie.io/
+- JavaScript Visualized https://dev.to/lydiahallie
 
 #### Cheatsheets
 
