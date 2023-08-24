@@ -149,6 +149,7 @@
 - profiling docs video https://www.youtube.com/watch?v=nySib7ipZdk
 - docs videos https://react.dev/community/videos
 - dobar redux primer na dnu https://www.developerway.com/posts/how-to-write-performant-react-apps-with-context
+- hydration errors https://chirag-gupta.hashnode.dev/how-to-solve-hydration-error-in-nextjs
 
 #### CSS
 
@@ -274,6 +275,7 @@
 - https://github.com/wsargent/docker-cheat-sheet
 - Go https://gobyexample.com/
 - https://dev.to/rimelek/docker-network-and-network-namespaces-in-practice-5h9
+- docker dive https://dev.to/klip_klop/dive-into-docker-part-4-inspecting-docker-image-568o
 
 #### Linux
 
