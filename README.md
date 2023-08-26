@@ -162,6 +162,7 @@
 
 #### Good projects
 
+- Next.js 13 reference app https://github.com/vercel/app-playground
 - https://github.com/eknoorpreet/dev.to-clone
 - https://www.reddit.com/r/reactjs/comments/uvjm56/built_a_little_reddit_clone_with_the_mern_stack/
 - https://github.com/adrianhajdin/project_tiktik
