@@ -73,6 +73,7 @@
 - https://cheat.readthedocs.io/en/latest/index.html
 - https://oscarchou.com/posts/handbook/dokku-command-cheatsheet/
 - nije free https://georgemoller.gumroad.com/
+- email subscription https://www.webdevvisuals.com/visuals
 
 #### Utils
 
