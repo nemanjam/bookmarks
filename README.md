@@ -163,7 +163,7 @@
 
 #### Good projects
 
-- Next.js 13 reference app https://github.com/vercel/app-playground
+- Next.js 13 app dir routing https://github.com/vercel/app-playground
 - https://github.com/eknoorpreet/dev.to-clone
 - https://www.reddit.com/r/reactjs/comments/uvjm56/built_a_little_reddit_clone_with_the_mern_stack/
 - https://github.com/adrianhajdin/project_tiktik
@@ -187,7 +187,8 @@
 - cron, shadcn, trpc, turborepo https://github.com/openstatusHQ/openstatus
 - video conferencing, nije nesto, 100ms, shadcn, prisma https://github.com/JaleelB/callsquare
 - realworld stacks https://codebase.show/projects/realworld
-- Next 13 https://github.com/vercel/commerce
+- not bad, Next 13, Shopify, graphql https://github.com/vercel/commerce
+- lot of code, interesting folder structure, vercel/commerce https://github.dev/medusajs/nextjs-starter-medusa
 
 #### Website templates
 
