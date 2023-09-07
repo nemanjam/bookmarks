@@ -151,6 +151,8 @@
 - docs videos https://react.dev/community/videos
 - dobar redux primer na dnu https://www.developerway.com/posts/how-to-write-performant-react-apps-with-context
 - hydration errors https://chirag-gupta.hashnode.dev/how-to-solve-hydration-error-in-nextjs
+- type component as props https://www.totaltypescript.com/pass-component-as-prop-react
+- type props https://www.totaltypescript.com/react-props-typescript
 
 #### CSS
 
