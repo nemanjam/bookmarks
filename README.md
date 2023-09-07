@@ -18,6 +18,7 @@
   - [Node.js](#nodejs)
   - [Serverless](#serverless)
   - [Python](#python)
+  - [FastAPI](#fastapi)
   - [Databases](#databases)
 - [Software engineering](#software-engineering)
   - [Architecture](#architecture)
@@ -232,6 +233,15 @@
 - vs code containers https://dev.to/tobias-piotr/debugging-python-apps-in-vscode-1anf
 - https://dev.to/tobias-piotr/patterns-and-practices-for-using-sqlalchemy-20-with-fastapi-49n8
 - https://github.com/satwikkansal/wtfpython
+
+#### FastAPI
+
+- repo https://github.com/zhanymkanov/fastapi_production_template
+- readme https://github.com/zhanymkanov/fastapi-best-practices
+- reddit https://www.reddit.com/r/Python/comments/1047tdb/the_way_i_build_new_fastapi_projects/
+- tutorials https://www.jeffastor.com/blog/serving-a-paginated-activity-feed-from-fastapi/
+- repo https://github.com/Jastor11/phresh-tutorial
+- Next.js redirect api https://vercel.com/templates/next.js/nextjs-fastapi-starter
 
 #### Databases
 
