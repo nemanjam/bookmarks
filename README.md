@@ -153,6 +153,7 @@
 - hydration errors https://chirag-gupta.hashnode.dev/how-to-solve-hydration-error-in-nextjs
 - type component as props https://www.totaltypescript.com/pass-component-as-prop-react
 - type props https://www.totaltypescript.com/react-props-typescript
+- https://www.jacobparis.com/content/react-headless-submenus
 
 #### CSS
 
