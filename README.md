@@ -115,6 +115,7 @@
 - https://github.com/sadanandpai/javascript-code-challenges
 - https://www.youtube.com/playlist?list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB
 - Typescript https://www.youtube.com/@andrew-burgess
+- https://www.totaltypescript.com/tsconfig-cheat-sheet
 
 #### React
 
@@ -352,6 +353,7 @@
 - https://algorithm-visualizer.org/
 - https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY
 - https://www.bigocheatsheet.com
+- https://newsletter.francofernando.com/
 
 #### People
 
