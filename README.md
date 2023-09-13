@@ -194,6 +194,7 @@
 - realworld stacks https://codebase.show/projects/realworld
 - not bad, Next 13, Shopify, graphql https://github.com/vercel/commerce
 - lot of code, interesting folder structure, vercel/commerce https://github.dev/medusajs/nextjs-starter-medusa
+- pogledaj https://github.com/premieroctet/next-admin
 
 #### Website templates
 
