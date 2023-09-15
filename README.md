@@ -218,6 +218,7 @@
 - excellent, for bulletproof-nodejs https://www.softwareontheroad.com/ideal-nodejs-project-structure
 - https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m
 - codevolution entire Node.js, event loop https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY
+- https://github.com/mohamedsamara/mern-ecommerce
 
 #### Serverless
 
@@ -245,6 +246,7 @@
 - tutorials https://www.jeffastor.com/blog/serving-a-paginated-activity-feed-from-fastapi/
 - repo https://github.com/Jastor11/phresh-tutorial
 - Next.js redirect api https://vercel.com/templates/next.js/nextjs-fastapi-starter
+- links https://fastapi.tiangolo.com/external-links/#english
 
 #### Databases
 
