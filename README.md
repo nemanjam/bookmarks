@@ -215,6 +215,7 @@
 - https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86
 - https://www.builder.io/blog/visual-guide-to-nodejs-event-loop
 - https://github.com/santiq/bulletproof-nodejs
+- excellent, for bulletproof-nodejs https://www.softwareontheroad.com/ideal-nodejs-project-structure
 - https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m
 - codevolution entire Node.js, event loop https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY
 
