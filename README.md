@@ -247,6 +247,7 @@
 - repo https://github.com/Jastor11/phresh-tutorial
 - Next.js redirect api https://vercel.com/templates/next.js/nextjs-fastapi-starter
 - links https://fastapi.tiangolo.com/external-links/#english
+- udemy https://github.com/CatalinStefan/instagram-clone-api
 
 #### Databases
 
