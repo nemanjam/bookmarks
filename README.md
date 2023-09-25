@@ -273,6 +273,8 @@
 
 - https://github.com/kettanaito/naming-cheatsheet
 - https://github.com/ryanmcdermott/clean-code-javascript
+- debugging playlist https://www.youtube.com/watch?v=A919j_5qE0k&list=PL8GhfcywW9YM3OsfxnaxAci6dJgkuOQWn
+- debugging articles https://dev.to/codenameone/series/20817
 
 #### Testing
 
@@ -305,6 +307,7 @@
 
 - https://github.com/trinib/Linux-Bash-Commands
 - Linux file system https://www.youtube.com/watch?v=42iQKuQodW4
+- https://dev.to/scorcism/file-permission-2d8
 
 #### Homelab
 
