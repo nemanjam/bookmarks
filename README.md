@@ -199,6 +199,7 @@
 - lot of code, interesting folder structure, vercel/commerce https://github.dev/medusajs/nextjs-starter-medusa
 - pogledaj https://github.com/premieroctet/next-admin
 - excellent fastapi https://github.com/kamranabdicse/fastapi-postgres-boilerplate
+- another https://github.com/jonra1993/fastapi-alembic-sqlmodel-async
 
 #### Website templates
 
