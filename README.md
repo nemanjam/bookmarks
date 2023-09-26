@@ -90,6 +90,7 @@
 - https://github.com/cogentapps/chat-with-gpt
 - https://app.wayscript.com
 - Online compiler https://godbolt.org/
+- free cloud plans https://free-for.dev/
 
 #### Links
 
@@ -306,6 +307,7 @@
 - https://dev.to/rimelek/docker-network-and-network-namespaces-in-practice-5h9
 - docker dive https://dev.to/klip_klop/dive-into-docker-part-4-inspecting-docker-image-568o
 - digital life https://github.com/ChristianLempa/cheat-sheets
+- https://www.reddit.com/r/Python/comments/xobba8/how_i_deploy_my_bootstrapped_python_webapp_with/
 
 #### Linux
 
