@@ -75,6 +75,7 @@
 - https://oscarchou.com/posts/handbook/dokku-command-cheatsheet/
 - nije free https://georgemoller.gumroad.com/
 - email subscription https://www.webdevvisuals.com/visuals
+- https://gto76.github.io/python-cheatsheet/
 
 #### Utils
 
@@ -99,6 +100,7 @@
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - excellent https://github.com/alan2207/awesome-codebases
 - React libraries https://www.reddit.com/r/reactjs/comments/1447vs4/what_are_some_of_the_best_libraries_you_cannot/?sort=new
+- https://github.com/practical-tutorials/project-based-learning
 
 ---
 
@@ -237,6 +239,8 @@
 - vs code containers https://dev.to/tobias-piotr/debugging-python-apps-in-vscode-1anf
 - https://dev.to/tobias-piotr/patterns-and-practices-for-using-sqlalchemy-20-with-fastapi-49n8
 - https://github.com/satwikkansal/wtfpython
+- https://www.pythontutorial.net/
+- https://www.youtube.com/@mCoding
 
 #### FastAPI
 
