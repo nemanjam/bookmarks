@@ -198,6 +198,7 @@
 - not bad, Next 13, Shopify, graphql https://github.com/vercel/commerce
 - lot of code, interesting folder structure, vercel/commerce https://github.dev/medusajs/nextjs-starter-medusa
 - pogledaj https://github.com/premieroctet/next-admin
+- excellent fastapi https://github.com/kamranabdicse/fastapi-postgres-boilerplate
 
 #### Website templates
 
