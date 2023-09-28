@@ -200,6 +200,7 @@
 - pogledaj https://github.com/premieroctet/next-admin
 - excellent fastapi https://github.com/kamranabdicse/fastapi-postgres-boilerplate
 - another, better https://github.com/jonra1993/fastapi-alembic-sqlmodel-async
+- supabase, server actions https://github.com/vercel/nextjs-subscription-payments
 
 #### Website templates
 
