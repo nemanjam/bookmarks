@@ -198,6 +198,7 @@
 - not bad, Next 13, Shopify, graphql https://github.com/vercel/commerce
 - lot of code, interesting folder structure, vercel/commerce https://github.dev/medusajs/nextjs-starter-medusa
 - pogledaj https://github.com/premieroctet/next-admin
+- not bad, email, OpenApi call https://github.com/shinework/photoshot
 - excellent fastapi https://github.com/kamranabdicse/fastapi-postgres-boilerplate
 - another, better https://github.com/jonra1993/fastapi-alembic-sqlmodel-async
 - supabase, server actions https://github.com/vercel/nextjs-subscription-payments
@@ -261,6 +262,7 @@
 
 - https://sqlflow.gudusoft.com/#/
 - https://www.garrickadenbuie.com/project/tidyexplain
+- https://dev.to/rsaz/simple-api-done-with-expressots-and-postgres-348l
 
 ---
 
