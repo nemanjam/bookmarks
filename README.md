@@ -64,6 +64,7 @@
 - Lydia Hallie https://www.instagram.com/theavocoder/
 - Lydia Hallie https://www.lydiahallie.io/
 - JavaScript Visualized https://dev.to/lydiahallie
+- free medium cached https://freedium.cfd/
 
 #### Cheatsheets
 
