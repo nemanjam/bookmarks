@@ -202,6 +202,7 @@
 - excellent fastapi https://github.com/kamranabdicse/fastapi-postgres-boilerplate
 - another, better https://github.com/jonra1993/fastapi-alembic-sqlmodel-async
 - supabase, server actions https://github.com/vercel/nextjs-subscription-payments
+- simplified https://github.com/testdrivenio/fastapi-sqlmodel-alembic
 
 #### Website templates
 
