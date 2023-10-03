@@ -162,6 +162,7 @@
 - type component as props https://www.totaltypescript.com/pass-component-as-prop-react
 - type props https://www.totaltypescript.com/react-props-typescript
 - https://www.jacobparis.com/content/react-headless-submenus
+- https://dev.to/shingaiz/optimizing-file-processing-in-react-with-multipart-uploads-and-downloads-2n8p
 
 #### CSS
 
@@ -251,6 +252,7 @@
 - https://github.com/satwikkansal/wtfpython
 - https://www.pythontutorial.net/
 - https://www.youtube.com/@mCoding
+- https://dev.to/jelloeater/poetry-packaging-in-motion-185h
 
 #### FastAPI
 
@@ -368,6 +370,7 @@
 #### Business
 
 - https://tinyacquisitions.com/home
+- website monitor docker container https://github.com/dgtlmoon/changedetection.io
 
 #### Interviews
 
