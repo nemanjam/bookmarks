@@ -121,6 +121,7 @@
 - https://www.youtube.com/playlist?list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB
 - Typescript https://www.youtube.com/@andrew-burgess
 - https://www.totaltypescript.com/tsconfig-cheat-sheet
+- closures, excellent https://dev.to/imranabdulmalik/mastering-closures-in-javascript-a-comprehensive-guide-4ja8
 
 #### React
 
