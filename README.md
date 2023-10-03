@@ -253,6 +253,7 @@
 - https://www.pythontutorial.net/
 - https://www.youtube.com/@mCoding
 - https://dev.to/jelloeater/poetry-packaging-in-motion-185h
+- https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8
 
 #### FastAPI
 
@@ -264,6 +265,7 @@
 - Next.js redirect api https://vercel.com/templates/next.js/nextjs-fastapi-starter
 - links https://fastapi.tiangolo.com/external-links/#english
 - udemy https://github.com/CatalinStefan/instagram-clone-api
+- event loop https://luis-sena.medium.com/how-to-optimize-fastapi-for-ml-model-serving-6f75fb9e040d
 
 #### Databases
 
