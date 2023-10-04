@@ -375,7 +375,7 @@
 - https://tinyacquisitions.com/home
 - website monitor docker container https://github.com/dgtlmoon/changedetection.io
 - maybe https://github.com/awesome-selfhosted/awesome-selfhosted
-- https://www.tldrlegal.com/
+- licenses https://www.tldrlegal.com/
 
 #### Interviews
 
