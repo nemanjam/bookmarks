@@ -266,6 +266,7 @@
 - links https://fastapi.tiangolo.com/external-links/#english
 - udemy https://github.com/CatalinStefan/instagram-clone-api
 - event loop https://luis-sena.medium.com/how-to-optimize-fastapi-for-ml-model-serving-6f75fb9e040d
+- https://dev.to/mbuthi/devops-with-fast-api-postgresql-how-to-containerize-fast-api-application-with-docker-1jdb
 
 #### Databases
 
