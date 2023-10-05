@@ -376,6 +376,7 @@
 - website monitor docker container https://github.com/dgtlmoon/changedetection.io
 - maybe https://github.com/awesome-selfhosted/awesome-selfhosted
 - licenses https://www.tldrlegal.com/
+- one man businesses list https://www.indie-wiki.com/
 
 #### Interviews
 
