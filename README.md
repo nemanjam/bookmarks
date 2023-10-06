@@ -214,6 +214,7 @@
 - https://github.com/avitorio/outstatic
 - https://github.com/answerdev/answer
 - github discussion comments https://github.com/giscus/giscus
+- SSG templates, Astro, Jekyll https://statichunt.com/
 
 ---
 
