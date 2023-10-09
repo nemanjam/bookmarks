@@ -66,6 +66,7 @@
 - Lydia Hallie https://www.lydiahallie.io/
 - JavaScript Visualized https://dev.to/lydiahallie
 - free medium cached https://freedium.cfd/
+- Astro, Youtube channel https://codinginpublic.dev/
 
 #### Cheatsheets
 
