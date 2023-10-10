@@ -271,6 +271,7 @@
 - event loop https://luis-sena.medium.com/how-to-optimize-fastapi-for-ml-model-serving-6f75fb9e040d
 - https://dev.to/mbuthi/devops-with-fast-api-postgresql-how-to-containerize-fast-api-application-with-docker-1jdb
 - small fastapi https://github.com/innovatorved/whisper.api
+- good https://github.dev/AdrianPayne/fastapi-rocket-boilerplate
 
 #### Databases
 
