@@ -272,6 +272,7 @@
 - https://dev.to/mbuthi/devops-with-fast-api-postgresql-how-to-containerize-fast-api-application-with-docker-1jdb
 - small fastapi https://github.com/innovatorved/whisper.api
 - good https://github.dev/AdrianPayne/fastapi-rocket-boilerplate
+- generator https://github.com/s3rius/FastAPI-template
 
 #### Databases
 
