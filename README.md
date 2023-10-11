@@ -123,6 +123,7 @@
 - Typescript https://www.youtube.com/@andrew-burgess
 - https://www.totaltypescript.com/tsconfig-cheat-sheet
 - closures, excellent https://dev.to/imranabdulmalik/mastering-closures-in-javascript-a-comprehensive-guide-4ja8
+- regex https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np
 
 #### React
 
