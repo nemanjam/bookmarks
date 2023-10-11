@@ -376,6 +376,7 @@
 - From mid to senior articles https://dev.to/inovak/series/23737
 - https://realpython.com/how-to-make-programming-videos/
 - https://dev.to/eleftheriabatsou , https://blog.eleftheriabatsou.com/
+- https://github.com/remoteintech/remote-jobs
 
 #### Business
 
