@@ -259,6 +259,7 @@
 - https://www.youtube.com/@mCoding
 - https://dev.to/jelloeater/poetry-packaging-in-motion-185h
 - https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8
+- python package https://dev.to/cwprogram/basic-python-project-layout-1pg2
 
 #### FastAPI
 
