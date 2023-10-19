@@ -336,6 +336,7 @@
 - https://dev.to/rimelek/docker-network-and-network-namespaces-in-practice-5h9
 - docker dive https://dev.to/klip_klop/dive-into-docker-part-4-inspecting-docker-image-568o
 - cron https://github.com/alseambusher/crontab-ui , https://github.com/willfarrell/docker-crontab
+- reminder https://dev.to/hazarnenni/docker-best-practices-55j0
 
 #### Linux
 
