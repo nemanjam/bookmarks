@@ -386,8 +386,6 @@
 
 #### Personal branding
 
-- https://approachabledesign.co/articles/personal-website
-
 #### Business
 
 - https://tinyacquisitions.com/home
