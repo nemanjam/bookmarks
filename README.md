@@ -382,6 +382,7 @@
 - https://dev.to/eleftheriabatsou , https://blog.eleftheriabatsou.com/
 - https://github.com/remoteintech/remote-jobs
 - https://www.youtube.com/@HealthyDev/playlists
+- https://github.com/hugo53/awesome-RemoteWork
 
 #### Personal branding
 
