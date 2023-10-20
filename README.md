@@ -33,6 +33,7 @@
   - [Git](#git)
 - [Career](#career)
   - [Career](#career)
+  - [Personal branding](#personal-branding)
   - [Business](#business)
   - [Interviews](#interviews)
   - [Algorithms and Data structures](#algorithms-and-data-structures)
@@ -381,6 +382,10 @@
 - https://dev.to/eleftheriabatsou , https://blog.eleftheriabatsou.com/
 - https://github.com/remoteintech/remote-jobs
 - https://www.youtube.com/@HealthyDev/playlists
+
+#### Personal branding
+
+- https://approachabledesign.co/articles/personal-website
 
 #### Business
 
