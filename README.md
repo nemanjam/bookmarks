@@ -97,6 +97,7 @@
 - free cloud plans https://free-for.dev/
 - postman alternative https://github.com/usebruno/bruno
 - copy files in LAN https://github.com/localsend/localsend
+- untested, chat with local documents https://github.com/imartinez/privateGPT
 
 #### Links
 
