@@ -96,6 +96,7 @@
 - Online compiler https://godbolt.org/
 - free cloud plans https://free-for.dev/
 - postman alternative https://github.com/usebruno/bruno
+- copy files in LAN https://github.com/localsend/localsend
 
 #### Links
 
