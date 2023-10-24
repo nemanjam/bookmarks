@@ -68,6 +68,7 @@
 - JavaScript Visualized https://dev.to/lydiahallie
 - free medium cached https://freedium.cfd/
 - Astro, Youtube channel https://codinginpublic.dev/
+- https://oliverjumpertz.com/
 
 #### Cheatsheets
 
