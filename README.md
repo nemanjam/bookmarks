@@ -214,6 +214,7 @@
 - supabase, server actions https://github.com/vercel/nextjs-subscription-payments
 - simplified https://github.com/testdrivenio/fastapi-sqlmodel-alembic
 - chatGpt with voice https://github.com/cogentapps/chat-with-gpt
+- another linkedin https://github.com/igormagalhaesr/FastAPI-boilerplate
 
 #### Website templates
 
