@@ -216,6 +216,7 @@
 - simplified https://github.com/testdrivenio/fastapi-sqlmodel-alembic
 - chatGpt with voice https://github.com/cogentapps/chat-with-gpt
 - another linkedin https://github.com/igormagalhaesr/FastAPI-boilerplate
+- fastapi, kubernetes https://github.com/Kludex/fastapi-microservices
 
 #### Website templates
 
