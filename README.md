@@ -325,6 +325,7 @@
 - https://github.com/SkalskiP/courses
 - https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
+- local GPT? https://github.com/nomic-ai/gpt4all
 
 ---
 
