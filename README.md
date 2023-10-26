@@ -110,6 +110,7 @@
 - excellent https://github.com/alan2207/awesome-codebases
 - React libraries https://www.reddit.com/r/reactjs/comments/1447vs4/what_are_some_of_the_best_libraries_you_cannot/?sort=new
 - https://github.com/practical-tutorials/project-based-learning
+- free hosting https://github.com/ripienaar/free-for-dev
 
 ---
 
