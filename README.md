@@ -245,6 +245,7 @@
 - https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m
 - codevolution entire Node.js, event loop https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY
 - https://github.com/mohamedsamara/mern-ecommerce
+- excellent Node.js articles https://dev.to/amplication
 
 #### Serverless
 
