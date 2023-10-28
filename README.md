@@ -69,6 +69,7 @@
 - free medium cached https://freedium.cfd/
 - Astro, Youtube channel https://codinginpublic.dev/
 - https://oliverjumpertz.com/
+- https://dev.to/jurajmalenica
 
 #### Cheatsheets
 
