@@ -182,6 +182,7 @@
 - https://components.ai/
 - https://www.euismod.dev/#/learn/2
 - https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
+- CSS examples https://github.com/atherosai/ui https://www.instagram.com/davidm_ai/
 
 #### Good projects
 
