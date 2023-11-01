@@ -333,6 +333,7 @@
 - local GPT? https://github.com/nomic-ai/gpt4all
 - chat with repo https://github.com/AI-Citizen/SolidGPT
 - https://www.youtube.com/@YannicKilcher/playlists
+- LLM bots hosting https://github.com/langchain-ai/langserve https://github.com/langchain-ai
 
 ---
 
