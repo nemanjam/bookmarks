@@ -19,6 +19,7 @@
   - [Serverless](#serverless)
   - [Python](#python)
   - [FastAPI](#fastapi)
+  - [C#](#c35)
   - [Databases](#databases)
 - [Software engineering](#software-engineering)
   - [Architecture](#architecture)
@@ -289,6 +290,10 @@
 - small fastapi https://github.com/innovatorved/whisper.api
 - good https://github.dev/AdrianPayne/fastapi-rocket-boilerplate
 - generator https://github.com/s3rius/FastAPI-template
+
+#### C\#
+
+- https://github.com/milanm/DotNet-Developer-Roadmap
 
 #### Databases
 
