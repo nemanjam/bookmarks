@@ -19,7 +19,7 @@
   - [Serverless](#serverless)
   - [Python](#python)
   - [FastAPI](#fastapi)
-  - [C#](#c35)
+  - [C#](#c)
   - [Databases](#databases)
 - [Software engineering](#software-engineering)
   - [Architecture](#architecture)
