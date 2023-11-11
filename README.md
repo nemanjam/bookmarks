@@ -340,6 +340,7 @@
 - chat with repo https://github.com/AI-Citizen/SolidGPT
 - https://www.youtube.com/@YannicKilcher/playlists
 - LLM bots hosting https://github.com/langchain-ai/langserve https://github.com/langchain-ai
+- https://microsoft.github.io/AI-For-Beginners/?id=content
 
 ---
 
