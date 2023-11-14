@@ -406,6 +406,7 @@
 - https://github.com/remoteintech/remote-jobs
 - https://www.youtube.com/@HealthyDev/playlists
 - https://github.com/hugo53/awesome-RemoteWork
+- https://hnhiring.com/trends
 
 #### Personal branding
 
