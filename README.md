@@ -233,6 +233,7 @@
 - github discussion comments https://github.com/giscus/giscus
 - SSG templates, Astro, Jekyll https://statichunt.com/
 - official Github Jekyll themes https://pages.github.com/themes/
+- static CMS https://github.com/avitorio/outstatic
 
 ---
 
