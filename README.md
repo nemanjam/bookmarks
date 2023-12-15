@@ -116,6 +116,7 @@
 - https://github.com/practical-tutorials/project-based-learning
 - free hosting https://github.com/ripienaar/free-for-dev
 - blog links thread https://news.ycombinator.com/item?id=38542238
+- lot of links https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 ---
 
