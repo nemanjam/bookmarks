@@ -11,6 +11,7 @@
 - [Frontend](#frontend)
   - [JavaScript](#javascript)
   - [React](#react)
+  - [Astro](#astro)
   - [CSS](#css)
   - [Good projects](#good-projects)
   - [Website templates](#website-templates)
@@ -178,6 +179,10 @@
 - https://www.jacobparis.com/content/react-headless-submenus
 - https://dev.to/shingaiz/optimizing-file-processing-in-react-with-multipart-uploads-and-downloads-2n8p
 - https://github.com/brillout/awesome-react-components
+
+#### Astro
+
+- MDX blog https://website-thomas-astro.vercel.app/blog
 
 #### CSS
 
