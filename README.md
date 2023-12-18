@@ -183,6 +183,7 @@
 #### Astro
 
 - MDX blog https://website-thomas-astro.vercel.app/blog
+- good turbo monorepo config, benchmark https://github.com/withastro/astro
 
 #### CSS
 
