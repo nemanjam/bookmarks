@@ -104,6 +104,7 @@
 - postman alternative https://github.com/usebruno/bruno
 - copy files in LAN https://github.com/localsend/localsend
 - untested, chat with local documents https://github.com/imartinez/privateGPT
+- remote debugging https://github.com/HuolalaTech/page-spy-web
 
 #### Links
 
