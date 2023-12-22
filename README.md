@@ -74,7 +74,7 @@
 - Astro, Youtube channel https://codinginpublic.dev/
 - https://oliverjumpertz.com/
 - https://dev.to/jurajmalenica
-- JavaScript and React, good blog https://dmitripavlutin.com
+- JavaScript and React, good blog https://dmitripavlutin.com/all-posts/
 
 #### Cheatsheets
 
