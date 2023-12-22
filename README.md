@@ -74,6 +74,7 @@
 - Astro, Youtube channel https://codinginpublic.dev/
 - https://oliverjumpertz.com/
 - https://dev.to/jurajmalenica
+- JavaScript and React, good blog https://dmitripavlutin.com
 
 #### Cheatsheets
 
@@ -138,6 +139,7 @@
 - https://www.totaltypescript.com/tsconfig-cheat-sheet
 - closures, excellent https://dev.to/imranabdulmalik/mastering-closures-in-javascript-a-comprehensive-guide-4ja8
 - regex https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np
+- https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/
 
 #### React
 
