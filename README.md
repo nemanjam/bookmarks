@@ -193,6 +193,7 @@
 #### Turbo
 
 - https://github.com/vercel/turbo/tree/main/examples
+- eslint, prettier, ts configs https://github.com/kyr0/turbo-hybrid-astro-on-vercel
 
 #### CSS
 
