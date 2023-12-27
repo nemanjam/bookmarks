@@ -433,6 +433,7 @@
 - https://www.youtube.com/@HealthyDev/playlists
 - https://github.com/hugo53/awesome-RemoteWork
 - https://hnhiring.com/trends
+- https://github.com/kuchin/awesome-cto
 
 #### Personal branding
 
