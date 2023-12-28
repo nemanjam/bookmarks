@@ -438,6 +438,8 @@
 
 #### Personal branding
 
+- good personal website example https://jarocki.me/
+
 #### Business
 
 - https://tinyacquisitions.com/home
