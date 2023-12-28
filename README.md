@@ -434,6 +434,7 @@
 - https://github.com/hugo53/awesome-RemoteWork
 - https://hnhiring.com/trends
 - https://github.com/kuchin/awesome-cto
+- CV template https://github.com/BartoszJarocki/cv
 
 #### Personal branding
 
