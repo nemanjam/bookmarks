@@ -191,6 +191,7 @@
 - SSR example https://github.com/withastro/astro/tree/main/examples/ssr
 - ALL examples are important, like Vercel https://github.dev/withastro/astro/tree/main/examples/
 - links https://github.com/one-aalam/awesome-astro
+- best Astro blog starter https://github.com/onwidget/astrowind
 
 #### Turbo
 
