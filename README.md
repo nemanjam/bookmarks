@@ -247,6 +247,7 @@
 - another linkedin https://github.com/igormagalhaesr/FastAPI-boilerplate
 - fastapi, kubernetes https://github.com/Kludex/fastapi-microservices
 - Next.js 12 https://github.com/boxyhq/saas-starter-kit
+- excellent https://github.com/onwidget/tailnext
 
 #### Website templates
 
