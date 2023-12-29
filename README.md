@@ -190,6 +190,7 @@
 - good turbo monorepo config, benchmark https://github.com/withastro/astro
 - SSR example https://github.com/withastro/astro/tree/main/examples/ssr
 - ALL examples are important, like Vercel https://github.dev/withastro/astro/tree/main/examples/
+- links https://github.com/one-aalam/awesome-astro
 
 #### Turbo
 
