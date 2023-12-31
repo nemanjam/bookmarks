@@ -77,6 +77,7 @@
 - https://dev.to/jurajmalenica
 - JavaScript and React, good blog https://dmitripavlutin.com/all-posts/
 - https://addyosmani.com/blog/
+- https://architecturenotes.co/
 
 #### Cheatsheets
 
