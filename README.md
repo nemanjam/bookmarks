@@ -279,6 +279,7 @@
 - codevolution entire Node.js, event loop https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY
 - https://github.com/mohamedsamara/mern-ecommerce
 - excellent Node.js articles https://dev.to/amplication
+- merge .env vars and yaml https://dev.to/emekaofe/how-to-pass-environment-variables-to-a-yaml-file-in-a-nodejs-application-using-ejs-templating-engine-ib7
 
 #### Serverless
 
