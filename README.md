@@ -200,6 +200,7 @@
 
 - https://github.com/vercel/turbo/tree/main/examples
 - eslint, prettier, ts configs https://github.com/kyr0/turbo-hybrid-astro-on-vercel
+- Jest, Storybook, Turborepo https://github.com/mkosir/frontend-monorepo-boilerplate
 
 #### CSS
 
