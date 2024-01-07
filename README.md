@@ -386,7 +386,8 @@
 - https://www.reddit.com/r/linux/comments/s4yngh/i_am_trying_to_make_a_list_of_good_opensource/
 - https://github.com/localstack/localstack
 - Go https://gobyexample.com/
-- digital life https://github.com/ChristianLempa/cheat-sheets
+- digital life, snippets https://github.com/christianlempa/cheat-sheets
+- lot of things https://github.com/christianlempa/boilerplates
 - https://www.reddit.com/r/Python/comments/xobba8/how_i_deploy_my_bootstrapped_python_webapp_with/
 
 #### Docker
@@ -407,6 +408,7 @@
 
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - Proxmox https://www.youtube.com/watch?v=GYOlulPwxlE&list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o
+- proxmox, packer... https://github.com/christianlempa/homelab
 
 #### Git
 
