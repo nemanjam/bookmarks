@@ -355,6 +355,7 @@
 - https://github.com/ryanmcdermott/clean-code-javascript
 - debugging playlist https://www.youtube.com/watch?v=A919j_5qE0k&list=PL8GhfcywW9YM3OsfxnaxAci6dJgkuOQWn
 - debugging articles https://dev.to/codenameone/series/20817
+- refactoring, excellent https://refactoring.guru/refactoring/techniques
 
 #### Testing
 
