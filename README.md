@@ -253,6 +253,7 @@
 - Next.js 12 https://github.com/boxyhq/saas-starter-kit
 - excellent https://github.com/onwidget/tailnext
 - million dollars, excellent Next.js project https://github.com/maybe-finance/maybe
+- huge MS Paint in React and Firebase, Github Actions https://github.com/excalidraw/excalidraw
 
 #### Website templates
 
