@@ -252,6 +252,7 @@
 - fastapi, kubernetes https://github.com/Kludex/fastapi-microservices
 - Next.js 12 https://github.com/boxyhq/saas-starter-kit
 - excellent https://github.com/onwidget/tailnext
+- million dollars, excellent Next.js project https://github.com/maybe-finance/maybe
 
 #### Website templates
 
