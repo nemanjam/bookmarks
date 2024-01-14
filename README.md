@@ -212,6 +212,7 @@
 - https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
 - CSS examples https://github.com/atherosai/ui https://www.instagram.com/davidm_ai/
 - CSS explanations https://github.com/narutosstudent/css-for-js-devs-notes
+- 1500 free common open source fonts as npm packages https://fontsource.org/
 
 #### Good projects
 
