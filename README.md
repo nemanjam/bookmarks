@@ -380,6 +380,7 @@
 - Stanford AI course https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX
 - MIT AI course https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 - Harvard CS50 AI course https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm
+- neural networks https://www.youtube.com/@Dataquestio/playlists
 
 ---
 
