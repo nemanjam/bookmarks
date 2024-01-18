@@ -186,6 +186,7 @@
 - https://www.jacobparis.com/content/react-headless-submenus
 - https://dev.to/shingaiz/optimizing-file-processing-in-react-with-multipart-uploads-and-downloads-2n8p
 - https://github.com/brillout/awesome-react-components
+- Codevolution Next 14 https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI
 
 #### Astro
 
