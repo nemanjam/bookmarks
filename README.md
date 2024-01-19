@@ -256,6 +256,7 @@
 - excellent https://github.com/onwidget/tailnext
 - million dollars, excellent Next.js project https://github.com/maybe-finance/maybe
 - huge MS Paint in React and Firebase, Github Actions https://github.com/excalidraw/excalidraw
+- validate process.env with Zod https://github.com/ploskovytskyy/next-app-router-trpc-drizzle-planetscale-edge
 
 #### Website templates
 
