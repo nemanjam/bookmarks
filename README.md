@@ -418,7 +418,8 @@
 
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - Proxmox https://www.youtube.com/watch?v=GYOlulPwxlE&list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o
-- proxmox, packer... https://github.com/christianlempa/homelab
+- Proxmox, Packer... https://github.com/christianlempa/homelab
+- Proxmox configurations https://github.com/tteck/Proxmox , https://tteck.github.io/Proxmox/
 
 #### Git
 
