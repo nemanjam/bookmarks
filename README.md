@@ -259,6 +259,7 @@
 - million dollars, excellent Next.js project https://github.com/maybe-finance/maybe
 - huge MS Paint in React and Firebase, Github Actions https://github.com/excalidraw/excalidraw
 - validate process.env with Zod https://github.com/ploskovytskyy/next-app-router-trpc-drizzle-planetscale-edge
+- excellent AliExpress clone, Next.js 14, redux toolkit, js, mongo https://github.com/huanghanzhilian/c-shopping
 
 #### Website templates
 
