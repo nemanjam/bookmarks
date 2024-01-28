@@ -464,6 +464,8 @@
 
 - good personal website example https://jarocki.me/
 - excellent personal website https://github.com/Sayan-Maity/Portfolio-V2
+- SSG for Obsidian notes https://github.com/jackyzha0/quartz
+- SSG blogs thread https://twitter.com/karpathy/status/1751350002281300461
 
 #### Business
 
