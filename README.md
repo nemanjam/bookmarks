@@ -263,6 +263,7 @@
 - huge MS Paint in React and Firebase, Github Actions https://github.com/excalidraw/excalidraw
 - validate process.env with Zod https://github.com/ploskovytskyy/next-app-router-trpc-drizzle-planetscale-edge
 - excellent AliExpress clone, Next.js 14, redux toolkit, js, mongo https://github.com/huanghanzhilian/c-shopping
+- big Next.js 14 AI game https://github.com/steamship-core/ai-adventure
 
 #### Website templates
 
