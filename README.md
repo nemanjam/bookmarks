@@ -267,9 +267,8 @@
 
 #### Website templates
 
-- https://github.com/alxshelepenok/gatsby-starter-lumen
-- https://github.com/avitorio/outstatic
-- https://github.com/answerdev/answer
+- excellent simple scss architecture https://github.com/alxshelepenok/gatsby-starter-lumen
+- StackExchange clone, excellent forum https://github.com/answerdev/answer , demo https://meta.answer.dev/
 - github discussion comments https://github.com/giscus/giscus
 - SSG templates, Astro, Jekyll https://statichunt.com/
 - official Github Jekyll themes https://pages.github.com/themes/
