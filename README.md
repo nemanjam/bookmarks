@@ -421,6 +421,7 @@
 - https://github.com/trinib/Linux-Bash-Commands
 - Linux file system https://www.youtube.com/watch?v=42iQKuQodW4
 - https://dev.to/scorcism/file-permission-2d8
+- try Linux in browser, excellent https://distrosea.com/
 
 #### Homelab
 
