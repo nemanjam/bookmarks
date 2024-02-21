@@ -16,6 +16,7 @@
   - [CSS](#css)
   - [Good projects](#good-projects)
   - [Website templates](#website-templates)
+  - [Design](#design)
 - [Backend](#backend)
   - [Node.js](#nodejs)
   - [Serverless](#serverless)
@@ -276,6 +277,13 @@
 - SSG templates, Astro, Jekyll https://statichunt.com/
 - official Github Jekyll themes https://pages.github.com/themes/
 - static CMS https://github.com/avitorio/outstatic
+
+#### Design
+
+- https://free-for.dev/#/?id=design-and-ui
+- https://github.com/MohamedYoussouf/Design-Resources
+- https://github.com/shadeed , good design blog https://ishadeed.com/
+- free course https://www.udemy.com/course/web-design-secrets/
 
 ---
 
