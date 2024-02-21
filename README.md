@@ -128,6 +128,7 @@
 - blog links thread https://news.ycombinator.com/item?id=38542238
 - lot of links https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
+- big list https://github.com/ripienaar/free-for-dev
 
 ---
 
