@@ -268,6 +268,7 @@
 - excellent AliExpress clone, Next.js 14, redux toolkit, js, mongo https://github.com/huanghanzhilian/c-shopping
 - big Next.js 14 AI game https://github.com/steamship-core/ai-adventure
 - mature Next.js with app folder and Turbo monorepo https://github.com/radix-ui/themes
+- Vite CSR, MUI blog https://github.com/VadimNeVlad/feedr , Nest.js backend https://github.com/VadimNeVlad/feedr-server
 
 #### Website templates
 
