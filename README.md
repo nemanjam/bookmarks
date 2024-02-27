@@ -240,12 +240,12 @@
 - https://github.com/braydenwerner/t3-turbo-next-app-router
 - Project ideas https://github.com/practical-tutorials/project-based-learning
 - Next.js starter https://github.com/BearStudio/start-ui-web
-- Shadcn, TailwindCSS https://github.com/ozgurrgul/linkedin-clone
+- Shadcn, TailwindCSS, good design https://github.com/ozgurrgul/linkedin-clone
 - nice demo, bare tailwind https://github.com/EphremDemlew/EChatter
 - nx, config, storybook, vitest, playwright, trpc https://github.com/ixahmedxi/noodle
 - trpc, drizzle, next.js 13 https://github.com/sadmann7/skateshop
 - twitter, firebase https://github.com/ccrsxx/twitter-clone
-- cron, shadcn, trpc, turborepo https://github.com/openstatusHQ/openstatus
+- cron, shadcn, trpc, turborepo, blog, like Uptime Kuma https://github.com/openstatusHQ/openstatus
 - video conferencing, nije nesto, 100ms, shadcn, prisma https://github.com/JaleelB/callsquare
 - realworld stacks https://codebase.show/projects/realworld
 - not bad, Next 13, Shopify, graphql https://github.com/vercel/commerce
@@ -285,6 +285,7 @@
 - https://github.com/MohamedYoussouf/Design-Resources
 - https://github.com/shadeed , good design blog https://ishadeed.com/
 - free course https://www.udemy.com/course/web-design-secrets/
+- Figma mockups https://figspark.co/
 
 ---
 
