@@ -293,6 +293,8 @@
 - https://github.com/shadeed , good design blog https://ishadeed.com/
 - free course https://www.udemy.com/course/web-design-secrets/
 - Figma mockups https://figspark.co/
+- https://github.com/selfishprimate/curated-design-resources
+- a lot https://github.com/nilansaha?tab=repositories , https://github.com/RitikPatni/Front-End-Web-Development-Resources , https://github.com/hendurhance/ui-ux , https://github.com/kudapara/curated-design-tools
 
 ---
 
