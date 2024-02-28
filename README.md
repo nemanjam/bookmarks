@@ -94,6 +94,12 @@
 - https://gto76.github.io/python-cheatsheet/
 - grid https://grid.malven.co/
 
+- from Linkedin
+  - https://github.com/brillout/awesome-react-components
+  - https://github.com/streamich/react-use
+  - React apps, good and outdated https://github.com/jeromedalbert/real-world-react-apps
+  - React tricks, excellent https://github.com/vasanthk/react-bits
+
 #### Utils
 
 - https://www.photopea.com/
@@ -130,6 +136,7 @@
 - lot of links https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 - big list https://github.com/ripienaar/free-for-dev
+- from Linkedin https://github.com/enaqx/awesome-react
 
 ---
 
@@ -348,6 +355,7 @@
 - good https://github.dev/AdrianPayne/fastapi-rocket-boilerplate
 - generator https://github.com/s3rius/FastAPI-template
 - check again from linkedin https://www.linkedin.com/feed/update/urn:li:activity:7133510378793144320 https://github.com/hamedasgari20/fastapi-tutorial https://github.com/hamedasgari20/Python-Django-FastAPI-advanced-topics#fastapi-related-topics https://github.com/hamedasgari20/todoapp-with-FastAPI
+- from Linkedin, MongoDB team https://github.com/mongodb-labs/full-stack-fastapi-mongodb
 
 #### C\#
 
@@ -501,6 +509,7 @@
 - playlist https://www.youtube.com/playlist?list=PLD7ZaVjV4w05WHTDooFprJzUJ8BBvoRaZ
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/ByteByteGoHq/system-design-101
+- concise System Design cheatsheet https://gist.github.com/vasanthk/485d1c25737e8e72759f
 
 #### Algorithms and Data structures
 
@@ -515,3 +524,4 @@
 - https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/serbia.md
 - https://developers.google.com/community/experts
 - https://vadimkravcenko.com/
+- Bulgaria https://github.com/krasimir , https://krasimirtsonev.com/
