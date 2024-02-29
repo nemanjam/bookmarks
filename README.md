@@ -376,7 +376,7 @@
 - exercise https://rustlings.cool/ , https://github.com/rust-lang/rustlings/
 - https://adventofcode.com/2022
 - without macros https://cheats.rs/
-- terator cheatsheet https://danielkeep.github.io/itercheat_baked.html
+- iterator cheatsheet https://danielkeep.github.io/itercheat_baked.html
 - docs https://doc.rust-lang.org/nightly/reference/index.html
 - links https://github.com/ctjhoa/rust-learning
 - https://google.github.io/comprehensive-rust/
