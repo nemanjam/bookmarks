@@ -359,7 +359,7 @@
 - generator https://github.com/s3rius/FastAPI-template
 - check again from linkedin https://www.linkedin.com/feed/update/urn:li:activity:7133510378793144320 https://github.com/hamedasgari20/fastapi-tutorial https://github.com/hamedasgari20/Python-Django-FastAPI-advanced-topics#fastapi-related-topics https://github.com/hamedasgari20/todoapp-with-FastAPI
 - from Linkedin, MongoDB team https://github.com/mongodb-labs/full-stack-fastapi-mongodb
-- backend only https://github.com/payamt007/FastAPI-Toolkit
+- bad quality, backend only https://github.com/payamt007/FastAPI-Toolkit
 
 #### C\#
 
