@@ -23,6 +23,7 @@
   - [Python](#python)
   - [FastAPI](#fastapi)
   - [C#](#c)
+  - [Rust#](#rust)
   - [Databases](#databases)
 - [Software engineering](#software-engineering)
   - [Architecture](#architecture)
@@ -363,6 +364,22 @@
 
 - https://github.com/milanm/DotNet-Developer-Roadmap
 
+#### Rust
+
+- main link https://www.reddit.com/r/programiranje/comments/1b2vw05/comment/ksojwnb/
+- https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
+- Rust in 30 min https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+- Rust in 10 min https://www.youtube.com/watch?v=br3GIIQeefY
+- https://doc.rust-lang.org/book/
+- quiz https://rust-book.cs.brown.edu/
+- exercise https://rustlings.cool/ , https://github.com/rust-lang/rustlings/
+- https://adventofcode.com/2022
+- without macros https://cheats.rs/
+- terator cheatsheet https://danielkeep.github.io/itercheat_baked.html
+- docs https://doc.rust-lang.org/nightly/reference/index.html
+- links https://github.com/ctjhoa/rust-learning
+- https://google.github.io/comprehensive-rust/
+
 #### Databases
 
 - https://sqlflow.gudusoft.com/#/
@@ -437,6 +454,7 @@
 - docker dive https://dev.to/klip_klop/dive-into-docker-part-4-inspecting-docker-image-568o
 - cron https://github.com/alseambusher/crontab-ui , https://github.com/willfarrell/docker-crontab
 - reminder https://dev.to/hazarnenni/docker-best-practices-55j0
+- Windows in Docker container https://github.com/dockur/windows
 
 #### Linux
 
