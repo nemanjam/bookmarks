@@ -297,6 +297,7 @@
 - Figma mockups https://figspark.co/
 - https://github.com/selfishprimate/curated-design-resources
 - a lot https://github.com/nilansaha?tab=repositories , https://github.com/RitikPatni/Front-End-Web-Development-Resources , https://github.com/hendurhance/ui-ux , https://github.com/kudapara/curated-design-tools
+- design ideas https://www.frontendmentor.io/challenges
 
 ---
 
