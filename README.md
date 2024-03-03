@@ -277,6 +277,7 @@
 - big Next.js 14 AI game https://github.com/steamship-core/ai-adventure
 - mature Next.js with app folder and Turbo monorepo https://github.com/radix-ui/themes
 - Vite CSR, MUI, Redux Toolkit, RTK Query blog https://github.com/VadimNeVlad/feedr , Nest.js backend https://github.com/VadimNeVlad/feedr-server
+- lot of HTML and component examples https://github.com/atherosai/ui
 
 #### Website templates
 
