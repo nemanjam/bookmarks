@@ -278,6 +278,7 @@
 - mature Next.js with app folder and Turbo monorepo https://github.com/radix-ui/themes
 - Vite CSR, MUI, Redux Toolkit, RTK Query blog https://github.com/VadimNeVlad/feedr , Nest.js backend https://github.com/VadimNeVlad/feedr-server
 - lot of HTML and component examples https://github.com/atherosai/ui
+- excellent Next.js templates https://github.com/NextJSTemplates , https://github.com/NextJSTemplates/solid-nextjs , https://github.com/NextJSTemplates/play-nextjs , https://github.com/NextJSTemplates/startup-nextjs , https://nextjstemplates.com/blog/nextjs-boilerplates , https://github.com/Musharofchy
 
 #### Website templates
 
