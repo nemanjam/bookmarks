@@ -138,6 +138,7 @@
 - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 - big list https://github.com/ripienaar/free-for-dev
 - from Linkedin https://github.com/enaqx/awesome-react
+- https://github.com/markodenic/web-development-resources
 
 ---
 
