@@ -139,6 +139,7 @@
 - big list https://github.com/ripienaar/free-for-dev
 - from Linkedin https://github.com/enaqx/awesome-react
 - https://github.com/markodenic/web-development-resources
+- https://github.com/markodenic/awesome-tech-blogs
 
 ---
 
