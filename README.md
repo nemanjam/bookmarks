@@ -281,6 +281,7 @@
 - Vite CSR, MUI, Redux Toolkit, RTK Query blog https://github.com/VadimNeVlad/feedr , Nest.js backend https://github.com/VadimNeVlad/feedr-server
 - lot of HTML and component examples https://github.com/atherosai/ui
 - excellent Next.js templates https://github.com/NextJSTemplates , https://github.com/NextJSTemplates/solid-nextjs , https://github.com/NextJSTemplates/play-nextjs , https://github.com/NextJSTemplates/startup-nextjs , https://nextjstemplates.com/blog/nextjs-boilerplates , https://github.com/Musharofchy
+- gravis-os lot of useful examples https://github.com/gravis-os/gravis-os , https://docs.gravis-os.com/docs/getting-started/introduction , https://release--632588ca2d4a8d66280fd1c4.chromatic.com/
 
 #### Website templates
 
