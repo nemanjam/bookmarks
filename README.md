@@ -493,6 +493,7 @@
 - https://dev.to/jodaut/beyond-the-basics-guide-to-deeply-understand-merge-rebase-squash-and-cherry-pick-when-to-use-them-with-real-world-examples-3f2m
 - https://dev.to/opensauced/keeping-your-branch-up-to-date-and-handling-merge-conflicts-while-waiting-for-pr-reviews-3b3h
 - https://dev.to/arthvhanesa/how-to-remove-secrets-from-a-git-repository-36e4
+- excellent https://ohshitgit.com/
 
 ---
 
