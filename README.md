@@ -327,6 +327,7 @@
 - excellent Node.js articles https://dev.to/amplication
 - merge .env vars and yaml https://dev.to/emekaofe/how-to-pass-environment-variables-to-a-yaml-file-in-a-nodejs-application-using-ejs-templating-engine-ib7
 - REST API https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs
+- REST API principles https://dev.to/michaelayomidejohnson/top-10-practices-for-designing-efficient-restful-apis-250e
 
 #### Serverless
 
