@@ -81,6 +81,7 @@
 - https://addyosmani.com/blog/
 - https://architecturenotes.co/
 - list of blogs https://blogs.hn/
+- excellent React, Vue, Svelte, frontend theory https://dev.to/itswillt , https://github.com/itshugota
 
 #### Cheatsheets
 
@@ -203,6 +204,7 @@
 - https://dev.to/shingaiz/optimizing-file-processing-in-react-with-multipart-uploads-and-downloads-2n8p
 - https://github.com/brillout/awesome-react-components
 - Codevolution Next 14 https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI
+- React folder structure https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
 
 #### Astro
 
@@ -282,6 +284,7 @@
 - lot of HTML and component examples https://github.com/atherosai/ui
 - excellent Next.js templates https://github.com/NextJSTemplates , https://github.com/NextJSTemplates/solid-nextjs , https://github.com/NextJSTemplates/play-nextjs , https://github.com/NextJSTemplates/startup-nextjs , https://nextjstemplates.com/blog/nextjs-boilerplates , https://github.com/Musharofchy
 - gravis-os lot of useful examples https://github.com/gravis-os/gravis-os , https://docs.gravis-os.com/docs/getting-started/introduction , https://release--632588ca2d4a8d66280fd1c4.chromatic.com/
+- blog, dev.to api, Chakra https://github.com/MA-Ahmad/myPortfolio
 
 #### Website templates
 
