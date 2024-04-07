@@ -23,7 +23,7 @@
   - [Python](#python)
   - [FastAPI](#fastapi)
   - [C#](#c)
-  - [Rust#](#rust)
+  - [Rust](#rust)
   - [Databases](#databases)
 - [Software engineering](#software-engineering)
   - [Architecture](#architecture)
