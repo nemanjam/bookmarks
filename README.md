@@ -286,6 +286,7 @@
 - excellent Next.js templates https://github.com/NextJSTemplates , https://github.com/NextJSTemplates/solid-nextjs , https://github.com/NextJSTemplates/play-nextjs , https://github.com/NextJSTemplates/startup-nextjs , https://nextjstemplates.com/blog/nextjs-boilerplates , https://github.com/Musharofchy
 - gravis-os lot of useful examples https://github.com/gravis-os/gravis-os , https://docs.gravis-os.com/docs/getting-started/introduction , https://release--632588ca2d4a8d66280fd1c4.chromatic.com/
 - blog, dev.to api, Chakra https://github.com/MA-Ahmad/myPortfolio
+- Slack clone https://github.com/RicardoGEsteves/Intertwine , other Next.js projects https://github.com/RicardoGEsteves/
 
 #### Website templates
 
