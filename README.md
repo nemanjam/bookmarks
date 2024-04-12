@@ -523,6 +523,7 @@
 - https://hnhiring.com/trends
 - https://github.com/kuchin/awesome-cto
 - CV template https://github.com/BartoszJarocki/cv
+- Hackernews hiring trends graph https://hnhiring.com/trends , repo https://github.com/jordinl/hnhiring
 
 #### Personal branding
 
