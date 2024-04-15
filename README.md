@@ -355,6 +355,7 @@
 - python package https://dev.to/cwprogram/basic-python-project-layout-1pg2
 - https://www.reddit.com/r/Python/comments/18p5j92/debugging_dockerized_python_apps_in_vscode/
 - Arjan Codes Youtube code examples https://github.com/ArjanCodes/examples/
+- Python basics cheatsheet https://github.com/trekhleb/learn-python
 
 #### FastAPI
 
@@ -531,6 +532,7 @@
 - excellent personal website https://github.com/Sayan-Maity/Portfolio-V2
 - SSG for Obsidian notes https://github.com/jackyzha0/quartz
 - SSG blogs thread https://twitter.com/karpathy/status/1751350002281300461
+- excellent blog, projects and design https://github.com/trekhleb/trekhleb.github.io , https://trekhleb.dev/
 
 #### Business
 
@@ -555,6 +557,7 @@
 - https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY
 - https://www.bigocheatsheet.com
 - https://newsletter.francofernando.com/
+- Readmes + code https://github.com/trekhleb/javascript-algorithms
 
 #### People
 
