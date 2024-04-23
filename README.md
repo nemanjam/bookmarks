@@ -502,6 +502,7 @@
 - https://dev.to/opensauced/keeping-your-branch-up-to-date-and-handling-merge-conflicts-while-waiting-for-pr-reviews-3b3h
 - https://dev.to/arthvhanesa/how-to-remove-secrets-from-a-git-repository-36e4
 - excellent https://ohshitgit.com/ , https://github.com/ksylor/ohshitgit
+- semantic versioning from Github https://semver.org/
 
 ---
 
