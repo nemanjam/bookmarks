@@ -310,6 +310,11 @@
 - a lot https://github.com/nilansaha?tab=repositories , https://github.com/RitikPatni/Front-End-Web-Development-Resources , https://github.com/hendurhance/ui-ux , https://github.com/kudapara/curated-design-tools
 - design ideas https://www.frontendmentor.io/challenges
 - https://github.com/bradfrost/style-guide-guide
+- Jonas Schmedtmann free course, Web Design for Web Developers https://www.udemy.com/course/web-design-secrets/
+- design inspiration:
+  - static websites, outdated https://themeforest.net/
+  - UI components https://www.behance.net/ , https://dribbble.com/
+  - https://www.awwwards.com/ , https://curated.design , https://lapa.ninja , https://tympanus.net/codrops/demos/
 
 ---
 
