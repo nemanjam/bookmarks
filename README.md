@@ -383,6 +383,7 @@
 - from Linkedin, MongoDB team https://github.com/mongodb-labs/full-stack-fastapi-mongodb
 - bad quality, backend only https://github.com/payamt007/FastAPI-Toolkit
 - updated 2024 https://github.com/tiangolo/full-stack-fastapi-template
+- cheatsheet https://github.com/kludex/fastapi-tips
 
 #### C\#
 
