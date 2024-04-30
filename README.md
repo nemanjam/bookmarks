@@ -216,6 +216,7 @@
 - ALL examples are important, like Vercel https://github.dev/withastro/astro/tree/main/examples/
 - links https://github.com/one-aalam/awesome-astro
 - best Astro blog starter https://github.com/onwidget/astrowind
+- icons https://github.com/natemoo-re/astro-icon
 
 #### Turbo
 
