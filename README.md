@@ -290,6 +290,7 @@
 - blog, dev.to api, Chakra https://github.com/MA-Ahmad/myPortfolio
 - Slack clone https://github.com/RicardoGEsteves/Intertwine , other Next.js projects https://github.com/RicardoGEsteves/
 - maybe https://github.com/Skolaczk/next-starter
+- excellent p2p chat, video, file, audio https://github.com/positive-intentions/chat
 
 #### Website templates
 
