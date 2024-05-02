@@ -291,6 +291,7 @@
 - Slack clone https://github.com/RicardoGEsteves/Intertwine , other Next.js projects https://github.com/RicardoGEsteves/
 - maybe https://github.com/Skolaczk/next-starter
 - excellent p2p chat, video, file, audio https://github.com/positive-intentions/chat
+- Next.js, Prisma Github Gists, excellent https://github.com/MaxLeiter/Drift
 
 #### Website templates
 
@@ -496,7 +497,8 @@
 - Proxmox https://www.youtube.com/watch?v=GYOlulPwxlE&list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o
 - Proxmox, Packer... https://github.com/christianlempa/homelab
 - Proxmox configurations https://github.com/tteck/Proxmox , https://tteck.github.io/Proxmox/
-- bypass CGNAT, Oracle https://github.com/mochman/Bypass_CGNAT
+- bypass CGNAT, Oracle https://github.com/mochman/Bypass_CGNAT , https://www.reddit.com/r/unRAID/comments/10vx69b/ultimate_noob_guide_how_to_bypass_cgnat_using/
+- self-hosted Github Gists https://github.com/thomiceli/opengist , Next.js, Prisma https://github.com/MaxLeiter/drift
 
 #### Git
 
