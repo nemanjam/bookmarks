@@ -291,7 +291,7 @@
 - Slack clone https://github.com/RicardoGEsteves/Intertwine , other Next.js projects https://github.com/RicardoGEsteves/
 - maybe https://github.com/Skolaczk/next-starter
 - excellent p2p chat, video, file, audio https://github.com/positive-intentions/chat
-- Next.js, Prisma Github Gists, excellent https://github.com/MaxLeiter/Drift
+- Next.js, Prisma Github Gists, not so quality https://github.com/MaxLeiter/Drift
 
 #### Website templates
 
