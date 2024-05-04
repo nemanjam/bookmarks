@@ -215,8 +215,9 @@
 - SSR example https://github.com/withastro/astro/tree/main/examples/ssr
 - ALL examples are important, like Vercel https://github.dev/withastro/astro/tree/main/examples/
 - links https://github.com/one-aalam/awesome-astro
-- best Astro blog starter https://github.com/onwidget/astrowind
+- messy Astro blog https://github.com/onwidget/astrowind
 - icons https://github.com/natemoo-re/astro-icon
+- excellent Astro blogs https://github.com/billy-le/billyle.dev , https://github.com/rezahedi/rezahedi.dev
 
 #### Turbo
 
@@ -292,6 +293,7 @@
 - maybe https://github.com/Skolaczk/next-starter
 - excellent p2p chat, video, file, audio https://github.com/positive-intentions/chat
 - Next.js, Prisma Github Gists, not so quality https://github.com/MaxLeiter/Drift
+- Twitter dogs clone, React, Firebase https://github.com/rezahedi/HighPaws-Buddies
 
 #### Website templates
 
