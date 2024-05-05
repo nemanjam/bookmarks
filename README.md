@@ -163,6 +163,7 @@
 - closures, excellent https://dev.to/imranabdulmalik/mastering-closures-in-javascript-a-comprehensive-guide-4ja8
 - regex https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np
 - https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/
+- browser extension starter https://github.com/cezaraugusto/extension.js
 
 #### React
 
