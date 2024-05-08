@@ -295,6 +295,7 @@
 - excellent p2p chat, video, file, audio https://github.com/positive-intentions/chat
 - Next.js, Prisma Github Gists, not so quality https://github.com/MaxLeiter/Drift
 - Twitter dogs clone, React, Firebase https://github.com/rezahedi/HighPaws-Buddies
+- flat file cms, Next.js, shadcn https://github.com/avitorio/outstatic , demo https://www.andrevitorio.com/
 
 #### Website templates
 
