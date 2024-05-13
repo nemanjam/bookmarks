@@ -164,6 +164,7 @@
 - regex https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np
 - https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/
 - browser extension starter https://github.com/cezaraugusto/extension.js
+- Typescript styleguide https://mkosir.github.io/typescript-style-guide/
 
 #### React
 
