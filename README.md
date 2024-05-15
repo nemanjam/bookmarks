@@ -310,6 +310,7 @@
 #### Design
 
 - lot of free templates https://htmlrev.com/
+- components https://kitwind.io/products/kometa/components
 - https://free-for.dev/#/?id=design-and-ui
 - https://github.com/MohamedYoussouf/Design-Resources
 - https://github.com/shadeed , good design blog https://ishadeed.com/
