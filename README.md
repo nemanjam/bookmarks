@@ -297,6 +297,7 @@
 - Next.js, Prisma Github Gists, not so quality https://github.com/MaxLeiter/Drift
 - Twitter dogs clone, React, Firebase https://github.com/rezahedi/HighPaws-Buddies
 - flat file cms, Next.js, shadcn https://github.com/avitorio/outstatic , demo https://www.andrevitorio.com/
+- Next.js, tauri, rust loom clone https://github.com/CapSoftware/Cap
 
 #### Website templates
 
