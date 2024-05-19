@@ -511,6 +511,9 @@
   - https://www.reddit.com/r/unRAID/comments/10vx69b/ultimate_noob_guide_how_to_bypass_cgnat_using/
   - https://github.com/anderspitman/awesome-tunneling
   - https://github.com/DigitallyRefined/docker-wireguard-tunnel
+  - good https://github.com/sandialabs/wiretap
+  - https://github.com/ntnj/tunwg
+  - maybe best https://nitinja.in/tech/ , https://github.com/rapiz1/rathole
 
 #### Git
 
