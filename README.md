@@ -220,6 +220,7 @@
 - messy Astro blog https://github.com/onwidget/astrowind
 - icons https://github.com/natemoo-re/astro-icon
 - excellent Astro blogs https://github.com/billy-le/billyle.dev , https://github.com/rezahedi/rezahedi.dev
+- Tailwind guy https://github.com/simonswiss/simonswiss.com
 
 #### Turbo
 
