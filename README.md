@@ -598,3 +598,4 @@
 - https://developers.google.com/community/experts
 - https://vadimkravcenko.com/
 - Bulgaria https://github.com/krasimir , https://krasimirtsonev.com/
+- cva author https://github.com/joe-bell/ , https://joebell.studio/blog
