@@ -600,3 +600,4 @@
 - https://vadimkravcenko.com/
 - Bulgaria https://github.com/krasimir , https://krasimirtsonev.com/
 - cva author https://github.com/joe-bell/ , https://joebell.studio/blog
+- Inter font creator https://github.com/rsms , https://rsms.me/about/
