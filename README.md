@@ -584,6 +584,9 @@
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/ByteByteGoHq/system-design-101
 - concise System Design cheatsheet https://gist.github.com/vasanthk/485d1c25737e8e72759f
+- React https://github.com/sudheerj/reactjs-interview-questions
+- Full stack https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers
+- Frontend gist https://gist.github.com/augbog/ed3502543169b6ce844313c69e4e1b2d
 
 #### Algorithms and Data structures
 
