@@ -229,6 +229,7 @@
 - eslint, prettier, ts configs https://github.com/kyr0/turbo-hybrid-astro-on-vercel
 - Jest, Storybook, Turborepo https://github.com/mkosir/frontend-monorepo-boilerplate
 - https://github.com/belgattitude/nextjs-monorepo-example
+- cheatsheet https://www.shew.dev/monorepos , https://github.com/anthonyshew/maestros
 
 #### CSS
 
