@@ -222,6 +222,7 @@
 - icons https://github.com/natemoo-re/astro-icon
 - excellent Astro blogs https://github.com/billy-le/billyle.dev , https://github.com/rezahedi/rezahedi.dev
 - Tailwind guy, Keystatic very simple https://github.com/simonswiss/simonswiss.com
+- integrations market https://astro.build/integrations/
 
 #### Turbo
 
