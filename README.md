@@ -145,6 +145,7 @@
 - https://github.com/markodenic/awesome-tech-blogs
 - python projects links https://github.com/mahmoud/awesome-python-applications
 - website pages explanations, has links to blogs https://slashpages.net/ , for example https://blogroll.org/
+- lot of design tutorials links https://www.interaction-design.org/literature/topics
 
 ---
 
