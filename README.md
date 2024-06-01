@@ -524,6 +524,7 @@
   - good https://github.com/sandialabs/wiretap
   - https://github.com/ntnj/tunwg
   - maybe best https://nitinja.in/tech/ , https://github.com/rapiz1/rathole
+- Proxmox helper scripts for installations https://helper-scripts.com/scripts
 
 #### Git
 
