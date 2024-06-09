@@ -227,6 +227,7 @@
 - excellent Astro blogs https://github.com/billy-le/billyle.dev , https://github.com/rezahedi/rezahedi.dev
 - Tailwind guy, Keystatic very simple https://github.com/simonswiss/simonswiss.com
 - integrations market https://astro.build/integrations/
+- Flavio Copes Astro tutorial https://thevalleyofcode.com/astro , articles https://flaviocopes.com/tags/astro/
 
 #### Turbo
 
