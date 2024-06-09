@@ -126,6 +126,7 @@
 - Open Graph tags and image preview https://www.opengraph.xyz/
 - website performance, page load video https://www.webpagetest.org/
 - update VS Code Ubuntu https://github.com/moeenz/vscode-updater
+- game to learn CSS grid https://cssgridgarden.com/
 
 #### Links
 
