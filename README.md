@@ -127,6 +127,7 @@
 - website performance, page load video https://www.webpagetest.org/
 - update VS Code Ubuntu https://github.com/moeenz/vscode-updater
 - game to learn CSS grid https://cssgridgarden.com/
+- screen recording and annotating Chrome extension https://github.com/alyssaxuu/screenity
 
 #### Links
 
@@ -496,6 +497,7 @@
 - digital life, snippets https://github.com/christianlempa/cheat-sheets
 - lot of things https://github.com/christianlempa/boilerplates
 - https://www.reddit.com/r/Python/comments/xobba8/how_i_deploy_my_bootstrapped_python_webapp_with/
+- self hosted Paas, in Next.js https://github.com/dokploy/dokploy
 
 #### Docker
 
@@ -618,3 +620,4 @@
 - Bulgaria https://github.com/krasimir , https://krasimirtsonev.com/
 - cva author https://github.com/joe-bell/ , https://joebell.studio/blog
 - Inter font creator https://github.com/rsms , https://rsms.me/about/
+- many apps https://github.com/alyssaxuu
