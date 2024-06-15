@@ -82,6 +82,7 @@
 - https://architecturenotes.co/
 - list of blogs https://blogs.hn/
 - excellent React, Vue, Svelte, frontend theory https://dev.to/itswillt , https://github.com/itshugota
+- https://www.joshwcomeau.com/tutorials/
 
 #### Cheatsheets
 
