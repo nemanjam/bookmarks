@@ -323,6 +323,7 @@
 - static CMS https://github.com/avitorio/outstatic
 - excellent 600 free components https://easyfrontend.com/
 - Tailwind component kits https://tailscan.com/blog/tailwind-css-components
+- Tailwind components https://flowbite.com/blocks/
 
 #### Design
 
