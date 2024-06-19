@@ -324,6 +324,7 @@
 - excellent 600 free components https://easyfrontend.com/
 - Tailwind component kits https://tailscan.com/blog/tailwind-css-components
 - Tailwind components https://flowbite.com/blocks/
+- original html design https://github.dev/kisslinux/kisslinux.github.io
 
 #### Design
 
