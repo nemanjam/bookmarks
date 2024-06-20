@@ -128,6 +128,7 @@
 - update VS Code Ubuntu https://github.com/moeenz/vscode-updater
 - game to learn CSS grid https://cssgridgarden.com/
 - screen recording and annotating Chrome extension https://github.com/alyssaxuu/screenity
+- React internals debugger https://jser.dev/2024-05-11-introducing-rie/
 
 #### Links
 
