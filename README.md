@@ -82,6 +82,7 @@
 - https://architecturenotes.co/
 - list of blogs https://blogs.hn/
 - excellent React, Vue, Svelte, frontend theory https://dev.to/itswillt , https://github.com/itshugota
+- Docker, Kubernetes https://iximiuz.com/en/ , https://github.com/iximiuz
 
 #### Cheatsheets
 
@@ -507,6 +508,7 @@
 - lot of things https://github.com/christianlempa/boilerplates
 - https://www.reddit.com/r/Python/comments/xobba8/how_i_deploy_my_bootstrapped_python_webapp_with/
 - self hosted Paas, in Next.js https://github.com/dokploy/dokploy
+- SSH tunnels https://iximiuz.com/en/posts/ssh-tunnels/
 
 #### Docker
 
