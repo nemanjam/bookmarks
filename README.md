@@ -330,6 +330,7 @@
 - Tailwind component kits https://tailscan.com/blog/tailwind-css-components
 - Tailwind components https://flowbite.com/blocks/
 - original html design https://github.dev/kisslinux/kisslinux.github.io
+- Tailwind components https://tailwindflex.com/
 
 #### Design
 
