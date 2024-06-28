@@ -311,7 +311,7 @@
 - gravis-os lot of useful examples https://github.com/gravis-os/gravis-os , https://docs.gravis-os.com/docs/getting-started/introduction , https://release--632588ca2d4a8d66280fd1c4.chromatic.com/
 - blog, dev.to api, Chakra https://github.com/MA-Ahmad/myPortfolio
 - Slack clone https://github.com/RicardoGEsteves/Intertwine , other Next.js projects https://github.com/RicardoGEsteves/
-- maybe https://github.com/Skolaczk/next-starter
+- have a look, maybe https://github.com/Skolaczk/next-starter
 - excellent p2p chat, video, file, audio https://github.com/positive-intentions/chat
 - Next.js, Prisma Github Gists, not so quality https://github.com/MaxLeiter/Drift
 - Twitter dogs clone, React, Firebase https://github.com/rezahedi/HighPaws-Buddies
