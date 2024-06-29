@@ -544,6 +544,7 @@
   - maybe best https://nitinja.in/tech/ , https://github.com/rapiz1/rathole
   - BEST library, not well documented https://github.com/fatedier/frp
 - Proxmox helper scripts for installations https://helper-scripts.com/scripts
+- self-hosted speed test in php https://github.com/librespeed/speedtest , https://librespeed.org/
 
 #### Git
 
