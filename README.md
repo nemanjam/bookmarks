@@ -83,6 +83,7 @@
 - list of blogs https://blogs.hn/
 - excellent React, Vue, Svelte, frontend theory https://dev.to/itswillt , https://github.com/itshugota
 - Docker, Kubernetes https://iximiuz.com/en/ , https://github.com/iximiuz
+- Astro articles https://zellwk.com/blog/1/
 
 #### Cheatsheets
 
