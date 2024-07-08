@@ -34,6 +34,7 @@
   - [DevOps](#devops)
   - [Docker](#docker)
   - [Linux](#linux)
+  - [Networks](#networks)
   - [Homelab](#homelab)
   - [Git](#git)
 - [Career](#career)
@@ -511,6 +512,7 @@
 - https://www.reddit.com/r/Python/comments/xobba8/how_i_deploy_my_bootstrapped_python_webapp_with/
 - self hosted Paas, in Next.js https://github.com/dokploy/dokploy
 - SSH tunnels https://iximiuz.com/en/posts/ssh-tunnels/
+- lot of devops info here https://iximiuz.com/
 
 #### Docker
 
@@ -527,6 +529,10 @@
 - Linux file system https://www.youtube.com/watch?v=42iQKuQodW4
 - https://dev.to/scorcism/file-permission-2d8
 - try Linux in browser, excellent https://distrosea.com/
+
+#### Networks
+
+- Iptables and more https://iximiuz.com/en/series/computer-networking-fundamentals/
 
 #### Homelab
 
