@@ -109,6 +109,7 @@
 #### Utils
 
 - https://www.photopea.com/
+- placeholder images https://picsum.photos/
 - https://veed.io
 - https://www.cellmapper.net/
 - https://texteditor.com/bold-text/
