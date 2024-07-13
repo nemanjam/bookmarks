@@ -96,7 +96,7 @@
 - https://oscarchou.com/posts/handbook/dokku-command-cheatsheet/
 - nije free https://georgemoller.gumroad.com/
 - email subscription https://www.webdevvisuals.com/visuals
-- https://gto76.github.io/python-cheatsheet/
+- https://gto76.github.io/python-cheatsheet/ , https://gto76.github.io/linux-cheatsheet/
 - grid https://grid.malven.co/
 
 - from Linkedin
