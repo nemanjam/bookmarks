@@ -105,6 +105,7 @@
   - React apps, good and outdated https://github.com/jeromedalbert/real-world-react-apps
   - React tricks, excellent https://github.com/vasanthk/react-bits
 - latencies https://vercel.com/blog/latency-numbers-every-web-developer-should-know
+- Google styleguide, Python, Typescript, Shell... https://github.com/google/styleguide
 
 #### Utils
 
