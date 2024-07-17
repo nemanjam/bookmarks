@@ -611,6 +611,7 @@
 - licenses https://www.tldrlegal.com/
 - one man businesses list https://www.indie-wiki.com/
 - excellent self hosted Docker backend https://github.com/pocketbase/pocketbase/
+- promotion channels https://github.com/trekhleb/promote-your-next-startup
 
 #### Interviews
 
