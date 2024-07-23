@@ -85,6 +85,7 @@
 - excellent React, Vue, Svelte, frontend theory https://dev.to/itswillt , https://github.com/itshugota
 - Docker, Kubernetes https://iximiuz.com/en/ , https://github.com/iximiuz
 - Astro articles https://zellwk.com/blog/1/
+- Linuxserver docker images blog https://www.linuxserver.io/blog
 
 #### Cheatsheets
 
@@ -554,6 +555,8 @@
   - BEST library, not well documented https://github.com/fatedier/frp
 - Proxmox helper scripts for installations https://helper-scripts.com/scripts
 - self-hosted speed test in php https://github.com/librespeed/speedtest , https://librespeed.org/
+- lot of excellent Docker images https://github.com/linuxserver
+- web self hosted VS Code https://github.com/linuxserver/docker-code-server
 
 #### Git
 
