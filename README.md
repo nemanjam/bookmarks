@@ -252,6 +252,7 @@
 #### CSS
 
 - https://www.smashingmagazine.com/2021/03/css-generators/
+- SVG https://www.sarasoueidan.com/blog/
 - https://www.designsystem.tools/
 - https://components.ai/gradient/55aqKLrj9baxkeSeqsHQ
 - https://components.ai/
