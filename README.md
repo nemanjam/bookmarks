@@ -650,3 +650,4 @@
 - cva author https://github.com/joe-bell/ , https://joebell.studio/blog
 - Inter font creator https://github.com/rsms , https://rsms.me/about/
 - many apps https://github.com/alyssaxuu
+- excellent CSS blog https://lea.verou.me , https://github.com/leaverou
