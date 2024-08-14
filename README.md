@@ -639,6 +639,7 @@
 - https://www.bigocheatsheet.com
 - https://newsletter.francofernando.com/
 - Readmes + code https://github.com/trekhleb/javascript-algorithms
+- Complete computer science studies https://github.com/ossu/computer-science
 
 #### People
 
@@ -650,4 +651,4 @@
 - cva author https://github.com/joe-bell/ , https://joebell.studio/blog
 - Inter font creator https://github.com/rsms , https://rsms.me/about/
 - many apps https://github.com/alyssaxuu
-- excellent CSS blog https://lea.verou.me , https://github.com/leaverou
+- excellent CSS blog https://lea.verou.me , https://github.com/leaverou/lea.verou.me
