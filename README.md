@@ -639,7 +639,7 @@
 - https://www.bigocheatsheet.com
 - https://newsletter.francofernando.com/
 - Readmes + code https://github.com/trekhleb/javascript-algorithms
-- Complete computer science studies https://github.com/ossu/computer-science
+- Complete computer science studies https://github.com/ossu/computer-science , https://ossu.firebaseapp.com/#/curriculum , mathematics https://github.com/ossu/math
 
 #### People
 
