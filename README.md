@@ -107,6 +107,7 @@
   - React tricks, excellent https://github.com/vasanthk/react-bits
 - latencies https://vercel.com/blog/latency-numbers-every-web-developer-should-know
 - Google styleguide, Python, Typescript, Shell... https://github.com/google/styleguide
+- Linux infographic cheatsheets https://x.com/sysxplore/media
 
 #### Utils
 
