@@ -242,6 +242,7 @@
 - Flavio Copes Astro tutorial https://thevalleyofcode.com/astro , articles https://flaviocopes.com/tags/astro/
 - nanostores with React Query https://hounie.me/writings/how-to-use-react-query-with-astro/
 - Remote markdown https://github.com/natemoo-re/astro-remote
+- Big, excellent list of Astro blogs https://github.com/withastro/roadmap/discussions/521
 
 #### Turbo
 
