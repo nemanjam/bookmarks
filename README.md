@@ -8,6 +8,8 @@
   - [Cheatsheets](#cheatsheets)
   - [Utils](#utils)
   - [Links](#links)
+  - [Showoff projects](#showoff-projects)
+  - [Trending links](#trending-links)
 - [Frontend](#frontend)
   - [JavaScript](#javascript)
   - [React](#react)
@@ -160,7 +162,30 @@
 - website pages explanations, has links to blogs https://slashpages.net/ , for example https://blogroll.org/
 - lot of design tutorials links https://www.interaction-design.org/literature/topics
 
----
+#### Showoff projects
+
+- https://news.ycombinator.com/show
+- https://www.reddit.com/r/SideProject/
+- https://www.reddit.com/r/webdev/?f=flair_name%3A%22Showoff%20Saturday%22
+- https://github.com/trending
+- https://www.reddit.com/r/reactjs/?f=flair_name%3A%22Show%20%2Fr%2Freactjs%22
+- https://www.reddit.com/r/Python/?f=flair_name%3A%22Showcase%22
+
+#### Trending links
+
+- https://news.ycombinator.com/best
+- https://hn.algolia.com/
+- https://github.com/trending
+- https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/serbia.md
+- https://www.reddit.com/r/reactjs/top/?t=week
+- https://www.reddit.com/r/nextjs/top/?t=week
+- https://www.reddit.com/r/astrojs/top/?t=month
+- https://www.reddit.com/r/tailwindcss/top/?t=month
+- https://www.reddit.com/r/Python/top/?t=week
+- https://www.reddit.com/r/FastAPI/top/?t=month
+- https://www.reddit.com/r/ExperiencedDevs/top/?t=month
+- https://www.reddit.com/r/cscareerquestions/top/?t=week
+- https://www.producthunt.com/categories
 
 ### Frontend
 
