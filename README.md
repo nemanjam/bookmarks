@@ -587,6 +587,30 @@
 - self-hosted speed test in php https://github.com/librespeed/speedtest , https://librespeed.org/
 - lot of excellent Docker images https://github.com/linuxserver
 - web self hosted VS Code https://github.com/linuxserver/docker-code-server
+- Homelab subreddits:
+  - https://www.reddit.com/r/selfhosted
+  - https://www.reddit.com/r/HomeServer
+  - https://www.reddit.com/r/homelab
+  - https://www.reddit.com/r/HomeNetworking
+  - https://www.reddit.com/r/Proxmox
+  - https://www.reddit.com/r/linuxquestions
+  - https://www.reddit.com/r/devops
+  - https://www.reddit.com/r/docker
+  - https://www.reddit.com/r/linuxadmin
+  - https://www.reddit.com/r/sysadmin
+  - https://www.reddit.com/r/HomeDataCenter
+  - https://www.reddit.com/r/linux_devices
+  - https://www.reddit.com/r/DataHoarder
+  - https://www.reddit.com/r/HomeLabPorn
+  - https://www.reddit.com/r/homelabmasterrace
+  - https://www.reddit.com/r/homelabsales
+  - https://www.reddit.com/r/hardwareswap
+  - https://www.reddit.com/r/minilab
+  - https://www.reddit.com/r/MiniPCs
+  - https://www.reddit.com/r/silentpc
+  - https://www.reddit.com/r/budgethomelab
+  - https://www.reddit.com/r/PFSENSE
+  - https://www.reddit.com/r/opnsense
 
 #### Git
 
