@@ -628,6 +628,7 @@
 - https://dev.to/arthvhanesa/how-to-remove-secrets-from-a-git-repository-36e4
 - excellent https://ohshitgit.com/ , https://github.com/ksylor/ohshitgit
 - semantic versioning from Github https://semver.org/
+- Flavio Copes comprehensive cheatsheet https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/
 
 ---
 
