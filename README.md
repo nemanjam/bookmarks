@@ -53,7 +53,6 @@
 
 #### Coding news
 
-- https://stargazing.dev/
 - https://hashnode.com/featured
 - https://dev.to/t/git/top/infinity
 - https://dev.to/t/react/top/week
@@ -63,6 +62,7 @@
 - Github trendovi, odlican https://star-history.com
 - extension aggregator https://daily.dev/
 - https://news.ycombinator.com/best
+- dead link https://stargazing.dev/, https://x.com/stargazing_dev
 
 #### Blogs
 
