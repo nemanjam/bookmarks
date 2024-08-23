@@ -144,6 +144,7 @@
 
 - https://twitter.com/denicmarko/status/1528678833561509889
 - https://github.com/markodenic/web-development-resources
+- https://github.com/markodenic/awesome-tech-blogs
 - https://andreasbm.github.io/web-skills/?compact
 - https://www.reddit.com/r/reactjs/comments/vrhss4/what_are_some_midseniorlevel_blogs_subs_forums/
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
@@ -156,8 +157,6 @@
 - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 - big list https://github.com/ripienaar/free-for-dev
 - from Linkedin https://github.com/enaqx/awesome-react
-- https://github.com/markodenic/web-development-resources
-- https://github.com/markodenic/awesome-tech-blogs
 - python projects links https://github.com/mahmoud/awesome-python-applications
 - website pages explanations, has links to blogs https://slashpages.net/ , for example https://blogroll.org/
 - lot of design tutorials links https://www.interaction-design.org/literature/topics
@@ -269,6 +268,7 @@
 - Remote markdown https://github.com/natemoo-re/astro-remote
 - Big, excellent list of Astro blogs https://github.com/withastro/roadmap/discussions/521
 - Astro tutorials list https://github.com/astrolicious/astro-tips.dev
+- Official, lot of Astro links https://docs.astro.build/en/community-resources/content/
 
 #### Turbo
 
