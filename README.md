@@ -705,3 +705,5 @@
 - many apps https://github.com/alyssaxuu
 - excellent CSS blog https://lea.verou.me , https://github.com/leaverou/lea.verou.me
 - Kazakhstan https://x.com/zhanymkanov
+- FastApi Russian https://github.com/s3rius?tab=repositories, https://s3rius.blog
+- FastApi Italian https://github.com/Kludex
