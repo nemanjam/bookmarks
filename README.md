@@ -438,7 +438,6 @@
 
 #### FastAPI
 
-- repo https://github.com/zhanymkanov/fastapi_production_template
 - readme https://github.com/zhanymkanov/fastapi-best-practices
 - reddit https://www.reddit.com/r/Python/comments/1047tdb/the_way_i_build_new_fastapi_projects/
 - tutorials https://www.jeffastor.com/blog/serving-a-paginated-activity-feed-from-fastapi/
@@ -448,16 +447,11 @@
 - udemy https://github.com/CatalinStefan/instagram-clone-api
 - event loop https://luis-sena.medium.com/how-to-optimize-fastapi-for-ml-model-serving-6f75fb9e040d
 - https://dev.to/mbuthi/devops-with-fast-api-postgresql-how-to-containerize-fast-api-application-with-docker-1jdb
-- small fastapi https://github.com/innovatorved/whisper.api
-- good https://github.dev/AdrianPayne/fastapi-rocket-boilerplate
-- generator https://github.com/s3rius/FastAPI-template
-- check again from linkedin https://www.linkedin.com/feed/update/urn:li:activity:7133510378793144320 https://github.com/hamedasgari20/fastapi-tutorial https://github.com/hamedasgari20/Python-Django-FastAPI-advanced-topics#fastapi-related-topics https://github.com/hamedasgari20/todoapp-with-FastAPI
 - from Linkedin, MongoDB team https://github.com/mongodb-labs/full-stack-fastapi-mongodb
 - bad quality, backend only https://github.com/payamt007/FastAPI-Toolkit
-- updated 2024 https://github.com/tiangolo/full-stack-fastapi-template
 - cheatsheet https://github.com/kludex/fastapi-tips
 - boilerplate projects:
-  - official updated https://github.com/fastapi/full-stack-fastapi-template
+  - official updated 2024 https://github.com/fastapi/full-stack-fastapi-template
   - Kubernetes https://github.com/Kludex/fastapi-microservices
   - Redis, without Rabbitmq and Celery https://github.com/zhanymkanov/fastapi_production_template
   - only with Rabbitmq https://github.com/asacristani/fastapi-rocket-boilerplate
@@ -467,7 +461,7 @@
   - https://github.com/kamranabdicse/fastapi-postgres-boilerplate
   - simple, minimal, Sqlmodel orm https://github.com/testdrivenio/fastapi-sqlmodel-alembic
   - small, hackernews https://github.com/innovatorved/whisper.api
-  - with tutorial https://github.com/hamedasgari20/fastapi-tutorial
+  - check again from linkedin https://www.linkedin.com/feed/update/urn:li:activity:7133510378793144320 https://github.com/hamedasgari20/fastapi-tutorial https://github.com/hamedasgari20/Python-Django-FastAPI-advanced-topics#fastapi-related-topics https://github.com/hamedasgari20/todoapp-with-FastAPI
 
 #### C\#
 
