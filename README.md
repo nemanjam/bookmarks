@@ -420,7 +420,7 @@
 - https://intellipaat.com/blog/interview-question/python-interview-questions/
 - https://github.com/metafy-social/python-scripts/tree/master/scripts
 - https://realpython.com/learning-paths/perfect-your-python-development-setup/
-- https://github.com/hemansnation/Python-Roadmap
+- Roadmap https://github.com/hemansnation/Python-Roadmap
 - https://realpython.com/python-mutable-vs-immutable-types/
 - https://realpython.com/pointers-in-python/
 - https://realpython.com/python-profiling/
@@ -456,6 +456,18 @@
 - bad quality, backend only https://github.com/payamt007/FastAPI-Toolkit
 - updated 2024 https://github.com/tiangolo/full-stack-fastapi-template
 - cheatsheet https://github.com/kludex/fastapi-tips
+- boilerplate projects:
+  - official updated https://github.com/fastapi/full-stack-fastapi-template
+  - Kubernetes https://github.com/Kludex/fastapi-microservices
+  - Redis, without Rabbitmq and Celery https://github.com/zhanymkanov/fastapi_production_template
+  - only with Rabbitmq https://github.com/asacristani/fastapi-rocket-boilerplate
+  - Redis broker, Terraform https://github.com/jonra1993/fastapi-alembic-sqlmodel-async
+  - https://github.com/igorbenav/FastAPI-boilerplate, https://github.com/igorbenav/fastcrud
+  - generator, Redis, Rabbitmq, logging https://github.com/s3rius/FastAPI-template
+  - https://github.com/kamranabdicse/fastapi-postgres-boilerplate
+  - simple, minimal, Sqlmodel orm https://github.com/testdrivenio/fastapi-sqlmodel-alembic
+  - small, hackernews https://github.com/innovatorved/whisper.api
+  - with tutorial https://github.com/hamedasgari20/fastapi-tutorial
 
 #### C\#
 
