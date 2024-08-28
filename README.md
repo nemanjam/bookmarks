@@ -159,6 +159,7 @@
 - python projects links https://github.com/mahmoud/awesome-python-applications
 - website pages explanations, has links to blogs https://slashpages.net/ , for example https://blogroll.org/
 - lot of design tutorials links https://www.interaction-design.org/literature/topics
+- Excellent link, analytics for example https://github.com/awesome-selfhosted/awesome-selfhosted
 
 #### Showoff projects
 
@@ -576,7 +577,7 @@
 
 #### Homelab
 
-- https://github.com/awesome-selfhosted/awesome-selfhosted
+- Excellent link https://github.com/awesome-selfhosted/awesome-selfhosted
 - Proxmox https://www.youtube.com/watch?v=GYOlulPwxlE&list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o
 - Proxmox, Packer... https://github.com/christianlempa/homelab
 - Proxmox configurations https://github.com/tteck/Proxmox , https://tteck.github.io/Proxmox/
