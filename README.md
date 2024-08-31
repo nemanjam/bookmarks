@@ -578,8 +578,8 @@
 #### Homelab
 
 - Excellent link https://github.com/awesome-selfhosted/awesome-selfhosted
+- Excellent, Proxmox, Packer... https://github.com/christianlempa/boilerplates , https://github.com/christianlempa/homelab
 - Proxmox https://www.youtube.com/watch?v=GYOlulPwxlE&list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o
-- Proxmox, Packer... https://github.com/christianlempa/homelab
 - Proxmox configurations https://github.com/tteck/Proxmox , https://tteck.github.io/Proxmox/
 - self-hosted Github Gists https://github.com/thomiceli/opengist , Next.js, Prisma https://github.com/MaxLeiter/drift
 - bypass CGNAT:
