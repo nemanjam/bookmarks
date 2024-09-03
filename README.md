@@ -570,6 +570,7 @@
 - Linux file system https://www.youtube.com/watch?v=42iQKuQodW4
 - https://dev.to/scorcism/file-permission-2d8
 - try Linux in browser, excellent https://distrosea.com/
+- Sysexplore https://sysxplore.com/tag/bash/, https://www.instagram.com/sysxplore
 
 #### Networks
 
