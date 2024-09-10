@@ -716,3 +716,4 @@
 - Kazakhstan https://x.com/zhanymkanov
 - FastApi Russian https://github.com/s3rius?tab=repositories, https://s3rius.blog
 - FastApi Italian https://github.com/Kludex
+- Gitpod, Vercel community https://github.com/pawlean
