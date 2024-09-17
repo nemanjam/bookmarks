@@ -508,7 +508,7 @@
 - https://milan.milanovic.org/post/the-greatest-software-development-books-of-all-time/
 - https://github.com/thangchung/clean-architecture-dotnet
 - https://github.com/kamranahmedse/design-patterns-for-humans
-- https://www.youtube.com/@MarcoLenzo/playlists
+- https://www.youtube.com/@MarcoLenzo/playlists, architecture playlist https://www.youtube.com/watch?v=kbGYy49fCz4&list=PLG6ksn9JUACbdAexMOxfAM_WVYvADWx6t
 
 #### Clean code
 
