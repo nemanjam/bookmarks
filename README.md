@@ -368,6 +368,7 @@
 - Tailwind components https://flowbite.com/blocks/
 - original html design https://github.dev/kisslinux/kisslinux.github.io
 - Tailwind components https://tailwindflex.com/
+- excellent Python SSG with plugins and themes https://github.com/getnikola/nikola, https://getnikola.com/
 
 #### Design
 
