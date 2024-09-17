@@ -369,6 +369,7 @@
 - original html design https://github.dev/kisslinux/kisslinux.github.io
 - Tailwind components https://tailwindflex.com/
 - excellent Python SSG with plugins and themes https://github.com/getnikola/nikola, https://getnikola.com/
+- static site generators, complete list https://jamstack.org/generators/
 
 #### Design
 
