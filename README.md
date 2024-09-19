@@ -354,6 +354,7 @@
 - Twitter dogs clone, React, Firebase https://github.com/rezahedi/HighPaws-Buddies
 - flat file cms, Next.js, shadcn https://github.com/avitorio/outstatic , demo https://www.andrevitorio.com/
 - Next.js, tauri, rust loom clone https://github.com/CapSoftware/Cap
+- excellent Next.js blog https://github.com/timlrx/tailwind-nextjs-starter-blog
 
 #### Website templates
 
