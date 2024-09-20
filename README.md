@@ -355,7 +355,7 @@
 - flat file cms, Next.js, shadcn https://github.com/avitorio/outstatic , demo https://www.andrevitorio.com/
 - Next.js, tauri, rust loom clone https://github.com/CapSoftware/Cap
 - excellent Next.js blog https://github.com/timlrx/tailwind-nextjs-starter-blog
-- perfect Next.js blog https://github.com/theodorusclarence/theodorusclarence.com
+- perfect Next.js blog https://github.com/theodorusclarence/theodorusclarence.com , excellent Next.js starter https://github.com/theodorusclarence/ts-nextjs-tailwind-starter
 
 #### Website templates
 
