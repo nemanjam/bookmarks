@@ -88,6 +88,7 @@
 - Docker, Kubernetes https://iximiuz.com/en/ , https://github.com/iximiuz
 - Astro articles https://zellwk.com/blog/1/
 - Linuxserver docker images blog https://www.linuxserver.io/blog
+- excellent React, Kent Dodds https://www.epicreact.dev/articles
 
 #### Cheatsheets
 
@@ -109,6 +110,7 @@
 - latencies https://vercel.com/blog/latency-numbers-every-web-developer-should-know
 - Google styleguide, Python, Typescript, Shell... https://github.com/google/styleguide
 - Linux infographic cheatsheets https://x.com/sysxplore/media
+- React 19 https://www.epicreact.dev/react-19-cheatsheet
 
 #### Utils
 
