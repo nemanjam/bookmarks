@@ -355,6 +355,7 @@
 - flat file cms, Next.js, shadcn https://github.com/avitorio/outstatic , demo https://www.andrevitorio.com/
 - Next.js, tauri, rust loom clone https://github.com/CapSoftware/Cap
 - excellent Next.js blog https://github.com/timlrx/tailwind-nextjs-starter-blog
+- perfect Next.js blog https://github.com/theodorusclarence/theodorusclarence.com
 
 #### Website templates
 
@@ -723,3 +724,4 @@
 - FastApi Russian https://github.com/s3rius?tab=repositories, https://s3rius.blog
 - FastApi Italian https://github.com/Kludex
 - Gitpod, Vercel community https://github.com/pawlean
+- perfect Next.js blog https://github.com/theodorusclarence
