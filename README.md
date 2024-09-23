@@ -140,6 +140,7 @@
 - screen recording and annotating Chrome extension https://github.com/alyssaxuu/screenity
 - React internals debugger https://jser.dev/2024-05-11-introducing-rie/
 - favicon and manifest generator https://realfavicongenerator.net/
+- convert .webm to .mp4 quickly https://www.online-convert.com
 
 #### Links
 
