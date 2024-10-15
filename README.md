@@ -605,6 +605,7 @@
 - self-hosted speed test in php https://github.com/librespeed/speedtest , https://librespeed.org/
 - lot of excellent Docker images https://github.com/linuxserver
 - web self hosted VS Code https://github.com/linuxserver/docker-code-server
+- Ansible homelab https://git.comprofix.com/mmckinnon/homelab , https://akashrajpurohit.com/blog/ansible-infrastructure-as-a-code-for-building-up-my-homelab/
 - Homelab subreddits:
   - https://www.reddit.com/r/selfhosted
   - https://www.reddit.com/r/HomeServer
