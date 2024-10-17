@@ -514,6 +514,7 @@
 - https://github.com/thangchung/clean-architecture-dotnet
 - https://github.com/kamranahmedse/design-patterns-for-humans
 - https://www.youtube.com/@MarcoLenzo/playlists, architecture playlist https://www.youtube.com/watch?v=kbGYy49fCz4&list=PLG6ksn9JUACbdAexMOxfAM_WVYvADWx6t
+- https://medium.com/@techworldwithmilan
 
 #### Clean code
 
