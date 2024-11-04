@@ -607,6 +607,7 @@
 - lot of excellent Docker images https://github.com/linuxserver
 - web self hosted VS Code https://github.com/linuxserver/docker-code-server
 - Ansible homelab https://git.comprofix.com/mmckinnon/homelab , https://akashrajpurohit.com/blog/ansible-infrastructure-as-a-code-for-building-up-my-homelab/ , https://www.reddit.com/r/selfhosted/comments/1g3rwmn/are_you_using_ansible_in_your_homelab/
+- Pi dashboard https://github.com/XavierBerger/RPi-Monitor
 - Homelab subreddits:
   - https://www.reddit.com/r/selfhosted
   - https://www.reddit.com/r/HomeServer
