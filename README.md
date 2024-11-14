@@ -419,6 +419,14 @@
 - REST API https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs
 - REST API principles https://dev.to/michaelayomidejohnson/top-10-practices-for-designing-efficient-restful-apis-250e
 - lot of Prisma examples https://github.com/prisma/prisma-examples
+- Cron in Docker Node.js
+  - https://github.com/node-cron/node-cron
+  - https://github.com/node-schedule/node-schedule
+  - https://github.com/kelektiv/node-cron
+  - Alpine Docker root user https://github.com/gliderlabs/docker-alpine/issues/381#issuecomment-621946699
+  - overview https://dev.to/ethanleetech/task-scheduling-in-nextjs-top-tools-and-best-practices-2024-3l77
+  - Next.js instrumentation.ts https://github.com/vercel/next.js/discussions/15341#discussioncomment-7091594
+  - Go binary for Dockerfile https://github.com/aptible/supercronic
 
 #### Serverless
 
