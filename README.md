@@ -453,6 +453,7 @@
 - https://www.reddit.com/r/Python/comments/18p5j92/debugging_dockerized_python_apps_in_vscode/
 - Arjan Codes Youtube code examples https://github.com/ArjanCodes/examples/
 - Python basics cheatsheet https://github.com/trekhleb/learn-python
+- Undetectable headless browser for scraping https://github.com/D4Vinci/Scrapling
 
 #### FastAPI
 
