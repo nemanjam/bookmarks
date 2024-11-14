@@ -163,6 +163,7 @@
 - website pages explanations, has links to blogs https://slashpages.net/ , for example https://blogroll.org/
 - lot of design tutorials links https://www.interaction-design.org/literature/topics
 - Excellent link, analytics for example https://github.com/awesome-selfhosted/awesome-selfhosted
+- random open source repos https://x.com/tom_doerr
 
 #### Showoff projects
 
