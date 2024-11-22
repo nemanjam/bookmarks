@@ -141,6 +141,7 @@
 - React internals debugger https://jser.dev/2024-05-11-introducing-rie/
 - favicon and manifest generator https://realfavicongenerator.net/
 - convert .webm to .mp4 quickly https://www.online-convert.com
+- convert .svg to React component for fill color https://transform.tools/
 
 #### Links
 
