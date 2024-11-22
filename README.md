@@ -142,6 +142,7 @@
 - favicon and manifest generator https://realfavicongenerator.net/
 - convert .webm to .mp4 quickly https://www.online-convert.com
 - convert .svg to React component for fill color https://transform.tools/
+- nearest Tailwind palette color https://nearest-tailwind-color.netlify.app/
 
 #### Links
 
