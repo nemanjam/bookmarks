@@ -193,6 +193,11 @@
 - https://www.reddit.com/r/ExperiencedDevs/top/?t=month
 - https://www.reddit.com/r/cscareerquestions/top/?t=week
 - https://www.producthunt.com/categories
+- Link aggregators from here https://github.com/anil-dewani
+  - https://devurls.com/
+  - https://techurls.com/
+  - https://lobste.rs/
+  -
 
 ### Frontend
 
