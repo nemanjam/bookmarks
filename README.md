@@ -7,6 +7,7 @@
   - [Blogs](#blogs)
   - [Cheatsheets](#cheatsheets)
   - [Utils](#utils)
+  - [LLM](#llm)
   - [Links](#links)
   - [Showoff projects](#showoff-projects)
   - [Trending links](#trending-links)
@@ -145,6 +146,11 @@
 - nearest Tailwind palette color https://nearest-tailwind-color.netlify.app/
 - interactive time zone map for calls https://www.timeanddate.com/time/map/
 - edit svg color https://svgcolor.com/
+
+#### LLM
+
+- https://aistudio.google.com/prompts/new_chat
+- https://code.visualstudio.com/docs/copilot/workspace-context
 
 #### Links
 
