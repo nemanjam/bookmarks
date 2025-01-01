@@ -553,7 +553,8 @@
 
 - https://glebbahmutov.com/blog/cypress-skills-ladder/
 - frontend testing list https://www.linkedin.com/posts/arunm-engineer_20-articles-i-do-strongly-recommend-to-read-activity-7152152594394566656-oOuA
-- Load testing for webserver, Orange Pi https://github.com/JoeDog/siege
+- Load testing for webserver, Orange Pi https://github.com/JoeDog/siege, https://github.com/hatoo/oha, https://github.com/yandex/yandex-tank
+-
 
 #### ML/AI
 
