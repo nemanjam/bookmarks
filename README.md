@@ -412,6 +412,7 @@
   - https://www.awwwards.com/ , https://curated.design , https://lapa.ninja , https://tympanus.net/codrops/demos/
 - Brad Frost, design systems (Atomic design) https://bradfrost.com/
 - design systems list https://github.com/saadeghi/design-systems
+- design books and tutorials list https://jakub.jankiewicz.org/blog/learn-design/
 
 ---
 
