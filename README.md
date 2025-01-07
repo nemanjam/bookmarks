@@ -445,6 +445,7 @@
   - overview https://dev.to/ethanleetech/task-scheduling-in-nextjs-top-tools-and-best-practices-2024-3l77
   - Next.js instrumentation.ts https://github.com/vercel/next.js/discussions/15341#discussioncomment-7091594
   - Go binary for Dockerfile https://github.com/aptible/supercronic
+- Publishing Npm packages https://dev.to/snyk/building-an-npm-package-compatible-with-esm-and-cjs-in-2024-88m
 
 #### Serverless
 
@@ -762,3 +763,4 @@
 - FastApi Italian https://github.com/Kludex
 - Gitpod, Vercel community https://github.com/pawlean
 - perfect Next.js blog https://github.com/theodorusclarence
+- Node.js security, Israel https://github.com/lirantal, https://lirantal.com/blog
