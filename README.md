@@ -183,6 +183,7 @@
 - https://github.com/trending
 - https://www.reddit.com/r/reactjs/?f=flair_name%3A%22Show%20%2Fr%2Freactjs%22
 - https://www.reddit.com/r/Python/?f=flair_name%3A%22Showcase%22
+- Next.js projects https://vercel.community/c/showcase/41/l/latest
 
 #### Trending links
 
