@@ -710,6 +710,7 @@
 - SSG for Obsidian notes https://github.com/jackyzha0/quartz
 - SSG blogs thread https://twitter.com/karpathy/status/1751350002281300461
 - excellent blog, projects and design https://github.com/trekhleb/trekhleb.github.io , https://trekhleb.dev/
+- Huge list of portfolio websites https://github.com/emmabostian/developer-portfolios
 
 #### Business
 
