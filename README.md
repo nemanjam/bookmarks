@@ -446,6 +446,7 @@
   - Next.js instrumentation.ts https://github.com/vercel/next.js/discussions/15341#discussioncomment-7091594
   - Go binary for Dockerfile https://github.com/aptible/supercronic
 - Publishing Npm packages https://dev.to/snyk/building-an-npm-package-compatible-with-esm-and-cjs-in-2024-88m
+- Changesets https://lirantal.com/blog/introducing-changesets-simplify-project-versioning-with-semantic-releases
 
 #### Serverless
 
