@@ -151,6 +151,7 @@
 
 - https://aistudio.google.com/prompts/new_chat
 - https://code.visualstudio.com/docs/copilot/workspace-context
+- Open source, Chinese https://chat.deepseek.com/
 
 #### Links
 
