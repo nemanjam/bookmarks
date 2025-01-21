@@ -146,6 +146,7 @@
 - nearest Tailwind palette color https://nearest-tailwind-color.netlify.app/
 - interactive time zone map for calls https://www.timeanddate.com/time/map/
 - edit svg color https://svgcolor.com/
+- Open source video convertor https://github.com/HandBrake/HandBrake
 
 #### LLM
 
