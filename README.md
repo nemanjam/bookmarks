@@ -272,6 +272,7 @@
 - Codevolution Next 14 https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI
 - React folder structure https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
 - Next OOP articles https://www.ericburel.tech/
+- Debug rerenders, Million creator https://github.com/aidenybai/react-scan
 
 #### Astro
 
