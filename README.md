@@ -176,6 +176,8 @@
 - lot of design tutorials links https://www.interaction-design.org/literature/topics
 - Excellent link, analytics for example https://github.com/awesome-selfhosted/awesome-selfhosted
 - random open source repos https://x.com/tom_doerr
+- Open source code to learn from https://github.com/elie222/learn-from-open-source
+- starred repos https://github.com/pontusab?tab=stars
 
 #### Showoff projects
 
@@ -379,6 +381,7 @@
 - Next.js, tauri, rust loom clone https://github.com/CapSoftware/Cap
 - excellent Next.js blog https://github.com/timlrx/tailwind-nextjs-starter-blog
 - perfect Next.js blog https://github.com/theodorusclarence/theodorusclarence.com , excellent Next.js starter https://github.com/theodorusclarence/ts-nextjs-tailwind-starter
+- big Next.js project https://github.com/midday-ai/midday
 
 #### Website templates
 
