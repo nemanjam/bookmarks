@@ -147,6 +147,7 @@
 - interactive time zone map for calls https://www.timeanddate.com/time/map/
 - edit svg color https://svgcolor.com/
 - Open source video convertor https://github.com/HandBrake/HandBrake
+- Record and share browser console https://jam.dev/
 
 #### LLM
 
