@@ -633,6 +633,7 @@
 - Proxmox https://www.youtube.com/watch?v=GYOlulPwxlE&list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o
 - Proxmox configurations https://github.com/tteck/Proxmox , https://tteck.github.io/Proxmox/
 - self-hosted Github Gists https://github.com/thomiceli/opengist , Next.js, Prisma https://github.com/MaxLeiter/drift
+- self hosted Docker https://github.com/hotheadhacker/awesome-selfhost-docker
 - bypass CGNAT:
   - Oracle https://github.com/mochman/Bypass_CGNAT
   - https://www.reddit.com/r/unRAID/comments/10vx69b/ultimate_noob_guide_how_to_bypass_cgnat_using/
