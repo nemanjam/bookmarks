@@ -652,7 +652,8 @@
 - MacOS Proxmox https://github.com/luchina-gabriel/OSX-PROXMOX
 - Windows and MacOS in Docker container https://github.com/dockur/windows, https://github.com/dockur/macos
 - Lot of other excellent Docker containers https://github.com/dockur:
-  - https://github.com/dockur/samba
+  - This one should be best for Samba https://github.com/dockur/samba
+  - Windows ARM https://github.com/dockur/windows-arm
   - https://github.com/dockur/dnsmasq
   - https://github.com/dockur/tor
   - Reddit clone https://github.com/LemmyNet/lemmy-ui
