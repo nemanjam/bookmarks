@@ -650,6 +650,12 @@
 - Ansible homelab https://git.comprofix.com/mmckinnon/homelab , https://akashrajpurohit.com/blog/ansible-infrastructure-as-a-code-for-building-up-my-homelab/ , https://www.reddit.com/r/selfhosted/comments/1g3rwmn/are_you_using_ansible_in_your_homelab/
 - Pi dashboard https://github.com/XavierBerger/RPi-Monitor
 - MacOS Proxmox https://github.com/luchina-gabriel/OSX-PROXMOX
+- Windows and MacOS in Docker container https://github.com/dockur/windows, https://github.com/dockur/macos
+- Lot of other excellent Docker containers https://github.com/dockur:
+  - https://github.com/dockur/samba
+  - https://github.com/dockur/dnsmasq
+  - https://github.com/dockur/tor
+  - Reddit clone https://github.com/LemmyNet/lemmy-ui
 - Homelab subreddits:
   - https://www.reddit.com/r/selfhosted
   - https://www.reddit.com/r/HomeServer
