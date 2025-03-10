@@ -148,6 +148,7 @@
 - edit svg color https://svgcolor.com/
 - Open source video convertor https://github.com/HandBrake/HandBrake
 - Record and share browser console https://jam.dev/
+- Firefox text to speech, select Google Translate voice https://addons.mozilla.org/en-US/firefox/addon/read-aloud/
 
 #### LLM
 
