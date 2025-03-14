@@ -150,6 +150,7 @@
 - Record and share browser console https://jam.dev/
 - Firefox text to speech, select Google Translate voice https://addons.mozilla.org/en-US/firefox/addon/read-aloud/
 - Markdown preview https://markdownlivepreview.com/
+- Serbian tax calculator https://github.com/turanjanin/kalkulator-poreza
 
 #### LLM
 
