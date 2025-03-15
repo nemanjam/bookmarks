@@ -151,6 +151,7 @@
 - Firefox text to speech, select Google Translate voice https://addons.mozilla.org/en-US/firefox/addon/read-aloud/
 - Markdown preview https://markdownlivepreview.com/
 - Serbian tax calculator https://github.com/turanjanin/kalkulator-poreza
+- Offline, BlueTooth chat https://play.google.com/store/apps/details?id=me.bridgefy.main
 
 #### LLM
 
