@@ -152,7 +152,7 @@
 - Markdown preview https://markdownlivepreview.com/
 - Serbian tax calculator https://github.com/turanjanin/kalkulator-poreza
 - Offline, BlueTooth chat https://play.google.com/store/apps/details?id=me.bridgefy.main
-- p2p WiFi, Bluetooth, internet messenger, free, open source https://briarproject.org/
+- p2p WiFi, Bluetooth, internet messenger, free, open source https://briarproject.org/, https://github.com/briar/briar
 - Browser p2p file upload https://github.com/kern/filepizza
 
 #### LLM
