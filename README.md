@@ -389,6 +389,7 @@
 - excellent Next.js blog https://github.com/timlrx/tailwind-nextjs-starter-blog
 - perfect Next.js blog https://github.com/theodorusclarence/theodorusclarence.com , excellent Next.js starter https://github.com/theodorusclarence/ts-nextjs-tailwind-starter
 - big Next.js project https://github.com/midday-ai/midday
+- Next.js, p2p, Docker https://github.com/kern/filepizza
 
 #### Website templates
 
