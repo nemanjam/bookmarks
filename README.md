@@ -730,6 +730,7 @@
 - https://github.com/kuchin/awesome-cto
 - CV template https://github.com/BartoszJarocki/cv
 - Hackernews hiring trends graph https://hnhiring.com/trends , repo https://github.com/jordinl/hnhiring
+- Excellent tech documentaries https://www.youtube.com/@Honeypotio/videos
 
 #### Personal branding
 
