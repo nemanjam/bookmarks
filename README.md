@@ -283,6 +283,7 @@
 - React folder structure https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
 - Next OOP articles https://www.ericburel.tech/
 - Debug rerenders, Million creator https://github.com/aidenybai/react-scan
+- Common, stable hooks to avoid reinventing https://usehooks.com/, https://github.com/uidotdev/usehooks
 
 #### Astro
 
