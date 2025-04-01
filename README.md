@@ -160,6 +160,7 @@
 - https://aistudio.google.com/prompts/new_chat
 - https://code.visualstudio.com/docs/copilot/workspace-context
 - Open source, Chinese https://chat.deepseek.com/
+- Prompts https://prompts.chat/
 
 #### Links
 
@@ -794,3 +795,4 @@
 - Gitpod, Vercel community https://github.com/pawlean
 - perfect Next.js blog https://github.com/theodorusclarence
 - Node.js security, Israel https://github.com/lirantal, https://lirantal.com/blog
+- LLM prompts, Turkish https://github.com/f
