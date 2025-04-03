@@ -306,6 +306,7 @@
 - Astro tutorials list https://github.com/astrolicious/astro-tips.dev
 - Official, lot of Astro links https://docs.astro.build/en/community-resources/content/
 - Astro articles https://webreaper.dev/posts/
+- Lot of Astro articles https://www.emgoto.com/
 
 #### Turbo
 
