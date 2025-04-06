@@ -797,3 +797,4 @@
 - perfect Next.js blog https://github.com/theodorusclarence
 - Node.js security, Israel https://github.com/lirantal, https://lirantal.com/blog
 - LLM prompts, Turkish https://github.com/f
+- Sharp image library https://github.com/lovell, https://cv.lovell.info/
