@@ -665,6 +665,7 @@
 - Pi dashboard https://github.com/XavierBerger/RPi-Monitor
 - MacOS Proxmox https://github.com/luchina-gabriel/OSX-PROXMOX
 - Windows and MacOS in Docker container https://github.com/dockur/windows, https://github.com/dockur/macos
+- Linux in Docker container https://github.com/qemus/qemu
 - Lot of other excellent Docker containers https://github.com/dockur:
   - This one should be best for Samba https://github.com/dockur/samba
   - Windows ARM https://github.com/dockur/windows-arm
