@@ -435,6 +435,7 @@
 - Brad Frost, design systems (Atomic design) https://bradfrost.com/
 - design systems list https://github.com/saadeghi/design-systems
 - design books and tutorials list https://jakub.jankiewicz.org/blog/learn-design/
+- Different website types examples https://websitevice.com
 
 ---
 
