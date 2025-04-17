@@ -413,6 +413,7 @@
 - Tailwind components https://tailwindflex.com/
 - excellent Python SSG with plugins and themes https://github.com/getnikola/nikola, https://getnikola.com/
 - static site generators, complete list https://jamstack.org/generators/
+- Astro themes gallery https://getastrothemes.com/free-astro-themes-templates/
 
 #### Design
 
