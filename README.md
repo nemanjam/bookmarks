@@ -156,6 +156,7 @@
 - Browser p2p file upload https://github.com/kern/filepizza
 - Minimalistic blogging platform https://github.com/HermanMartinus/bearblog
 - CSS utils https://markodenic.com/css-generators/
+- Drawing diagrams https://draw.io, https://excalidraw.com/ (has VS Code extension)
 
 #### LLM
 
