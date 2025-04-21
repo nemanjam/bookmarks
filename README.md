@@ -529,6 +529,7 @@
 #### C\#
 
 - https://github.com/milanm/DotNet-Developer-Roadmap
+- Excellent cheatsheet https://github.com/milanm/csharp-cheatsheet, https://github.com/milanm/DotNet-Developer-Roadmap
 
 #### Rust
 
