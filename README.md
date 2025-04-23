@@ -157,6 +157,8 @@
 - Minimalistic blogging platform https://github.com/HermanMartinus/bearblog
 - CSS utils https://markodenic.com/css-generators/
 - Drawing diagrams https://draw.io, https://excalidraw.com/ (has VS Code extension)
+- Badges for Readme with correct brand colors https://github.com/inttter/md-badges
+- Original badges docs with params https://github.com/badges/shields
 
 #### LLM
 
@@ -189,6 +191,7 @@
 - random open source repos https://x.com/tom_doerr
 - Open source code to learn from https://github.com/elie222/learn-from-open-source
 - starred repos https://github.com/pontusab?tab=stars
+- Github profiles Readmes examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 #### Showoff projects
 
@@ -219,7 +222,7 @@
   - https://devurls.com/
   - https://techurls.com/
   - https://lobste.rs/
-  -
+  - https://jimmyr.com/
 
 ### Frontend
 
