@@ -313,6 +313,7 @@
 - Official, lot of Astro links https://docs.astro.build/en/community-resources/content/
 - Astro articles https://webreaper.dev/posts/
 - Lot of Astro articles https://www.emgoto.com/
+- ShadCN for Astro https://starwind.dev/
 
 #### Turbo
 
