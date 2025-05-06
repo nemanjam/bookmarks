@@ -159,6 +159,7 @@
 - Drawing diagrams https://draw.io, https://excalidraw.com/ (has VS Code extension)
 - Badges for Readme with correct brand colors https://github.com/inttter/md-badges
 - Original badges docs with params https://github.com/badges/shields
+- Social media influencers https://app.favikon.com/ranking/leaderboard/
 
 #### LLM
 
