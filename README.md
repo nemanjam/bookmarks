@@ -420,6 +420,9 @@
 - excellent Python SSG with plugins and themes https://github.com/getnikola/nikola, https://getnikola.com/
 - static site generators, complete list https://jamstack.org/generators/
 - Astro themes gallery https://getastrothemes.com/free-astro-themes-templates/
+- Astro Linktree alternative https://github.com/trevortylerlee/treelink
+- Astro minimal blog https://github.com/superwebthemes/barebones
+- Good Shadcn Astro theme https://github.com/jktrn/astro-erudite
 
 #### Design
 
@@ -707,6 +710,8 @@
 - Dokku alternative https://github.com/coollabsio/coolify
 - Tunneling urls and share folders https://github.com/openziti/zrok
 - The best high level tunneling tool https://github.com/fosrl/pangolin
+- https://github.com/cbirkenbeul/docker-homelab
+- Blogs in German https://teqqy.de, https://2tap2.be
 
 #### Git
 
