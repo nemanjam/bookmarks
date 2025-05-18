@@ -403,6 +403,7 @@
 - perfect Next.js blog https://github.com/theodorusclarence/theodorusclarence.com , excellent Next.js starter https://github.com/theodorusclarence/ts-nextjs-tailwind-starter
 - big Next.js project https://github.com/midday-ai/midday
 - Next.js, p2p, Docker https://github.com/kern/filepizza
+- Excellent Astro landing page https://github.com/benavlabs/landstro
 
 #### Website templates
 
