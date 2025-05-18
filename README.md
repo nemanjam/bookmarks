@@ -528,7 +528,7 @@
   - Redis, without Rabbitmq and Celery https://github.com/zhanymkanov/fastapi_production_template
   - only with Rabbitmq https://github.com/asacristani/fastapi-rocket-boilerplate
   - Redis broker, Terraform https://github.com/jonra1993/fastapi-alembic-sqlmodel-async
-  - https://github.com/igorbenav/FastAPI-boilerplate, https://github.com/igorbenav/fastcrud
+  - SQLModel https://github.com/benavlabs/SQLModel-boilerplate, other good https://github.com/igorbenav/FastAPI-boilerplate, https://github.com/igorbenav/fastcrud
   - generator, Redis, Rabbitmq, logging https://github.com/s3rius/FastAPI-template
   - https://github.com/kamranabdicse/fastapi-postgres-boilerplate
   - simple, minimal, Sqlmodel orm https://github.com/testdrivenio/fastapi-sqlmodel-alembic
