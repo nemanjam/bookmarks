@@ -712,7 +712,7 @@
   - https://www.reddit.com/r/opnsense
 - Dokku alternative https://github.com/coollabsio/coolify
 - Tunneling urls and share folders https://github.com/openziti/zrok
-- The best high level tunneling tool https://github.com/fosrl/pangolin
+- Pangolin, the best high level tunneling tool https://github.com/fosrl/pangolin
 - https://github.com/cbirkenbeul/docker-homelab
 - Blogs in German https://teqqy.de, https://2tap2.be
 
