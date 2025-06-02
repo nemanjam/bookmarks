@@ -90,6 +90,7 @@
 - Astro articles https://zellwk.com/blog/1/
 - Linuxserver docker images blog https://www.linuxserver.io/blog
 - excellent React, Kent Dodds https://www.epicreact.dev/articles
+- Scaleway (French cloud) founder https://manfred.life/blog/
 
 #### Cheatsheets
 
@@ -160,6 +161,7 @@
 - Badges for Readme with correct brand colors https://github.com/inttter/md-badges
 - Original badges docs with params https://github.com/badges/shields
 - Social media influencers https://app.favikon.com/ranking/leaderboard/
+- Anonymous feedback https://admonymous.co/
 
 #### LLM
 
