@@ -193,6 +193,7 @@
 - Open source code to learn from https://github.com/elie222/learn-from-open-source
 - starred repos https://github.com/pontusab?tab=stars
 - Github profiles Readmes examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- SSH https://github.com/moul/awesome-ssh?tab=readme-ov-file
 
 #### Showoff projects
 
