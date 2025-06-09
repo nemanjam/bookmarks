@@ -652,6 +652,7 @@
 - try Linux in browser, excellent https://distrosea.com/
 - Sysexplore https://sysxplore.com/tag/bash/, https://www.instagram.com/sysxplore
 - Microsoft Surface drivers support https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features
+- OS backup https://github.com/bareos/bareos
 
 #### Networks
 
