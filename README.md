@@ -162,6 +162,7 @@
 - Original badges docs with params https://github.com/badges/shields
 - Social media influencers https://app.favikon.com/ranking/leaderboard/
 - Anonymous feedback https://admonymous.co/
+- Blogging platform https://typlog.com/
 
 #### LLM
 
@@ -825,3 +826,4 @@
 - LLM prompts, Turkish https://github.com/f
 - Sharp image library https://github.com/lovell, https://cv.lovell.info/
 - LLMs famous Bulgarian https://github.com/ggerganov
+- Python Authlib and https://typlog.com blogging platform creator https://github.com/lepture
