@@ -516,7 +516,7 @@
 
 #### FastAPI
 
-- readme https://github.com/zhanymkanov/fastapi-best-practices
+- readme https://github.com/zhanymkanov/fastapi-best-practices, additional thread https://github.com/zhanymkanov/fastapi-best-practices/issues/4
 - reddit https://www.reddit.com/r/Python/comments/1047tdb/the_way_i_build_new_fastapi_projects/
 - tutorials https://www.jeffastor.com/blog/serving-a-paginated-activity-feed-from-fastapi/
 - repo https://github.com/Jastor11/phresh-tutorial
