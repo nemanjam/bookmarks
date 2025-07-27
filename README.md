@@ -635,6 +635,7 @@
 - self hosted Paas, in Next.js https://github.com/dokploy/dokploy
 - SSH tunnels https://iximiuz.com/en/posts/ssh-tunnels/
 - lot of devops info here https://iximiuz.com/
+- Dokku alternative https://github.com/zane-ops/zane-ops
 
 #### Docker
 
@@ -654,6 +655,7 @@
 - Sysexplore https://sysxplore.com/tag/bash/, https://www.instagram.com/sysxplore
 - Microsoft Surface drivers support https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features
 - OS backup https://github.com/bareos/bareos
+- Screenshots with annotations https://github.com/AlexanderVanhee/Gradia
 
 #### Networks
 
@@ -720,6 +722,7 @@
 - Pangolin, the best high level tunneling tool https://github.com/fosrl/pangolin
 - https://github.com/cbirkenbeul/docker-homelab
 - Blogs in German https://teqqy.de, https://2tap2.be
+- Change detection https://github.com/dgtlmoon/changedetection.io
 
 #### Git
 
