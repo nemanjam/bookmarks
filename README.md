@@ -91,6 +91,7 @@
 - Linuxserver docker images blog https://www.linuxserver.io/blog
 - excellent React, Kent Dodds https://www.epicreact.dev/articles
 - Scaleway (French cloud) founder https://manfred.life/blog/
+- Lot of articles https://haidarali.net/#/articles
 
 #### Cheatsheets
 
