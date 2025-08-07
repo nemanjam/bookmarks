@@ -410,6 +410,7 @@
 - big Next.js project https://github.com/midday-ai/midday
 - Next.js, p2p, Docker https://github.com/kern/filepizza
 - Excellent Astro landing page https://github.com/benavlabs/landstro
+- Static Astro, JavaScript, SCSS, aria attributes https://github.com/Chalarangelo/30-seconds-of-code
 
 #### Website templates
 
