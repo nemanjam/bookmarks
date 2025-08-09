@@ -456,6 +456,7 @@
 - design books and tutorials list https://jakub.jankiewicz.org/blog/learn-design/
 - Different website types examples https://websitevice.com
 - Nice components (former NextUI) https://github.com/heroui-inc/heroui
+- Open source design system https://github.com/Chainlift/liftkit
 
 ---
 
