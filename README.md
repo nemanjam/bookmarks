@@ -165,6 +165,9 @@
 - Anonymous feedback https://admonymous.co/
 - Blogging platform https://typlog.com/
 - Check not followers on Github https://git-hub-unfollower-tracker.vercel.app/
+- Backup Github repos locally https://github.com/AkashRajpurohit/git-sync
+- Loom alternative, must write Dockerfile yourself for Next.js app https://github.com/MarconLP/snapify
+- Yaml resume, not bad design https://github.com/yamlresume/yamlresume
 
 #### LLM
 
@@ -518,6 +521,7 @@
 - Arjan Codes Youtube code examples https://github.com/ArjanCodes/examples/
 - Python basics cheatsheet https://github.com/trekhleb/learn-python
 - Undetectable headless browser for scraping https://github.com/D4Vinci/Scrapling
+- https://ultimatepython.org/, https://github.com/huangsam/ultimate-python
 
 #### FastAPI
 
@@ -641,6 +645,7 @@
 - SSH tunnels https://iximiuz.com/en/posts/ssh-tunnels/
 - lot of devops info here https://iximiuz.com/
 - Dokku alternative https://github.com/zane-ops/zane-ops
+- Dokku alternative with UI https://github.com/rodyherrera/Quantum
 
 #### Docker
 
@@ -725,9 +730,14 @@
 - Dokku alternative https://github.com/coollabsio/coolify
 - Tunneling urls and share folders https://github.com/openziti/zrok
 - Pangolin, the best high level tunneling tool https://github.com/fosrl/pangolin
+- Self hosted tunnels https://github.com/amalshaji/portr
 - https://github.com/cbirkenbeul/docker-homelab
 - Blogs in German https://teqqy.de, https://2tap2.be
 - Change detection https://github.com/dgtlmoon/changedetection.io
+- Wireguard UI https://github.com/wg-easy/wg-easy
+- SSH like Tailscale https://github.com/shellhub-io/shellhub
+- Wetransfer p2p self-hosted https://github.com/robinkarlberg/transfer.zip-web
+- Wetransfer self-hosted https://github.com/ErugoOSS/Erugo
 
 #### Git
 
