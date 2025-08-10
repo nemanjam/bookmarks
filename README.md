@@ -792,6 +792,7 @@
 - excellent self hosted Docker backend https://github.com/pocketbase/pocketbase/
 - promotion channels https://github.com/trekhleb/promote-your-next-startup
 - free domains on my-website.eu.org https://nic.eu.org/
+- Marketeer with websites https://kaplich.me/projects, https://github.com/sergeykaplich
 
 #### Interviews
 
