@@ -92,6 +92,7 @@
 - excellent React, Kent Dodds https://www.epicreact.dev/articles
 - Scaleway (French cloud) founder https://manfred.life/blog/
 - Lot of articles https://haidarali.net/#/articles
+- Few hundreds blogs list https://github.com/kilimchoi/engineering-blogs
 
 #### Cheatsheets
 
