@@ -667,6 +667,7 @@
 - Microsoft Surface drivers support https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features
 - OS backup https://github.com/bareos/bareos
 - Screenshots with annotations https://github.com/AlexanderVanhee/Gradia
+- Linux clipboard manager https://github.com/murat-cileli/clyp
 
 #### Networks
 
