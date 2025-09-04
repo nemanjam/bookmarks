@@ -571,6 +571,7 @@
 - docs https://doc.rust-lang.org/nightly/reference/index.html
 - links https://github.com/ctjhoa/rust-learning
 - https://google.github.io/comprehensive-rust/
+- Rust Youtube channel https://www.youtube.com/@letsgetrusty
 
 #### Databases
 
