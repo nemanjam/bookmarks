@@ -595,6 +595,7 @@
 - https://github.com/kamranahmedse/design-patterns-for-humans
 - https://www.youtube.com/@MarcoLenzo/playlists, architecture playlist https://www.youtube.com/watch?v=kbGYy49fCz4&list=PLG6ksn9JUACbdAexMOxfAM_WVYvADWx6t
 - https://medium.com/@techworldwithmilan
+- Software architecture books (no download links) https://github.com/mhadidg/software-architecture-books
 
 #### Clean code
 
