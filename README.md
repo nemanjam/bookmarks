@@ -588,7 +588,6 @@
   - https://www.youtube.com/@changelog
   - https://www.youtube.com/@TutorialEdge
   - https://www.youtube.com/@golangcafe
-  - https://www.youtube.com/@hnasr
 
 #### Databases
 
