@@ -583,12 +583,12 @@
 #### Golang
 
 - Golang Youtube channels:
-  - https://www.youtube.com/@justforfunc)
-  - https://www.youtube.com/@GopherAcademy)
-  - https://www.youtube.com/@changelog)
-  - https://www.youtube.com/@TutorialEdge)
-  - https://www.youtube.com/@golangcafe)
-  - https://www.youtube.com/@hnasr)
+  - https://www.youtube.com/@justforfunc
+  - https://www.youtube.com/@GopherAcademy
+  - https://www.youtube.com/@changelog
+  - https://www.youtube.com/@TutorialEdge
+  - https://www.youtube.com/@golangcafe
+  - https://www.youtube.com/@hnasr
 
 #### Databases
 
