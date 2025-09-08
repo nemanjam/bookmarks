@@ -686,6 +686,7 @@
 - OS backup https://github.com/bareos/bareos
 - Screenshots with annotations https://github.com/AlexanderVanhee/Gradia
 - Linux clipboard manager https://github.com/hluk/CopyQ, https://github.com/murat-cileli/clyp
+- Single Windows app in a window https://github.com/winapps-org/winapps
 
 #### Networks
 
