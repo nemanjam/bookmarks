@@ -27,6 +27,7 @@
   - [FastAPI](#fastapi)
   - [C#](#c)
   - [Rust](#rust)
+  - [Golang](#golang)
   - [Databases](#databases)
 - [Software engineering](#software-engineering)
   - [Architecture](#architecture)
@@ -572,6 +573,22 @@
 - links https://github.com/ctjhoa/rust-learning
 - https://google.github.io/comprehensive-rust/
 - Rust Youtube channel https://www.youtube.com/@letsgetrusty
+- Other Rust Youtube channels:
+  - https://www.youtube.com/@jonhoo
+  - https://www.youtube.com/@chrisbiscardi
+  - https://www.youtube.com/@TensorProgramming
+  - https://www.youtube.com/@noboilerplate
+  - https://www.youtube.com/@fasterthanlime
+
+#### Golang
+
+- Golang Youtube channels:
+  - https://www.youtube.com/@justforfunc)
+  - https://www.youtube.com/@GopherAcademy)
+  - https://www.youtube.com/@changelog)
+  - https://www.youtube.com/@TutorialEdge)
+  - https://www.youtube.com/@golangcafe)
+  - https://www.youtube.com/@hnasr)
 
 #### Databases
 
