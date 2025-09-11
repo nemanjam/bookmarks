@@ -551,6 +551,7 @@
   - simple, minimal, Sqlmodel orm https://github.com/testdrivenio/fastapi-sqlmodel-alembic
   - small, hackernews https://github.com/innovatorved/whisper.api
   - check again from linkedin https://www.linkedin.com/feed/update/urn:li:activity:7133510378793144320 https://github.com/hamedasgari20/fastapi-tutorial https://github.com/hamedasgari20/Python-Django-FastAPI-advanced-topics#fastapi-related-topics https://github.com/hamedasgari20/todoapp-with-FastAPI
+- FastApi, Astro blog https://fastro.ai/blog
 
 #### C\#
 
@@ -868,3 +869,4 @@
 - Sharp image library https://github.com/lovell, https://cv.lovell.info/
 - LLMs famous Bulgarian https://github.com/ggerganov
 - Python Authlib and https://typlog.com blogging platform creator https://github.com/lepture
+- FastApi, Astro starters https://github.com/igorbenav
