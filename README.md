@@ -94,6 +94,7 @@
 - Scaleway (French cloud) founder https://manfred.life/blog/
 - Lot of articles https://haidarali.net/#/articles
 - Few hundreds blogs list https://github.com/kilimchoi/engineering-blogs
+- 234 random blogs list https://webring.xxiivv.com/#random
 
 #### Cheatsheets
 
