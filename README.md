@@ -872,3 +872,4 @@
 - LLMs famous Bulgarian https://github.com/ggerganov
 - Python Authlib and https://typlog.com blogging platform creator https://github.com/lepture
 - FastApi, Astro starters https://github.com/igorbenav
+- Midday-ai, Cursor https://github.com/pontusab
