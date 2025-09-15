@@ -178,6 +178,7 @@
 - https://code.visualstudio.com/docs/copilot/workspace-context
 - Open source, Chinese https://chat.deepseek.com/
 - Prompts https://prompts.chat/
+- Cursor presets https://cursor.directory/
 
 #### Links
 
