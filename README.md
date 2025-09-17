@@ -439,6 +439,7 @@
 - Astro Linktree alternative https://github.com/trevortylerlee/treelink
 - Astro minimal blog https://github.com/superwebthemes/barebones
 - Good Shadcn Astro theme https://github.com/jktrn/astro-erudite
+- Excellent list of Astro, Next.js and ShadCN templates https://www.astrothemes.dev/, https://nexttemplates.dev/, https://shadcntemplates.com/
 
 #### Design
 
