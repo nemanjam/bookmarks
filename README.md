@@ -669,6 +669,7 @@
 - lot of devops info here https://iximiuz.com/
 - Dokku alternative https://github.com/zane-ops/zane-ops
 - Dokku alternative with UI https://github.com/rodyherrera/Quantum
+- Nginx config web generator https://github.com/digitalocean/nginxconfig.io
 
 #### Docker
 
