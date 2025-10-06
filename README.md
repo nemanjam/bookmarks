@@ -696,6 +696,7 @@
 #### Networks
 
 - Iptables and more https://iximiuz.com/en/series/computer-networking-fundamentals/
+- Proxy lists by country https://github.com/proxifly/free-proxy-list
 
 #### Homelab
 
