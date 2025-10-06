@@ -765,6 +765,7 @@
 - SSH like Tailscale https://github.com/shellhub-io/shellhub
 - Wetransfer p2p self-hosted https://github.com/robinkarlberg/transfer.zip-web
 - Wetransfer self-hosted https://github.com/ErugoOSS/Erugo
+- Raspberry router https://github.com/RaspAP/raspap-webgui
 
 #### Git
 
