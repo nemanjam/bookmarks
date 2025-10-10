@@ -419,6 +419,7 @@
 - Next.js, p2p, Docker https://github.com/kern/filepizza
 - Excellent Astro landing page https://github.com/benavlabs/landstro
 - Static Astro, JavaScript, SCSS, aria attributes https://github.com/Chalarangelo/30-seconds-of-code
+- Perfect ShadCN, Framer portfolio https://github.com/Susmita-Dey/portfolio, https://susmitadey.vercel.app/
 
 #### Website templates
 
