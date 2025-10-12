@@ -820,6 +820,7 @@
 - excellent blog, projects and design https://github.com/trekhleb/trekhleb.github.io , https://trekhleb.dev/
 - Huge list of portfolio websites https://github.com/emmabostian/developer-portfolios
 - People promoting their blog posts https://www.reddit.com/r/coding/
+- Portfolio links https://x.com/marcelkargul/status/1977015846729138291, https://x.com/denicmarko/status/1976946830710833226
 
 #### Business
 
