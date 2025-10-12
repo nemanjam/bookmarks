@@ -172,6 +172,7 @@
 - Loom alternative, must write Dockerfile yourself for Next.js app https://github.com/MarconLP/snapify
 - Yaml resume, not bad design https://github.com/yamlresume/yamlresume
 - Video downloader terminal https://github.com/yt-dlp/yt-dlp, desktop https://github.com/aandrew-me/ytDownloader
+- Username, email search https://github.com/p1ngul1n0/blackbird
 
 #### LLM
 
