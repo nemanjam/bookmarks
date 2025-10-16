@@ -173,6 +173,8 @@
 - Yaml resume, not bad design https://github.com/yamlresume/yamlresume
 - Video downloader terminal https://github.com/yt-dlp/yt-dlp, desktop https://github.com/aandrew-me/ytDownloader
 - Username, email search https://github.com/p1ngul1n0/blackbird
+- Desktop markdown editor https://typora.io/
+- Screen annotation https://github.com/DmytroVasin/DrawPen
 
 #### LLM
 
@@ -813,6 +815,7 @@
 - CV template https://github.com/BartoszJarocki/cv
 - Hackernews hiring trends graph https://hnhiring.com/trends , repo https://github.com/jordinl/hnhiring
 - Excellent tech documentaries https://www.youtube.com/@Honeypotio/videos
+- Excellent markdown CV builder https://github.com/BingyanStudio/LapisCV
 
 #### Personal branding
 
