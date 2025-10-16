@@ -426,6 +426,7 @@
 - Perfect ShadCN, Framer portfolio https://github.com/Susmita-Dey/portfolio, https://susmitadey.vercel.app/
 - Next.js, Drizzle, big project, Claude code bloat https://github.com/UllrAI/SaaS-Starter
 - Next.js 15, React 19, tailwind 4, next-safe-action, metadata, font, themes, https://github.com/shadcnblocks/mainline-nextjs-template
+- Decent Astro, ShadCN example https://github.com/shadcnblocks/mainline-astro-template
 
 
 #### Website templates
