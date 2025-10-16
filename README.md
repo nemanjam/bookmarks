@@ -505,6 +505,7 @@
 - Publishing Npm packages https://dev.to/snyk/building-an-npm-package-compatible-with-esm-and-cjs-in-2024-88m
 - Changesets https://lirantal.com/blog/introducing-changesets-simplify-project-versioning-with-semantic-releases
 - Publishing Npm packages https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html
+- dotenv with validation https://github.com/dmno-dev/varlock
 
 #### Serverless
 
