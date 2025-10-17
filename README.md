@@ -312,6 +312,7 @@
 - Common, stable hooks to avoid reinventing https://usehooks.com/, https://github.com/uidotdev/usehooks
 - Another https://github.com/streamich/react-use
 - ShadCN tutorial https://github.com/vercel/components.build
+- Embed video component https://github.com/sampotts/plyr
 
 #### Astro
 
