@@ -175,6 +175,7 @@
 - Username, email search https://github.com/p1ngul1n0/blackbird
 - Desktop markdown editor https://typora.io/
 - Screen annotation https://github.com/DmytroVasin/DrawPen
+- Decode JWT https://www.jwt.io/
 
 #### LLM
 
