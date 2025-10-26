@@ -318,7 +318,7 @@
 
 #### Next.js
 
-- Excellent, practical React, Next.js, React Query channel https://www.youtube.com/@cosdensolutions/videos
+- Excellent, practical React, Next.js, React Query channel https://www.youtube.com/@cosdensolutions/videos, ALL code examples, perfect https://github.com/cosdensolutions/code/tree/master/videos/long
 
 #### Astro
 
