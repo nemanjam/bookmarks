@@ -14,6 +14,7 @@
 - [Frontend](#frontend)
   - [JavaScript](#javascript)
   - [React](#react)
+  - [Next.js](#nextjs)
   - [Astro](#astro)
   - [Turbo](#turbo)
   - [CSS](#css)
@@ -314,6 +315,10 @@
 - Another https://github.com/streamich/react-use
 - ShadCN tutorial https://github.com/vercel/components.build
 - Embed video component https://github.com/sampotts/plyr
+
+#### Next.js
+
+- Excellent, practical React, Next.js, React Query channel https://www.youtube.com/@cosdensolutions/videos
 
 #### Astro
 
