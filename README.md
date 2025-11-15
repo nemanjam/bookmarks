@@ -401,7 +401,7 @@
 - supabase, server actions https://github.com/vercel/nextjs-subscription-payments
 - simplified https://github.com/testdrivenio/fastapi-sqlmodel-alembic
 - chatGpt with voice https://github.com/cogentapps/chat-with-gpt
-- another linkedin https://github.com/igormagalhaesr/FastAPI-boilerplate
+- another linkedin https://github.com/igormagalhaesr/FastAPI-boilerplate, renamed to https://github.com/benavlabs/FastAPI-boilerplate
 - another from him https://github.com/igorbenav/fastcrud
 - fastapi, kubernetes https://github.com/Kludex/fastapi-microservices
 - Next.js 12 https://github.com/boxyhq/saas-starter-kit
