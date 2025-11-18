@@ -177,6 +177,7 @@
 - Desktop markdown editor https://typora.io/
 - Screen annotation https://github.com/DmytroVasin/DrawPen
 - Decode JWT https://www.jwt.io/
+- Web send files (over internet, no LAN) https://github.com/schollz/e2ecp/
 
 #### LLM
 
@@ -185,6 +186,7 @@
 - Open source, Chinese https://chat.deepseek.com/
 - Prompts https://prompts.chat/
 - Cursor presets https://cursor.directory/
+- AI agents use cases https://github.com/ashishpatel26/500-AI-Agents-Projects
 
 #### Links
 
@@ -319,6 +321,7 @@
 #### Next.js
 
 - Excellent, practical React, Next.js, React Query channel https://www.youtube.com/@cosdensolutions/videos, ALL code examples, perfect https://github.com/cosdensolutions/code/tree/master/videos/long
+- github.com/ethanniser from Vercel https://www.youtube.com/@ethanniser
 
 #### Astro
 
@@ -435,7 +438,8 @@
 - Next.js, Drizzle, big project, Claude code bloat https://github.com/UllrAI/SaaS-Starter
 - Next.js 15, React 19, tailwind 4, next-safe-action, metadata, font, themes, https://github.com/shadcnblocks/mainline-nextjs-template
 - Decent Astro, ShadCN example https://github.com/shadcnblocks/mainline-astro-template
-
+- Astro Blog https://github.com/ethanniser/site
+- Next.js 16 ecommerce, 𝚌𝚊𝚌𝚑𝚎𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜 https://github.com/ethanniser/NextFaster
 
 #### Website templates
 
@@ -784,6 +788,9 @@
 - Wetransfer p2p self-hosted https://github.com/robinkarlberg/transfer.zip-web
 - Wetransfer self-hosted https://github.com/ErugoOSS/Erugo
 - Raspberry router https://github.com/RaspAP/raspap-webgui
+- Self-hosted disposable email https://github.com/haileyydev/maildrop/
+- Run VMs in Docker container https://github.com/qemus/qemu
+- Nginx UI https://github.com/Adewagold/nginx-server-manager
 
 #### Git
 
@@ -851,6 +858,7 @@
 - promotion channels https://github.com/trekhleb/promote-your-next-startup
 - free domains on my-website.eu.org https://nic.eu.org/
 - Marketeer with websites https://kaplich.me/projects, https://github.com/sergeykaplich
+- Scrape Facebook pages https://github.com/kevinzg/facebook-scraper
 
 #### Interviews
 
