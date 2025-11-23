@@ -339,7 +339,7 @@
 - nanostores with React Query https://hounie.me/writings/how-to-use-react-query-with-astro/
 - Remote markdown https://github.com/natemoo-re/astro-remote
 - Big, excellent list of Astro blogs https://github.com/withastro/roadmap/discussions/521
-- Astro tutorials list https://github.com/astrolicious/astro-tips.dev
+- Astro tutorials list https://astro-tips.dev/external-resources, https://github.com/astrolicious/astro-tips.dev
 - Official, lot of Astro links https://docs.astro.build/en/community-resources/content/
 - Astro articles https://webreaper.dev/posts/
 - Lot of Astro articles https://www.emgoto.com/
