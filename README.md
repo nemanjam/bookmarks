@@ -442,6 +442,7 @@
 - Astro Blog https://github.com/ethanniser/site
 - Next.js 16 ecommerce, 𝚌𝚊𝚌𝚑𝚎𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜 https://github.com/ethanniser/NextFaster
 - Next.js showoff thread https://www.reddit.com/r/nextjs/comments/1i91mp7/weekly_showoff_thread_share_what_youve_created/?sort=new
+- Obsidian in Next.js https://github.com/xclusive36/MarkItUp
 
 #### Website templates
 
