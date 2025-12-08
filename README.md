@@ -795,6 +795,7 @@
 - Self-hosted disposable email https://github.com/haileyydev/maildrop/
 - Run VMs in Docker container https://github.com/qemus/qemu
 - Nginx UI https://github.com/Adewagold/nginx-server-manager
+- Homelab Infrastructure as Code https://github.com/Mafyuh/iac/
 
 #### Git
 
