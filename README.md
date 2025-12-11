@@ -345,6 +345,7 @@
 - Astro articles https://webreaper.dev/posts/
 - Lot of Astro articles https://www.emgoto.com/
 - ShadCN for Astro https://starwind.dev/
+- Grep replace environment variables in Dockerfile entrypoint on static site start https://phase.dev/blog/nextjs-public-runtime-variables/
 
 #### Turbo
 
