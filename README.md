@@ -323,6 +323,7 @@
 
 - Excellent, practical React, Next.js, React Query channel https://www.youtube.com/@cosdensolutions/videos, ALL code examples, perfect https://github.com/cosdensolutions/code/tree/master/videos/long
 - github.com/ethanniser from Vercel https://www.youtube.com/@ethanniser
+- Blog about Next.js environment variables https://phase.dev/blog/
 
 #### Astro
 
