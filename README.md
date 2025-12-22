@@ -371,7 +371,7 @@
 - 1500 free common open source fonts as npm packages https://fontsource.org/
 - Framer motion React components https://github.com/magicuidesign/magicui
 - layout with Grid https://stephenstpierre.com/blog/building-a-super-powered-layout-with-css-grid
-
+- Visualize Tailwind config https://github.com/rogden/tailwind-config-viewer/
 #### Good projects
 
 - Next.js 13 app dir routing https://github.com/vercel/app-playground
