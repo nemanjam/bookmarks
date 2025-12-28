@@ -372,6 +372,7 @@
 - Framer motion React components https://github.com/magicuidesign/magicui
 - layout with Grid https://stephenstpierre.com/blog/building-a-super-powered-layout-with-css-grid
 - Visualize Tailwind config https://github.com/rogden/tailwind-config-viewer/
+
 #### Good projects
 
 - Next.js 13 app dir routing https://github.com/vercel/app-playground
@@ -445,7 +446,7 @@
 - Next.js 16 ecommerce, 𝚌𝚊𝚌𝚑𝚎𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜 https://github.com/ethanniser/NextFaster
 - Next.js showoff thread https://www.reddit.com/r/nextjs/comments/1i91mp7/weekly_showoff_thread_share_what_youve_created/?sort=new
 - Obsidian clone, One of best Next.js projects available, big, comprehensive, Next 16, Tailwind 4, Zustand, Drizzle, SQLite, auth, LLM, Playwright https://github.com/xclusive36/MarkItUp/
-
+- Single page, rich CSS portfolio https://github.com/bchiang7/v4
 
 #### Website templates
 
