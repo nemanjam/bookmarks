@@ -187,6 +187,7 @@
 - Prompts https://prompts.chat/
 - Cursor presets https://cursor.directory/
 - AI agents use cases https://github.com/ashishpatel26/500-AI-Agents-Projects
+- Microsoft course https://github.com/microsoft/generative-ai-for-beginners
 
 #### Links
 
