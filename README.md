@@ -448,6 +448,7 @@
 - Next.js showoff thread https://www.reddit.com/r/nextjs/comments/1i91mp7/weekly_showoff_thread_share_what_youve_created/?sort=new
 - Obsidian clone, One of best Next.js projects available, big, comprehensive, Next 16, Tailwind 4, Zustand, Drizzle, SQLite, auth, LLM, Playwright https://github.com/xclusive36/MarkItUp/
 - Single page, rich CSS portfolio https://github.com/bchiang7/v4
+- Portfolio, nice design, Next.js, ShadcnUI https://github.com/hiretimsf/Portfolio-Web-v4, https://github.com/ncdai/chanhdai.com
 
 #### Website templates
 
