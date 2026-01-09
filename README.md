@@ -66,7 +66,7 @@
 - extension aggregator https://daily.dev/
 - https://news.ycombinator.com/best
 - dead link https://stargazing.dev/, https://x.com/stargazing_dev
-
+- LLM Hackernews https://hn-discussions.top/
 #### Blogs
 
 - https://indepth.dev/react
