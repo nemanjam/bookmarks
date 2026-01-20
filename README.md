@@ -178,7 +178,7 @@
 - Desktop markdown editor https://typora.io/
 - Screen annotation https://github.com/DmytroVasin/DrawPen
 - Decode JWT https://www.jwt.io/
-- Web send files (over internet, no LAN) https://github.com/schollz/e2ecp/
+- Web send files (over internet, no LAN) https://github.com/schollz/e2ecp/, https://e2ecp.com/
 
 #### LLM
 
@@ -450,6 +450,7 @@
 - Obsidian clone, One of best Next.js projects available, big, comprehensive, Next 16, Tailwind 4, Zustand, Drizzle, SQLite, auth, LLM, Playwright https://github.com/xclusive36/MarkItUp/
 - Single page, rich CSS portfolio https://github.com/bchiang7/v4
 - Portfolio, nice design, Next.js, ShadcnUI https://github.com/hiretimsf/Portfolio-Web-v4, https://github.com/ncdai/chanhdai.com
+- React, Mongo, socket.io chat https://github.com/yinxin630/fiora/
 
 #### Website templates
 
@@ -497,6 +498,7 @@
 - Different website types examples https://websitevice.com
 - Nice components (former NextUI) https://github.com/heroui-inc/heroui
 - Open source design system https://github.com/Chainlift/liftkit
+- Design systems list https://github.com/alexpate/awesome-design-systems/
 
 ---
 
@@ -588,6 +590,7 @@
   - small, hackernews https://github.com/innovatorved/whisper.api
   - check again from linkedin https://www.linkedin.com/feed/update/urn:li:activity:7133510378793144320 https://github.com/hamedasgari20/fastapi-tutorial https://github.com/hamedasgari20/Python-Django-FastAPI-advanced-topics#fastapi-related-topics https://github.com/hamedasgari20/todoapp-with-FastAPI
 - FastApi, Astro blog https://fastro.ai/blog
+- Exceptions handling package https://github.com/akutayural/APIException/
 
 #### C\#
 
@@ -649,6 +652,7 @@
 - https://www.youtube.com/@MarcoLenzo/playlists, architecture playlist https://www.youtube.com/watch?v=kbGYy49fCz4&list=PLG6ksn9JUACbdAexMOxfAM_WVYvADWx6t
 - https://medium.com/@techworldwithmilan
 - Software architecture books (no download links) https://github.com/mhadidg/software-architecture-books
+- API design https://www.seangoedecke.com/good-api-design/
 
 #### Clean code
 
@@ -803,6 +807,11 @@
 - Run VMs in Docker container https://github.com/qemus/qemu
 - Nginx UI https://github.com/Adewagold/nginx-server-manager
 - Homelab Infrastructure as Code https://github.com/Mafyuh/iac/
+- Self-hosted IPTV player, very interesting https://github.com/ardoviniandrea/ViniPlay/
+- https tunnels https://github.com/unblocked/chissl/
+- Dokku-like PaaS list: https://github.com/caprover/caprover, https://github.com/coollabsio/coolify, https://github.com/Dokploy/dokploy, https://github.com/biersoeckli/QuickStack/
+- IaC defined homelab https://github.com/Mafyuh/iac/
+- Ansible defined homelab https://github.com/mother-of-all-self-hosting/mash-playbook/
 
 #### Git
 
@@ -917,3 +926,4 @@
 - Python Authlib and https://typlog.com blogging platform creator https://github.com/lepture
 - FastApi, Astro starters https://github.com/igorbenav
 - Midday-ai, Cursor https://github.com/pontusab
+- Golang, p2p, https://github.com/schollz, excellent blog https://schollz.com/posts/
