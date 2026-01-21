@@ -809,7 +809,7 @@
 - Homelab Infrastructure as Code https://github.com/Mafyuh/iac/
 - Self-hosted IPTV player, very interesting https://github.com/ardoviniandrea/ViniPlay/
 - https tunnels https://github.com/unblocked/chissl/
-- Dokku-like PaaS list: https://github.com/caprover/caprover, https://github.com/coollabsio/coolify, https://github.com/Dokploy/dokploy, https://github.com/biersoeckli/QuickStack/
+- Dokku-like PaaS list: https://github.com/Dokploy/dokploy, https://github.com/coollabsio/coolify, https://github.com/basecamp/kamal, https://github.com/caprover/caprover, https://github.com/biersoeckli/QuickStack/
 - IaC defined homelab https://github.com/Mafyuh/iac/
 - Ansible defined homelab https://github.com/mother-of-all-self-hosting/mash-playbook/
 
