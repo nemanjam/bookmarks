@@ -119,6 +119,7 @@
 - Google styleguide, Python, Typescript, Shell... https://github.com/google/styleguide
 - Linux infographic cheatsheets https://x.com/sysxplore/media
 - React 19 https://www.epicreact.dev/react-19-cheatsheet
+- Http in detail https://http.dev
 
 #### Utils
 
