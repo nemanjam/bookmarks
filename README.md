@@ -811,9 +811,13 @@
 - Homelab Infrastructure as Code https://github.com/Mafyuh/iac/
 - Self-hosted IPTV player, very interesting https://github.com/ardoviniandrea/ViniPlay/
 - https tunnels https://github.com/unblocked/chissl/
-- Dokku-like PaaS list: https://github.com/Dokploy/dokploy, https://github.com/coollabsio/coolify, https://github.com/basecamp/kamal, https://github.com/caprover/caprover, https://github.com/biersoeckli/QuickStack/
+- Dokku-like PaaS list: https://github.com/Dokploy/dokploy, https://github.com/coollabsio/coolify, https://github.com/basecamp/kamal, https://github.com/caprover/caprover, https://github.com/biersoeckli/QuickStack/, https://github.com/hmontazeri/mushak
 - IaC defined homelab https://github.com/Mafyuh/iac/
 - Ansible defined homelab https://github.com/mother-of-all-self-hosting/mash-playbook/
+- Self hosted Google Drive https://github.com/frappe/drive
+- Backups for self-hosting and rclone https://github.com/nicotsx/zerobyte
+- rsync for cloud https://github.com/rclone/rclone
+- sync remote folders https://github.com/syncthing/syncthing
 
 #### Git
 
