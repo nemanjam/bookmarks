@@ -174,7 +174,7 @@
 - Backup Github repos locally https://github.com/AkashRajpurohit/git-sync
 - Loom alternative, must write Dockerfile yourself for Next.js app https://github.com/MarconLP/snapify
 - Yaml resume, not bad design https://github.com/yamlresume/yamlresume
-- Video downloader terminal https://github.com/yt-dlp/yt-dlp, desktop https://github.com/aandrew-me/ytDownloader
+- Video downloader terminal https://github.com/yt-dlp/yt-dlp, desktop https://github.com/aandrew-me/ytDownloader, https://stacher.io/, https://github.com/mhogomchungu/media-downloader
 - Username, email search https://github.com/p1ngul1n0/blackbird
 - Desktop markdown editor https://typora.io/
 - Screen annotation https://github.com/DmytroVasin/DrawPen
@@ -795,6 +795,7 @@
 - Dokku alternative https://github.com/coollabsio/coolify
 - Tunneling urls and share folders https://github.com/openziti/zrok
 - Pangolin, the best high level tunneling tool https://github.com/fosrl/pangolin
+- Excellent tunnel https://github.com/Gouryella/drip, excellent docs https://driptunnel.app/
 - Self hosted tunnels https://github.com/amalshaji/portr
 - https://github.com/cbirkenbeul/docker-homelab
 - Blogs in German https://teqqy.de, https://2tap2.be
