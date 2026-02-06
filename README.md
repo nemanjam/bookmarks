@@ -97,6 +97,7 @@
 - Lot of articles https://haidarali.net/#/articles
 - Few hundreds blogs list https://github.com/kilimchoi/engineering-blogs
 - 234 random blogs list https://webring.xxiivv.com/#random
+- React and Rails tutorials https://blog.rstankov.com/
 
 #### Cheatsheets
 
