@@ -181,6 +181,7 @@
 - Screen annotation https://github.com/DmytroVasin/DrawPen
 - Decode JWT https://www.jwt.io/
 - Web send files (over internet, no LAN) https://github.com/schollz/e2ecp/, https://e2ecp.com/
+- Free image hosting and resizing API https://servimg.com/
 
 #### LLM
 
