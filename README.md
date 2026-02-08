@@ -934,3 +934,4 @@
 - FastApi, Astro starters https://github.com/igorbenav
 - Midday-ai, Cursor https://github.com/pontusab
 - Golang, p2p, https://github.com/schollz, excellent blog https://schollz.com/posts/
+- Tech tweets, Indian https://x.com/ujjwalscript/articles
