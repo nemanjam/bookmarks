@@ -637,6 +637,7 @@
 - https://sqlflow.gudusoft.com/#/
 - https://www.garrickadenbuie.com/project/tidyexplain
 - https://dev.to/rsaz/simple-api-done-with-expressots-and-postgres-348l
+- SQL diagrams https://github.com/drawdb-io/drawdb
 
 ---
 
@@ -799,6 +800,7 @@
 - Pangolin, the best high level tunneling tool https://github.com/fosrl/pangolin
 - Excellent tunnel https://github.com/Gouryella/drip, excellent docs https://driptunnel.app/
 - Self hosted tunnels https://github.com/amalshaji/portr
+- Another tunnel https://github.com/tun2proxy/tun2proxy
 - https://github.com/cbirkenbeul/docker-homelab
 - Blogs in German https://teqqy.de, https://2tap2.be
 - Change detection https://github.com/dgtlmoon/changedetection.io
@@ -818,8 +820,10 @@
 - Ansible defined homelab https://github.com/mother-of-all-self-hosting/mash-playbook/
 - Self hosted Google Drive https://github.com/frappe/drive
 - Backups for self-hosting and rclone https://github.com/nicotsx/zerobyte
+- Backups https://github.com/PlakarKorp/plakar
 - rsync for cloud https://github.com/rclone/rclone
 - sync remote folders https://github.com/syncthing/syncthing
+- Monitoring prices https://github.com/clucraft/PriceGhost
 
 #### Git
 
