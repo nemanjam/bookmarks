@@ -121,6 +121,7 @@
 - Linux infographic cheatsheets https://x.com/sysxplore/media
 - React 19 https://www.epicreact.dev/react-19-cheatsheet
 - Http in detail https://http.dev
+- Phone app cheatsheet for all languages https://github.com/ivansaul/cheat-sheets
 
 #### Utils
 
