@@ -827,6 +827,7 @@
 - rsync for cloud https://github.com/rclone/rclone
 - sync remote folders https://github.com/syncthing/syncthing
 - Monitoring prices https://github.com/clucraft/PriceGhost
+- Tailscale Docker tunnel https://github.com/marvinvr/docktail
 
 #### Git
 
@@ -943,3 +944,4 @@
 - Midday-ai, Cursor https://github.com/pontusab
 - Golang, p2p, https://github.com/schollz, excellent blog https://schollz.com/posts/
 - Tech tweets, Indian https://x.com/ujjwalscript/articles
+- Swiss, DockTail https://github.com/marvinvr
