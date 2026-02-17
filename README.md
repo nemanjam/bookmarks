@@ -633,8 +633,9 @@
   - https://www.youtube.com/@changelog
   - https://www.youtube.com/@TutorialEdge
   - https://www.youtube.com/@golangcafe
-  - https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a
-  - Biggest list of libraries https://github.com/avelino/awesome-go
+- https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a
+- Biggest list of libraries https://github.com/avelino/awesome-go
+- Cheatsheet https://github.com/a8m/golang-cheat-sheet
 
 #### Databases
 
