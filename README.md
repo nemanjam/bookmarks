@@ -808,6 +808,7 @@
 - Excellent tunnel https://github.com/Gouryella/drip, excellent docs https://driptunnel.app/
 - Self hosted tunnels https://github.com/amalshaji/portr
 - Another tunnel https://github.com/tun2proxy/tun2proxy
+- Websockets tunnel, based on HTTP https://github.com/erebe/wstunnel
 - https://github.com/cbirkenbeul/docker-homelab
 - Blogs in German https://teqqy.de, https://2tap2.be
 - Change detection https://github.com/dgtlmoon/changedetection.io
