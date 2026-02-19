@@ -103,8 +103,8 @@
 
 - https://hackingcpp.com/cpp/cheat_sheets.html
 - https://taplink.cc/javascriptmastery/p/7fb4d6/
-- https://learnxinyminutes.com/ , https://github.com/adambard/learnxinyminutes-docs
-- https://roadmap.sh/pdfs
+- Languages cheatsheets as comments, all languages https://learnxinyminutes.com/ , https://github.com/adambard/learnxinyminutes-docs
+- Roadmaps, updates OFTEN, index https://roadmap.sh/dashboard, page: https://roadmap.sh/XXX, pdf: https://roadmap.sh/pdfs/roadmaps/XXX.pdf
 - https://cheat.readthedocs.io/en/latest/index.html
 - https://oscarchou.com/posts/handbook/dokku-command-cheatsheet/
 - nije free https://georgemoller.gumroad.com/
@@ -568,6 +568,8 @@
 - Python basics cheatsheet https://github.com/trekhleb/learn-python
 - Undetectable headless browser for scraping https://github.com/D4Vinci/Scrapling
 - https://ultimatepython.org/, https://github.com/huangsam/ultimate-python
+- As comments https://learnxinyminutes.com/python/
+- Roadmap https://roadmap.sh/python, https://roadmap.sh/pdfs/roadmaps/python.pdf
 
 #### FastAPI
 
@@ -625,6 +627,7 @@
   - https://www.youtube.com/@TensorProgramming
   - https://www.youtube.com/@noboilerplate
   - https://www.youtube.com/@fasterthanlime
+- Roadmap https://roadmap.sh/rust, https://roadmap.sh/pdfs/roadmaps/rust.pdf
 
 #### Golang
 
@@ -634,9 +637,12 @@
   - https://www.youtube.com/@changelog
   - https://www.youtube.com/@TutorialEdge
   - https://www.youtube.com/@golangcafe
-- https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a
+- Excellent roadmap https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a
 - Biggest list of libraries https://github.com/avelino/awesome-go
 - Cheatsheet https://github.com/a8m/golang-cheat-sheet
+- As comments https://learnxinyminutes.com/go/
+- Tricks https://divan.dev/posts/avoid_gotchas/
+- Roadmap https://roadmap.sh/golang, https://roadmap.sh/pdfs/roadmaps/golang.pdf
 
 #### Databases
 
@@ -739,6 +745,7 @@
 - Screenshots with annotations https://github.com/AlexanderVanhee/Gradia
 - Linux clipboard manager https://github.com/hluk/CopyQ, https://github.com/murat-cileli/clyp
 - Single Windows app in a window https://github.com/winapps-org/winapps
+- Roadmap https://roadmap.sh/shell-bash, https://roadmap.sh/pdfs/roadmaps/shell-bash.pdf
 
 #### Networks
 
