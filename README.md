@@ -104,7 +104,7 @@
 - https://hackingcpp.com/cpp/cheat_sheets.html
 - https://taplink.cc/javascriptmastery/p/7fb4d6/
 - Languages cheatsheets as comments, all languages https://learnxinyminutes.com/ , https://github.com/adambard/learnxinyminutes-docs
-- Roadmaps, updates OFTEN, index https://roadmap.sh/dashboard, page: https://roadmap.sh/XXX, pdf: https://roadmap.sh/pdfs/roadmaps/XXX.pdf
+- Roadmaps, updates OFTEN, page HAS linked articles and explanations, index https://roadmap.sh/dashboard, page: https://roadmap.sh/XXX, pdf: https://roadmap.sh/pdfs/roadmaps/XXX.pdf
 - https://cheat.readthedocs.io/en/latest/index.html
 - https://oscarchou.com/posts/handbook/dokku-command-cheatsheet/
 - nije free https://georgemoller.gumroad.com/
@@ -643,6 +643,7 @@
 - As comments https://learnxinyminutes.com/go/
 - Tricks https://divan.dev/posts/avoid_gotchas/
 - Roadmap https://roadmap.sh/golang, https://roadmap.sh/pdfs/roadmaps/golang.pdf
+- Book https://github.com/teivah/100-go-mistakes/, https://100go.co/
 
 #### Databases
 
