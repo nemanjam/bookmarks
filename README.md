@@ -256,6 +256,8 @@
   - https://lobste.rs/
   - https://jimmyr.com/
 
+---
+
 ### Frontend
 
 #### JavaScript
