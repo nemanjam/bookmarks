@@ -963,3 +963,4 @@
 - Golang, p2p, https://github.com/schollz, excellent blog https://schollz.com/posts/
 - Tech tweets, Indian https://x.com/ujjwalscript/articles
 - Swiss, DockTail https://github.com/marvinvr
+- Chinese, Vercel, Next.js, SWR, Satori https://github.com/shuding, https://shud.in/
