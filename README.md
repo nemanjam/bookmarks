@@ -359,6 +359,8 @@
 - Lot of Astro articles https://www.emgoto.com/
 - ShadCN for Astro https://starwind.dev/
 - Grep replace environment variables in Dockerfile entrypoint on static site start https://phase.dev/blog/nextjs-public-runtime-variables/
+- Astro components https://pro.starwind.dev/
+- Astro themes https://themefisher.com/astro-themes
 
 #### Turbo
 
