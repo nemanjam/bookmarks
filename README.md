@@ -485,6 +485,7 @@
 - Good Shadcn Astro theme https://github.com/jktrn/astro-erudite
 - Excellent list of Astro, Next.js and ShadCN templates https://www.astrothemes.dev/, https://nexttemplates.dev/, https://shadcntemplates.com/
 - Huge list of linked templates https://www.builtatlightspeed.com/
+- Themes inspiration https://themefisher.com/
 
 #### Design
 
