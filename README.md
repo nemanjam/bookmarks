@@ -99,6 +99,7 @@
 - 234 random blogs list https://webring.xxiivv.com/#random
 - React and Rails tutorials https://blog.rstankov.com/
 - Infrastructure https://punits.dev/
+- Vercel community https://www.pawlean.com/vault
 
 #### Cheatsheets
 
