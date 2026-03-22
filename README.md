@@ -463,6 +463,7 @@
 - Single page, rich CSS portfolio https://github.com/bchiang7/v4
 - Portfolio, nice design, Next.js, ShadcnUI https://github.com/hiretimsf/Portfolio-Web-v4, https://github.com/ncdai/chanhdai.com
 - React, Mongo, socket.io chat https://github.com/yinxin630/fiora/
+- Excellent self-hosted Instagram clone https://github.com/foldergram/foldergram
 
 #### Website templates
 
