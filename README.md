@@ -961,7 +961,7 @@
 - Node.js security, Israel https://github.com/lirantal, https://lirantal.com/blog
 - LLM prompts, Turkish https://github.com/f
 - Sharp image library https://github.com/lovell, https://cv.lovell.info/
-- LLMs famous Bulgarian https://github.com/ggerganov
+- LLMs famous Bulgarian https://github.com/ggerganov, https://ggerganov.com/
 - Python Authlib and https://typlog.com blogging platform creator https://github.com/lepture
 - FastApi, Astro starters https://github.com/igorbenav
 - Midday-ai, Cursor https://github.com/pontusab
