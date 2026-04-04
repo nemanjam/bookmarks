@@ -632,7 +632,7 @@
 - https://google.github.io/comprehensive-rust/
 - Rust Youtube channel https://www.youtube.com/@letsgetrusty
 - Other Rust Youtube channels:
-  - https://www.youtube.com/@jonhoo
+  - Main one https://www.youtube.com/@jonhoo
   - https://www.youtube.com/@chrisbiscardi
   - https://www.youtube.com/@TensorProgramming
   - https://www.youtube.com/@noboilerplate
