@@ -872,6 +872,7 @@
 - semantic versioning from Github https://semver.org/
 - Flavio Copes comprehensive cheatsheet https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/
 - Git branching strategies https://newsletter.techworld-with-milan.com/p/git-branching-strategies
+- Quick insights into repo https://piechowski.io/post/git-commands-before-reading-code/
 
 ---
 
