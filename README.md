@@ -853,7 +853,9 @@
 - sync remote folders https://github.com/syncthing/syncthing
 - Monitoring prices https://github.com/clucraft/PriceGhost
 - Tailscale Docker tunnel https://github.com/marvinvr/docktail
-- Excellent backup for websites https://github.com/borgmatic-collective/borgmatic, https://github.com/borgmatic-collective/docker-borgmatic
+- Backup software for websites:
+  - Borg CLI https://github.com/borgbackup/borg
+  - Borgmatic yaml https://github.com/borgmatic-collective/borgmatic, https://github.com/borgmatic-collective/docker-borgmatic
 
 #### Git
 
