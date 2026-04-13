@@ -927,6 +927,7 @@
 - free domains on my-website.eu.org https://nic.eu.org/
 - Marketeer with websites https://kaplich.me/projects, https://github.com/sergeykaplich
 - Scrape Facebook pages https://github.com/kevinzg/facebook-scraper
+- Web entrepreneur https://stevehanov.ca/blog
 
 #### Interviews
 
