@@ -187,6 +187,7 @@
 - Free image hosting and resizing API https://servimg.com/
 - Video and image files converter https://p2r3.github.io/convert/
 - Self-hosted video downloader https://github.com/averygan/reclip
+- Free, open source screen recorder https://github.com/siddharthvaddem/openscreen
 
 #### LLM
 
