@@ -198,6 +198,9 @@
 - AI agents use cases https://github.com/ashishpatel26/500-AI-Agents-Projects
 - Microsoft course https://github.com/microsoft/generative-ai-for-beginners
 - Assistant on Raspberry Pi https://github.com/sipeed/picoclaw
+- Claude Code, best resource https://github.com/FlorianBruniaux/claude-code-ultimate-guide
+- Claude Code cheatsheet https://github.com/Njengah/claude-code-cheat-sheet
+- Claude Code cheatsheet https://cc.storyfox.cz/
 
 #### Links
 
