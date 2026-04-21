@@ -188,6 +188,7 @@
 - Video and image files converter https://p2r3.github.io/convert/
 - Self-hosted video downloader https://github.com/averygan/reclip
 - Free, open source screen recorder https://github.com/siddharthvaddem/openscreen
+- Reverse Android apps skill https://github.com/SimoneAvogadro/android-reverse-engineering-skill
 
 #### LLM
 
