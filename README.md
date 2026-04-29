@@ -766,6 +766,7 @@
 - Linux clipboard manager https://github.com/hluk/CopyQ, https://github.com/murat-cileli/clyp
 - Single Windows app in a window https://github.com/winapps-org/winapps
 - Roadmap https://roadmap.sh/shell-bash, https://roadmap.sh/pdfs/roadmaps/shell-bash.pdf
+- Milan Tair Linux playlist https://www.youtube.com/watch?v=EeLx1pm24wM&list=PL-UTrxF0y8kJBE7TnTBVNz1eW1IyP4840
 
 #### Networks
 
