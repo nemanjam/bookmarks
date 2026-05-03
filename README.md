@@ -177,7 +177,8 @@
 - Blogging platform https://typlog.com/
 - Check not followers on Github https://git-hub-unfollower-tracker.vercel.app/
 - Backup Github repos locally https://github.com/AkashRajpurohit/git-sync
-- Loom alternative, must write Dockerfile yourself for Next.js app https://github.com/MarconLP/snapify
+- Loom alternative (abandoned), must write Dockerfile yourself for Next.js app https://github.com/MarconLP/snapify
+- Better Loom alternative https://github.com/CapSoftware/Cap
 - Yaml resume, not bad design https://github.com/yamlresume/yamlresume
 - Video downloader terminal https://github.com/yt-dlp/yt-dlp, desktop https://github.com/aandrew-me/ytDownloader, https://stacher.io/, https://github.com/mhogomchungu/media-downloader
 - Username, email search https://github.com/p1ngul1n0/blackbird
@@ -190,6 +191,7 @@
 - Self-hosted video downloader https://github.com/averygan/reclip
 - Free, open source screen recorder https://github.com/siddharthvaddem/openscreen
 - Reverse Android apps skill https://github.com/SimoneAvogadro/android-reverse-engineering-skill
+- Open source alternatives, excellent https://openalternative.co/
 
 #### LLM
 
