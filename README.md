@@ -192,6 +192,7 @@
 - Free, open source screen recorder https://github.com/siddharthvaddem/openscreen
 - Reverse Android apps skill https://github.com/SimoneAvogadro/android-reverse-engineering-skill
 - Open source alternatives, excellent https://openalternative.co/
+- Self-hosted file sharing https://github.com/Skyfay/SkySend
 
 #### LLM
 
