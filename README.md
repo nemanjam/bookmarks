@@ -207,6 +207,9 @@
 - Claude Code, best resource https://github.com/FlorianBruniaux/claude-code-ultimate-guide
 - Claude Code cheatsheet https://github.com/Njengah/claude-code-cheat-sheet
 - Claude Code cheatsheet https://cc.storyfox.cz/
+- Anthropic skills https://github.com/anthropics/skills
+- Ts guy skills https://github.com/mattpocock/skills
+- Test if website is agent-ready https://isitagentready.com, https://x.com/mgechev/status/2045189000550555705
 
 #### Links
 
