@@ -194,6 +194,7 @@
 - Open source alternatives, excellent https://openalternative.co/
 - Self-hosted file sharing https://github.com/Skyfay/SkySend
 - Android remote control https://github.com/Genymobile/scrcpy
+- Google trends for a search term https://trends.google.com/explore
 
 #### LLM
 
