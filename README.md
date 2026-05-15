@@ -732,6 +732,7 @@
 - neural networks https://www.youtube.com/@Dataquestio/playlists
 - books, blog https://magazine.sebastianraschka.com/
 - AI Youtube channels https://www.youtube.com/@Deeplearningai , https://www.youtube.com/@mreflow , https://www.youtube.com/@aiexplained-official/playlists , https://www.youtube.com/@TwoMinutePapers , https://www.youtube.com/@RobertMilesAI , https://www.youtube.com/@MattVidPro , https://www.youtube.com/@aiadvantage , https://www.youtube.com/@SirajRaval
+- Excellent AI cheatsheets https://github.com/analyticalrohit/AI-ML-Cheatsheets/
 
 ---
 
