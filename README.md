@@ -193,6 +193,7 @@
 - Reverse Android apps skill https://github.com/SimoneAvogadro/android-reverse-engineering-skill
 - Open source alternatives, excellent https://openalternative.co/
 - Self-hosted file sharing https://github.com/Skyfay/SkySend
+- Android remote control https://github.com/Genymobile/scrcpy
 
 #### LLM
 
