@@ -271,6 +271,7 @@
   - https://techurls.com/
   - https://lobste.rs/
   - https://jimmyr.com/
+- AI powered, self-hosted aggregator with demo https://github.com/Thysrael/Horizon
 
 ---
 
@@ -733,6 +734,9 @@
 - books, blog https://magazine.sebastianraschka.com/
 - AI Youtube channels https://www.youtube.com/@Deeplearningai , https://www.youtube.com/@mreflow , https://www.youtube.com/@aiexplained-official/playlists , https://www.youtube.com/@TwoMinutePapers , https://www.youtube.com/@RobertMilesAI , https://www.youtube.com/@MattVidPro , https://www.youtube.com/@aiadvantage , https://www.youtube.com/@SirajRaval
 - Excellent AI cheatsheets https://github.com/analyticalrohit/AI-ML-Cheatsheets/
+- Excellent Claude Code single .md file tutorial https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know
+- List of tools, frameworks, and resources for AI https://github.com/dontriskit/awesome-ai-software-engineering
+- AI/ML rodamap https://github.com/PrinceSinghhub/Ultimate-AI-Engineer-Roadmap-2026
 
 ---
 
