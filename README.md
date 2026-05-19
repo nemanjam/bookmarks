@@ -737,6 +737,7 @@
 - Excellent Claude Code single .md file tutorial https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know
 - List of tools, frameworks, and resources for AI https://github.com/dontriskit/awesome-ai-software-engineering
 - AI/ML rodamap https://github.com/PrinceSinghhub/Ultimate-AI-Engineer-Roadmap-2026
+- Claude resources list https://github.com/JSONbored/awesome-claude
 
 ---
 
