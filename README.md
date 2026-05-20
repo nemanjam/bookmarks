@@ -740,7 +740,7 @@
 - Claude resources list https://github.com/JSONbored/awesome-claude
 - AI projects list https://github.com/Sumanth077/Hands-On-AI-Engineering
 - ML projects list https://github.com/lukasmasuch/best-of-ml-python
-- Google, enforce up to date skills https://github.com/GoogleChrome/modern-web-guidance-src
+- Google, enforce up to date web dev skills https://github.com/GoogleChrome/modern-web-guidance-src
 
 ---
 
