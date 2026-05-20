@@ -738,6 +738,8 @@
 - List of tools, frameworks, and resources for AI https://github.com/dontriskit/awesome-ai-software-engineering
 - AI/ML rodamap https://github.com/PrinceSinghhub/Ultimate-AI-Engineer-Roadmap-2026
 - Claude resources list https://github.com/JSONbored/awesome-claude
+- AI projects list https://github.com/Sumanth077/Hands-On-AI-Engineering
+- ML projects list https://github.com/lukasmasuch/best-of-ml-python
 
 ---
 
