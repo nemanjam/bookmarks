@@ -680,6 +680,7 @@
 - https://www.garrickadenbuie.com/project/tidyexplain
 - https://dev.to/rsaz/simple-api-done-with-expressots-and-postgres-348l
 - SQL diagrams https://github.com/drawdb-io/drawdb
+- Diagram and more from database connection, CLI app https://github.com/schemaspy/schemaspy
 
 ---
 
