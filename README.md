@@ -967,7 +967,7 @@
 - Full stack https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers
 - Frontend gist https://gist.github.com/augbog/ed3502543169b6ce844313c69e4e1b2d
 - Big O cheatsheet https://www.bigocheatsheet.com/
-- System design https://github.com/ashishps1/awesome-system-design-resources, behavioral https://github.com/ashishps1/awesome-behavioral-interviews
+- System design https://github.com/ashishps1/awesome-system-design-resources, behavioral https://github.com/ashishps1/awesome-behavioral-interviews, interview preparation https://blog.algomaster.io/
 
 #### Algorithms and Data structures
 
