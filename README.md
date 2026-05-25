@@ -742,6 +742,7 @@
 - AI projects list https://github.com/Sumanth077/Hands-On-AI-Engineering
 - ML projects list https://github.com/lukasmasuch/best-of-ml-python
 - Google, enforce up to date web dev skills https://github.com/GoogleChrome/modern-web-guidance-src
+- AI lessons https://github.com/rohitg00/ai-engineering-from-scratch
 
 ---
 
