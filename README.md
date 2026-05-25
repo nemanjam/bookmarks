@@ -654,6 +654,7 @@
   - https://www.youtube.com/@noboilerplate
   - https://www.youtube.com/@fasterthanlime
 - Roadmap https://roadmap.sh/rust, https://roadmap.sh/pdfs/roadmaps/rust.pdf
+- Rust blog and resources https://corrode.dev/, https://github.com/mre
 
 #### Golang
 
