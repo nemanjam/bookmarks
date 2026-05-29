@@ -195,6 +195,7 @@
 - Self-hosted file sharing https://github.com/Skyfay/SkySend
 - Android remote control https://github.com/Genymobile/scrcpy
 - Google trends for a search term https://trends.google.com/explore
+- Free domains https://github.com/DigitalPlatDev/FreeDomain
 
 #### LLM
 
