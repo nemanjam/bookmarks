@@ -631,6 +631,7 @@
 
 - Excellent cheatsheet https://github.com/milanm/csharp-cheatsheet, https://github.com/milanm/DotNet-Developer-Roadmap
 - https://www.youtube.com/@zoran-horvat/playlists
+- Overview article https://newsletter.techworld-with-milan.com/p/why-csharp
 
 #### Rust
 
