@@ -596,6 +596,7 @@
 - https://ultimatepython.org/, https://github.com/huangsam/ultimate-python
 - As comments https://learnxinyminutes.com/python/
 - Roadmap https://roadmap.sh/python, https://roadmap.sh/pdfs/roadmaps/python.pdf
+- Python cheatsheet https://coding-overhead.ru/posts/python-cheat-sheet/
 
 #### FastAPI
 
