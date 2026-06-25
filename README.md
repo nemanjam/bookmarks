@@ -213,6 +213,7 @@
 - Anthropic skills https://github.com/anthropics/skills
 - Ts guy skills https://github.com/mattpocock/skills
 - Test if website is agent-ready https://isitagentready.com, https://x.com/mgechev/status/2045189000550555705
+- Links collection https://github.com/shanraisshan/claude-code-best-practice
 
 #### Links
 
