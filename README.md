@@ -196,6 +196,7 @@
 - Android remote control https://github.com/Genymobile/scrcpy
 - Google trends for a search term https://trends.google.com/explore
 - Free domains https://github.com/DigitalPlatDev/FreeDomain
+- IPTV list 3800 channels https://github.com/Free-TV/IPTV
 
 #### LLM
 
