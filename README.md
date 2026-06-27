@@ -792,6 +792,8 @@
 - Single Windows app in a window https://github.com/winapps-org/winapps
 - Roadmap https://roadmap.sh/shell-bash, https://roadmap.sh/pdfs/roadmaps/shell-bash.pdf
 - Milan Tair Linux playlist https://www.youtube.com/watch?v=EeLx1pm24wM&list=PL-UTrxF0y8kJBE7TnTBVNz1eW1IyP4840
+- Introduction to Bash Scripting - excellent book and video tutorial https://github.com/bobbyiliev/introduction-to-bash-scripting, https://www.youtube.com/playlist?list=PLY7SzAmnEqp78tsHh1kK0gOx_f-uwQZAT
+- DevOps blog https://bobbyiliev.com/posts/
 
 #### Networks
 
