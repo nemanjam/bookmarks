@@ -197,6 +197,7 @@
 - Google trends for a search term https://trends.google.com/explore
 - Free domains https://github.com/DigitalPlatDev/FreeDomain
 - IPTV list 3800 channels https://github.com/Free-TV/IPTV
+- Hackernews jobs trends https://hacker-job.com/trends
 
 #### LLM
 
