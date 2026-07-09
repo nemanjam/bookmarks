@@ -198,6 +198,7 @@
 - Free domains https://github.com/DigitalPlatDev/FreeDomain
 - IPTV list 3800 channels https://github.com/Free-TV/IPTV
 - Hackernews jobs trends https://hacker-job.com/trends
+- Share files p2p, self-hosted https://github.com/polius/FileSync/, https://filesync.app/
 
 #### LLM
 
