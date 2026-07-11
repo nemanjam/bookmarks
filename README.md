@@ -485,6 +485,7 @@
 - Portfolio, nice design, Next.js, ShadcnUI https://github.com/hiretimsf/Portfolio-Web-v4, https://github.com/ncdai/chanhdai.com
 - React, Mongo, socket.io chat https://github.com/yinxin630/fiora/
 - Excellent self-hosted Instagram clone https://github.com/foldergram/foldergram
+- Full stack Next.js, Drizzle https://github.com/karakeep-app/karakeep
 
 #### Website templates
 
