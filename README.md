@@ -709,6 +709,7 @@
 - https://medium.com/@techworldwithmilan
 - Software architecture books (no download links) https://github.com/mhadidg/software-architecture-books
 - API design https://www.seangoedecke.com/good-api-design/
+- Generate architecture diagrams with prompts https://github.com/tt-a1i/archify
 
 #### Clean code
 
@@ -897,6 +898,7 @@
 - Proot Linux on Android phone https://github.com/mayukh4/linux-android
 - Database backup https://github.com/Skyfay/DBackup
 - Audio streaming in LAN https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop
+- Self-hosted watch prices https://github.com/jez500/pricebuddy
 
 #### Git
 
@@ -942,6 +944,7 @@
 - Hackernews hiring trends graph https://hnhiring.com/trends , repo https://github.com/jordinl/hnhiring
 - Excellent tech documentaries https://www.youtube.com/@Honeypotio/videos
 - Excellent markdown CV builder https://github.com/BingyanStudio/LapisCV
+- Jobs with relocation https://github.com/AndrewStetsenko/tech-jobs-with-relocation
 
 #### Personal branding
 
