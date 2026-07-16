@@ -896,6 +896,7 @@
   - Borgmatic yaml https://github.com/borgmatic-collective/borgmatic, https://github.com/borgmatic-collective/docker-borgmatic
 - Proot Linux on Android phone https://github.com/mayukh4/linux-android
 - Database backup https://github.com/Skyfay/DBackup
+- Audio streaming in LAN https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop
 
 #### Git
 
