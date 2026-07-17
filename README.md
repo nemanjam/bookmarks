@@ -351,6 +351,7 @@
 - Another https://github.com/streamich/react-use
 - ShadCN tutorial https://github.com/vercel/components.build
 - Embed video component https://github.com/sampotts/plyr
+- Excellent design https://www.youtube.com/@codewithsadee/videos, https://github.com/codewithsadee
 
 #### Next.js
 
@@ -486,6 +487,7 @@
 - React, Mongo, socket.io chat https://github.com/yinxin630/fiora/
 - Excellent self-hosted Instagram clone https://github.com/foldergram/foldergram
 - Full stack Next.js, Drizzle https://github.com/karakeep-app/karakeep
+- Excellent design https://github.com/codewithsadee/vcard-personal-portfolio, https://github.com/codewithsadee/portfolio, https://github.com/codewithsadee/anon-ecommerce-website
 
 #### Website templates
 
