@@ -901,6 +901,7 @@
 - Database backup https://github.com/Skyfay/DBackup
 - Audio streaming in LAN https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop
 - Self-hosted watch prices https://github.com/jez500/pricebuddy
+- Linux on Android phone https://github.com/orailnoor/DroidDesk
 
 #### Git
 
