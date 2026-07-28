@@ -219,6 +219,7 @@
 - Ts guy skills https://github.com/mattpocock/skills
 - Test if website is agent-ready https://isitagentready.com, https://x.com/mgechev/status/2045189000550555705
 - Links collection https://github.com/shanraisshan/claude-code-best-practice
+- Agents book https://github.com/evoiz/Agentic-Design-Patterns/
 
 #### Links
 
@@ -904,6 +905,9 @@
 - Audio streaming in LAN https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop
 - Self-hosted watch prices https://github.com/jez500/pricebuddy
 - Linux on Android phone https://github.com/orailnoor/DroidDesk
+- Self hosted Youtube https://github.com/Chocobozzz/PeerTube
+- Self hosted Twitch streaming https://github.com/owncast/owncast
+- Excellent list of self-hosted apps https://github.com/Buage/SelfHostList
 
 #### Git
 
