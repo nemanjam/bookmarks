@@ -758,6 +758,7 @@
 - ML projects list https://github.com/lukasmasuch/best-of-ml-python
 - Google, enforce up to date web dev skills https://github.com/GoogleChrome/modern-web-guidance-src
 - AI lessons https://github.com/rohitg00/ai-engineering-from-scratch
+- Excellent 3 months AI fundamentals course https://github.com/microsoft/AI-For-Beginners
 
 ---
 
