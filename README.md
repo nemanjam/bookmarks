@@ -811,6 +811,7 @@
 - Iptables and more https://iximiuz.com/en/series/computer-networking-fundamentals/
 - Proxy lists by country https://github.com/proxifly/free-proxy-list
 - Open source Tailscale https://github.com/netbirdio/netbird, https://github.com/juanfont/headscale
+- WIreguard UI https://github.com/gravitl/netmaker
 
 #### Homelab
 
