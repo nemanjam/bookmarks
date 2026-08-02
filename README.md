@@ -247,6 +247,7 @@
 - starred repos https://github.com/pontusab?tab=stars
 - Github profiles Readmes examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - SSH https://github.com/moul/awesome-ssh?tab=readme-ov-file
+- List of tech Youtube channels https://github.com/JoseDeFreitas/awesome-youtubers
 
 #### Showoff projects
 
