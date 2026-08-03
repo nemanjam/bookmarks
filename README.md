@@ -100,6 +100,7 @@
 - React and Rails tutorials https://blog.rstankov.com/
 - Infrastructure https://punits.dev/
 - Vercel community https://www.pawlean.com/vault
+- React articles https://meetantonija.com/posts?page=1
 
 #### Cheatsheets
 
