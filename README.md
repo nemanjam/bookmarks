@@ -913,6 +913,7 @@
 - Self hosted Youtube https://github.com/Chocobozzz/PeerTube
 - Self hosted Twitch streaming https://github.com/owncast/owncast
 - Excellent list of self-hosted apps https://github.com/Buage/SelfHostList
+- SSL dashboard https://github.com/7ritn/VaulTLS
 
 #### Git
 
