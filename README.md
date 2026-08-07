@@ -542,6 +542,7 @@
 - Nice components (former NextUI) https://github.com/heroui-inc/heroui
 - Open source design system https://github.com/Chainlift/liftkit
 - Design systems list https://github.com/alexpate/awesome-design-systems/
+- Design system tutorial https://upskills.dev/tutorials/react-design-systems
 
 ---
 
