@@ -126,6 +126,7 @@
 - Http in detail https://http.dev
 - Phone app cheatsheet for all languages https://github.com/ivansaul/cheat-sheets
 - Laws of software engineering https://lawsofsoftwareengineering.com/
+- Roadmap guy quick video lessons https://www.instagram.com/nilbuild
 
 #### Utils
 
