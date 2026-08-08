@@ -101,6 +101,7 @@
 - Infrastructure https://punits.dev/
 - Vercel community https://www.pawlean.com/vault
 - React articles https://meetantonija.com/posts?page=1
+- Roadmap gy blog https://kamran.fyi/posts
 
 #### Cheatsheets
 
@@ -1040,3 +1041,4 @@
 - Tech tweets, Indian https://x.com/ujjwalscript/articles
 - Swiss, DockTail https://github.com/marvinvr
 - Chinese, Vercel, Next.js, SWR, Satori https://github.com/shuding, https://shud.in/
+- Roadmap guy https://github.com/nilbuild, https://kamran.fyi/posts, https://youtube.com/@nilbuild
