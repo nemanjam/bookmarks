@@ -915,6 +915,8 @@
 - Self hosted Twitch streaming https://github.com/owncast/owncast
 - Excellent list of self-hosted apps https://github.com/Buage/SelfHostList
 - SSL dashboard https://github.com/7ritn/VaulTLS
+- Ready to use Traefik VPS https://github.com/MightyMoud/sidekick
+- Remote and local https url for dev server https://github.com/nilbuild/slim
 
 #### Git
 
