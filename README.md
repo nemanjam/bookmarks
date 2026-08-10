@@ -991,6 +991,7 @@
 - Marketeer with websites https://kaplich.me/projects, https://github.com/sergeykaplich
 - Scrape Facebook pages https://github.com/kevinzg/facebook-scraper
 - Web entrepreneur https://stevehanov.ca/blog
+- Romanian Saas builder https://www.youtube.com/@bitheap-tech, https://x.com/Bitheap_tech
 
 #### Interviews
 
