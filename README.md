@@ -204,6 +204,7 @@
 - Share files p2p, self-hosted https://github.com/polius/FileSync/, https://filesync.app/
 - Android microphone, Linux, Windows, Mac https://github.com/teamclouday/AndroidMic
 - Android webcam, Windows only https://github.com/darusc/VCamdroid
+- Compress video in browser, ffmpeg wasm, slower https://github.com/pranavp10/video-compress/
 
 #### LLM
 
