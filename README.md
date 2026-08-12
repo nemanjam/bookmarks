@@ -920,6 +920,8 @@
 - Ready to use Traefik VPS https://github.com/MightyMoud/sidekick
 - Remote and local https url for dev server https://github.com/nilbuild/slim
 - Turn Android phone into Linux server https://news.ycombinator.com/item?id=49226636, https://seg6.space/posts/phone-server/
+- Instagram from folder, very cool https://github.com/foldergram/foldergram
+- Self-host images https://github.com/immich-app/immich/
 
 #### Git
 
