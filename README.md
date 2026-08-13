@@ -287,6 +287,7 @@
   - https://lobste.rs/
   - https://jimmyr.com/
 - AI powered, self-hosted aggregator with demo https://github.com/Thysrael/Horizon
+- Most popular "Show HN:" threads https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=show%20hn&sort=byPopularity&type=story
 
 ---
 
