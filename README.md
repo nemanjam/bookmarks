@@ -206,6 +206,7 @@
 - Android webcam, Windows only https://github.com/darusc/VCamdroid
 - Compress video in browser, ffmpeg wasm, slower https://github.com/pranavp10/video-compress/
 - Skill for drawing diagrams https://github.com/cathrynlavery/diagram-design
+- Google trends for Hackernews https://hackernewstrends.com/
 
 #### LLM
 
