@@ -784,6 +784,7 @@
 - Dokku alternative https://github.com/zane-ops/zane-ops
 - Dokku alternative with UI https://github.com/rodyherrera/Quantum
 - Nginx config web generator https://github.com/digitalocean/nginxconfig.io
+- Build iOS apps in Github Actions https://github.com/MobAI-App/ios-builder
 
 #### Docker
 
@@ -923,6 +924,8 @@
 - Turn Android phone into Linux server https://news.ycombinator.com/item?id=49226636, https://seg6.space/posts/phone-server/
 - Instagram from folder, very cool https://github.com/foldergram/foldergram
 - Self-host images https://github.com/immich-app/immich/
+- Publish stream to Youtube https://github.com/AlexxIT/go2rtc
+- IPTV player Linux Mint https://github.com/linuxmint/hypnotix
 
 #### Git
 
