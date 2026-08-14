@@ -499,6 +499,7 @@
 - Excellent self-hosted Instagram clone https://github.com/foldergram/foldergram
 - Full stack Next.js, Drizzle https://github.com/karakeep-app/karakeep
 - Excellent design https://github.com/codewithsadee/vcard-personal-portfolio, https://github.com/codewithsadee/portfolio, https://github.com/codewithsadee/anon-ecommerce-website
+- Armin Ronacher Python static websites https://github.com/mitsuhiko/lucumr
 
 #### Website templates
 
