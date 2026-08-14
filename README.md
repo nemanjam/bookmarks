@@ -208,6 +208,7 @@
 - Skill for drawing diagrams https://github.com/cathrynlavery/diagram-design
 - Google trends for Hackernews https://hackernewstrends.com/
 - Search locked accounts on Reddit https://search.pullpush.io/
+- Compress video on Android https://github.com/JoshAtticus/Compressor
 
 #### LLM
 
