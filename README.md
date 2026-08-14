@@ -207,6 +207,7 @@
 - Compress video in browser, ffmpeg wasm, slower https://github.com/pranavp10/video-compress/
 - Skill for drawing diagrams https://github.com/cathrynlavery/diagram-design
 - Google trends for Hackernews https://hackernewstrends.com/
+- Search locked accounts on Reddit https://search.pullpush.io/
 
 #### LLM
 
