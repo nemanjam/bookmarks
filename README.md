@@ -933,6 +933,7 @@
 - Self-host images https://github.com/immich-app/immich/
 - Publish stream to Youtube https://github.com/AlexxIT/go2rtc
 - IPTV player Linux Mint https://github.com/linuxmint/hypnotix
+- Remove duplicate files https://github.com/zen-logic/file-hunter
 
 #### Git
 
