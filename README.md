@@ -678,6 +678,7 @@
   - https://www.youtube.com/@TensorProgramming
   - https://www.youtube.com/@noboilerplate
   - https://www.youtube.com/@fasterthanlime
+  - https://www.youtube.com/@JeremyChone/videos
 - Roadmap https://roadmap.sh/rust, https://roadmap.sh/pdfs/roadmaps/rust.pdf
 - Rust blog and resources https://corrode.dev/, https://github.com/mre
 
