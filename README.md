@@ -772,6 +772,7 @@
 - Google, enforce up to date web dev skills https://github.com/GoogleChrome/modern-web-guidance-src
 - AI lessons https://github.com/rohitg00/ai-engineering-from-scratch
 - Excellent 3 months AI fundamentals course https://github.com/microsoft/AI-For-Beginners
+- AI agents design pdf book https://github.com/bojieli/ai-agent-book/blob/main/docs/en/README.md
 
 ---
 
