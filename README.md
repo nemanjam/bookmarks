@@ -650,7 +650,7 @@
 - FastApi, Astro blog https://fastro.ai/blog
 - Exceptions handling package https://github.com/akutayural/APIException/
 - FastAPI architecture docs https://fastkit.org/docs/fastkit-core/, https://fastkit.org/docs/fastkit-cli/, https://github.com/fastkit-org/fastkit-core, https://github.com/fastkit-org/fastkit-cli
-- FastApi playlist, Corey Schafer https://www.youtube.com/playlist?list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI, https://github.com/CoreyMSchafer/FastAPI-01-Getting-Started
+- FastApi playlist, Corey Schafer https://www.youtube.com/playlist?list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI, https://github.com/CoreyMSchafer/FastAPI-01-Getting-Started, https://github.com/CoreyMSchafer/FastAPI-Full-Course
 
 #### C\#
 
