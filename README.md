@@ -647,6 +647,7 @@
   - simple, minimal, Sqlmodel orm https://github.com/testdrivenio/fastapi-sqlmodel-alembic
   - small, hackernews https://github.com/innovatorved/whisper.api
   - check again from linkedin https://www.linkedin.com/feed/update/urn:li:activity:7133510378793144320 https://github.com/hamedasgari20/fastapi-tutorial https://github.com/hamedasgari20/Python-Django-FastAPI-advanced-topics#fastapi-related-topics https://github.com/hamedasgari20/todoapp-with-FastAPI
+  - Corey Schafer blog app, SqlAlchemy, Jinja JS frontend, primitive https://github.com/CoreyMSchafer/FastAPI-Full-Course, https://www.youtube.com/playlist?list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI
 - FastApi, Astro blog https://fastro.ai/blog
 - Exceptions handling package https://github.com/akutayural/APIException/
 - FastAPI architecture docs https://fastkit.org/docs/fastkit-core/, https://fastkit.org/docs/fastkit-cli/, https://github.com/fastkit-org/fastkit-core, https://github.com/fastkit-org/fastkit-cli
