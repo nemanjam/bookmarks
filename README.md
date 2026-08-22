@@ -992,6 +992,7 @@
   - 230 companies https://github.com/lukasz-madon/awesome-remote-job#companies-with-remote-dna
   - 250 european companies https://github.com/EuropeanRemote/european-remote-software-companies
   - 3 years old list of 1000 companies https://github.com/ineelhere/remote-jobs-resources
+  - 150 open source companies https://github.com/timqian/open-source-jobs
 
 #### Personal branding
 
