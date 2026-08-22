@@ -684,6 +684,7 @@
   - https://www.youtube.com/@JeremyChone/videos
 - Roadmap https://roadmap.sh/rust, https://roadmap.sh/pdfs/roadmaps/rust.pdf
 - Rust blog and resources https://corrode.dev/, https://github.com/mre
+- Exercises https://github.com/mainmatter/100-exercises-to-learn-rust, https://rust-exercises.com/100-exercises/
 
 #### Golang
 
