@@ -1019,6 +1019,7 @@
 - Scrape Facebook pages https://github.com/kevinzg/facebook-scraper
 - Web entrepreneur https://stevehanov.ca/blog
 - Romanian Saas builder https://www.youtube.com/@bitheap-tech, https://x.com/Bitheap_tech
+- Sideproject guide https://github.com/timqian/sideproject.guide
 
 #### Interviews
 
@@ -1071,3 +1072,4 @@
 - Swiss, DockTail https://github.com/marvinvr
 - Chinese, Vercel, Next.js, SWR, Satori https://github.com/shuding, https://shud.in/
 - Roadmap guy https://github.com/nilbuild, https://kamran.fyi/posts, https://youtube.com/@nilbuild
+- HN trends author, Chinese charts websites https://github.com/timqian
