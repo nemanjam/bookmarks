@@ -675,7 +675,7 @@
 - docs https://doc.rust-lang.org/nightly/reference/index.html
 - links https://github.com/ctjhoa/rust-learning
 - https://google.github.io/comprehensive-rust/
-- Rust Youtube channel https://www.youtube.com/@letsgetrusty
+- Rust Youtube channel https://www.youtube.com/@letsgetrusty, playlist https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
 - Other Rust Youtube channels:
   - Main one https://www.youtube.com/@jonhoo
   - https://www.youtube.com/@chrisbiscardi
