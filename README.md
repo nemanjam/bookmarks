@@ -687,6 +687,10 @@
 - Rust blog and resources https://corrode.dev/, https://github.com/mre
 - Exercises https://github.com/mainmatter/100-exercises-to-learn-rust, https://rust-exercises.com/100-exercises/
 - Lets get Rusty cheatsheet https://github.com/rustaccato/road-to-being-master-rustacean/blob/main/Lets%20Get%20Rusty%20Cheat%20Sheet.pdf
+- Rust books
+- List https://github.com/sger/RustBooks
+- The Rust book (docs) https://doc.rust-lang.org/book/
+- Rust by example https://doc.rust-lang.org/rust-by-example/
 
 #### Golang
 
