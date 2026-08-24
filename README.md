@@ -693,6 +693,7 @@
   - The Rust book (docs) https://doc.rust-lang.org/book/
   - Rust by example https://doc.rust-lang.org/rust-by-example/
 - Excellent basic syntax cheatsheet article https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+- Excellent https://github.com/microsoft/RustTraining/, https://microsoft.github.io/RustTraining/
 
 #### Golang
 
