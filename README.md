@@ -230,6 +230,7 @@
 - Test if website is agent-ready https://isitagentready.com, https://x.com/mgechev/status/2045189000550555705
 - Links collection https://github.com/shanraisshan/claude-code-best-practice
 - Agents book https://github.com/evoiz/Agentic-Design-Patterns/
+- Claude design skills https://github.com/plugin87/ux-ui-agent-skills
 
 #### Links
 
@@ -947,6 +948,7 @@
 - Publish stream to Youtube https://github.com/AlexxIT/go2rtc
 - IPTV player Linux Mint https://github.com/linuxmint/hypnotix
 - Remove duplicate files https://github.com/zen-logic/file-hunter
+- Linux on rooted Android https://github.com/ravindu644/Droidspaces-OSS
 
 #### Git
 
