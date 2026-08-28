@@ -713,6 +713,7 @@
 - Roadmap https://roadmap.sh/golang, https://roadmap.sh/pdfs/roadmaps/golang.pdf
 - Book https://github.com/teivah/100-go-mistakes/, https://100go.co/
 - Crash course playlist https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
+- Go skills https://github.com/JetBrains/go-modern-guidelines
 
 #### Databases
 
