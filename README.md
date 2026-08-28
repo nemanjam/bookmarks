@@ -998,7 +998,7 @@
 - Jobs with relocation https://github.com/AndrewStetsenko/tech-jobs-with-relocation
 - Remote companies lists:
   - Outdated website with 882 companies list https://remoteintech.company/companies/, https://github.com/remoteintech/remote-jobs
-  - 60 companies https://github.com/yanirs/established-remote
+  - 60 companies, good, relevant list https://github.com/yanirs/established-remote
   - 230 companies https://github.com/lukasz-madon/awesome-remote-job#companies-with-remote-dna
   - 250 european companies https://github.com/EuropeanRemote/european-remote-software-companies
   - 3 years old list of 1000 companies https://github.com/ineelhere/remote-jobs-resources
