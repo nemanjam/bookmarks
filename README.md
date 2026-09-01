@@ -835,6 +835,7 @@
 - DevOps blog https://bobbyiliev.com/posts/
 - Windows in Docker https://github.com/scottyhardy/docker-wine
 - Windows in containers https://github.com/kernalix7/winpodx
+- Run MacOS x86 apps on Linux https://github.com/darlinghq/darling
 
 #### Networks
 
