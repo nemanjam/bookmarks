@@ -834,6 +834,7 @@
 - Introduction to Bash Scripting - excellent book and video tutorial https://github.com/bobbyiliev/introduction-to-bash-scripting, https://www.youtube.com/playlist?list=PLY7SzAmnEqp78tsHh1kK0gOx_f-uwQZAT
 - DevOps blog https://bobbyiliev.com/posts/
 - Windows in Docker https://github.com/scottyhardy/docker-wine
+- Windows in containers https://github.com/kernalix7/winpodx
 
 #### Networks
 
