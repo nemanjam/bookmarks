@@ -231,6 +231,7 @@
 - Links collection https://github.com/shanraisshan/claude-code-best-practice
 - Agents book https://github.com/evoiz/Agentic-Design-Patterns/
 - Claude design skills https://github.com/plugin87/ux-ui-agent-skills
+- Claude roadmap https://github.com/luongnv89/claude-howto
 
 #### Links
 
