@@ -695,6 +695,7 @@
   - Rust by example https://doc.rust-lang.org/rust-by-example/
 - Excellent basic syntax cheatsheet article https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - Excellent https://github.com/microsoft/RustTraining/, https://microsoft.github.io/RustTraining/
+- Google Rust styleguide https://google.github.io/styleguide/rustguide.html
 
 #### Golang
 
