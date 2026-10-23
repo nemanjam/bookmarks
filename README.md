@@ -129,6 +129,7 @@
 - Laws of software engineering https://lawsofsoftwareengineering.com/
 - Roadmap guy quick video lessons https://www.instagram.com/nilbuild
 - 50 cheatsheets https://devsheets.io/
+- Excellent Google styleguides: Typescript, Rust, Go, etc. https://github.com/google/styleguide
 
 #### Utils
 
@@ -717,6 +718,7 @@
 - Crash course playlist https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
 - Go skills https://github.com/JetBrains/go-modern-guidelines
 - Go, Svelte self-hosted jobs aggregator project https://github.com/strelov1/freehire
+- Google Go styleguide https://google.github.io/styleguide/go/
 
 #### Databases
 
