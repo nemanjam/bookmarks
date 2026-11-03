@@ -530,6 +530,7 @@
 - Excellent list of Astro, Next.js and ShadCN templates https://www.astrothemes.dev/, https://nexttemplates.dev/, https://shadcntemplates.com/
 - Huge list of linked templates https://www.builtatlightspeed.com/
 - Themes inspiration https://themefisher.com/
+- Excellent, clean, academic template https://github.com/academicpages/academicpages.github.io, theme https://github.com/mmistakes/minimal-mistakes, from here https://rikiyat.github.io/, https://github.com/RikiyaT/RikiyaT.github.io
 
 #### Design
 
